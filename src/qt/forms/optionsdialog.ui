@@ -33,7 +33,7 @@
           <string>Automatically start Proton Core after logging in to the system.</string>
          </property>
          <property name="text">
-          <string>&amp;Start Reef Core on system login</string>
+          <string>&amp;Start Adzcoin Core on system login</string>
          </property>
         </widget>
        </item>
@@ -253,7 +253,7 @@
             <string notr="true"/>
            </property>
            <property name="text">
-            <string>Amount of Reef to keep anonymized</string>
+            <string>Amount of Adzcoin to keep anonymized</string>
            </property>
           </widget>
          </item>

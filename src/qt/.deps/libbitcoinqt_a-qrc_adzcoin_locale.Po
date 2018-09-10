@@ -1,1 +1,0 @@
-qt/libbitcoinqt_a-qrc_adzcoin_locale.o: qt/qrc_adzcoin_locale.cpp

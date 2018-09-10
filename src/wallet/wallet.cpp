@@ -2114,13 +2114,13 @@ void CWallet::AvailableCoins(vector<COutput>& vCoins, bool fOnlyConfirmed, const
                 if(nCoinType == ONLY_DENOMINATED) {
                     found = IsDenominatedAmount(pcoin->vout[i].nValue);
                 } else if(nCoinType == ONLY_NOT5000IFMN) {
-                    found = !(fMasterNode && pcoin->vout[i].nValue == 500000*COIN);
+                    found = !(fMasterNode && pcoin->vout[i].nValue == MASTERNODE_COLLATERAL);
                 } else if(nCoinType == ONLY_NONDENOMINATED_NOT5000IFMN) {
                     if (IsCollateralAmount(pcoin->vout[i].nValue)) continue; // do not use collateral amounts
                     found = !IsDenominatedAmount(pcoin->vout[i].nValue);
-                    if(found && fMasterNode) found = pcoin->vout[i].nValue != 500000*COIN; // do not use Hot MN funds
+                    if(found && fMasterNode) found = pcoin->vout[i].nValue != MASTERNODE_COLLATERAL; // do not use Hot MN funds
                 } else if(nCoinType == ONLY_5000) {
-                    found = pcoin->vout[i].nValue == 500000*COIN;
+                    found = pcoin->vout[i].nValue == MASTERNODE_COLLATERAL;
                 } else if(nCoinType == ONLY_PRIVATESEND_COLLATERAL) {
                     found = IsCollateralAmount(pcoin->vout[i].nValue);
                 } else {
