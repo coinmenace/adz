@@ -145,7 +145,7 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x00000f27bd42306ee2f582232a7fce3815c32a1f950d6d7f52ad2bbc560c2e66"));
         assert(genesis.hashMerkleRoot == uint256S("0xf852a09b11789c212e4915da0010c2f261214cd8993e55bae5edc04f31f764a9"));
 
-
+/**
         vSeeds.push_back(CDNSSeedData("seed1", "seed1.cryptolife.net"));
         vSeeds.push_back(CDNSSeedData("seed2", "seed2.cryptolife.net"));
         vSeeds.push_back(CDNSSeedData("seed3", "46.28.107.182"));
@@ -155,6 +155,12 @@ public:
         vSeeds.push_back(CDNSSeedData("seed7", "5.189.167.223"));
         vSeeds.push_back(CDNSSeedData("seed8", "136.243.50.159"));
         vSeeds.push_back(CDNSSeedData("seed9", "104.131.171.212"));
+        */
+            vSeeds.push_back(CDNSSeedData("seed9", "194.88.105.45"));
+            vSeeds.push_back(CDNSSeedData("seed9", "192.99.224.33"));
+            vSeeds.push_back(CDNSSeedData("seed9", "176.31.255.12"));
+            vSeeds.push_back(CDNSSeedData("seed9", "204.16.247.51"));
+            vSeeds.push_back(CDNSSeedData("seed9", "185.52.3.247"));
 
 	
 	   // Adzcoin addresses start with 'R'
@@ -177,7 +183,7 @@ public:
         fRequireStandard = true;
         fMineBlocksOnDemand = false;
         fTestnetToBeDeprecatedFieldRPC = false;
-
+        startMasternodeBlock = 500000;
         nPoolMaxTransactions = 3;
         nFulfilledRequestExpireTime = 60*60; // fulfilled requests expire in 1 hour
         strSporkPubKey = "04d9491a6cf40a2afaf51de3939eadca259a95843b637f82c772a5719bc64051409031803a1c33f1f9b14c24a2d6937fe5b76ffa99a9730aa27726f9934cabf7f4";
@@ -193,7 +199,7 @@ public:
         };
 
         //founders reward address
-        vFoundersRewardAddress = {
+        vDevRewardAddress = {
 
         };
     }
@@ -428,8 +434,8 @@ void SelectParams(const std::string& network)
 }
 
 
-CScript CChainParams::getFoundersAddress(const std::string& foundersaddress){
-CBitcoinAddress address = CBitcoinAddress(foundersaddress);
+CScript CChainParams::getDevAddress(const std::string& devaddress){
+CBitcoinAddress address = CBitcoinAddress(devaddress);
 // if (!address.IsValid())
 //     throw JSONRPCError(RPC_INVALID_ADDRESS_OR_KEY, "Invalid Adzcoin address");
  CScript scriptPubKey = GetScriptForDestination(address.Get());
@@ -437,15 +443,15 @@ CBitcoinAddress address = CBitcoinAddress(foundersaddress);
     return scriptPubKey;
 }
 
-// Block height must be >0 and <=last founders reward block height
-// The founders reward address is expected to be a multisig (P2SH) address
-CScript CChainParams::GetFoundersRewardScript() const {
+// Block height must be >0 and <=last dev reward block height
+// The developer reward address is expected to be a multisig (P2SH) address
+CScript CChainParams::GetDevRewardScript() const {
 
     CBitcoinAddress address;
 if(Params().strNetworkID=="test"){
-     address = CBitcoinAddress("RjBesHbKrQH9hpkxFVmiWGzgyTbjBCxPng");
+     address = CBitcoinAddress("9FrHio14Xx1Y7b8TcSvGQTuruTkLc49QrY");
 }else {
-     address = CBitcoinAddress("RRC9f8j1UQ423o1YSvrdYGg1yGsVedy4QY");
+     address = CBitcoinAddress("9FrHio14Xx1Y7b8TcSvGQTuruTkLc49QrY");
 }
 // if (!address.IsValid())
 //     throw JSONRPCError(RPC_INVALID_ADDRESS_OR_KEY, "Invalid Adzcoin address");

@@ -286,6 +286,7 @@ void CMasternodeSync::ProcessTick()
     // INITIAL SYNC SETUP / LOG REPORTING
     double nSyncProgress = double(nRequestedMasternodeAttempt + (nRequestedMasternodeAssets - 1) * 8) / (8*4);
     LogPrintf("CMasternodeSync::ProcessTick -- nTick %d nRequestedMasternodeAssets %d nRequestedMasternodeAttempt %d nSyncProgress %f\n", nTick, nRequestedMasternodeAssets, nRequestedMasternodeAttempt, nSyncProgress);
+    LogPrintf("CMasternodeSync::ProcessTick  1\n");
     uiInterface.NotifyAdditionalDataSyncProgressChanged(nSyncProgress);
 
     // sporks synced but blockchain is not, wait until we're almost at a recent block to continue
@@ -298,23 +299,24 @@ void CMasternodeSync::ProcessTick()
         nTimeLastGovernanceItem = GetTime();
         return;
     }
-
+    LogPrintf("CMasternodeSync::ProcessTick  2\n");
     if(nRequestedMasternodeAssets == MASTERNODE_SYNC_INITIAL ||
         (nRequestedMasternodeAssets == MASTERNODE_SYNC_SPORKS && IsBlockchainSynced()))
     {
         SwitchToNextAsset();
     }
-
+    LogPrintf("CMasternodeSync::ProcessTick  3\n");
     std::vector<CNode*> vNodesCopy = CopyNodeVector();
 
     BOOST_FOREACH(CNode* pnode, vNodesCopy)
     {
+        LogPrintf("CMasternodeSync::ProcessTick  4\n");
         // Don't try to sync any data from outbound "masternode" connections -
         // they are temporary and should be considered unreliable for a sync process.
         // Inbound connection this early is most likely a "masternode" connection
         // initialted from another node, so skip it too.
         if(pnode->fMasternode || (fMasterNode && pnode->fInbound)) continue;
-
+        LogPrintf("CMasternodeSync::ProcessTick  5\n");
         // QUICK MODE (REGTEST ONLY!)
         if(Params().NetworkIDString() == CBaseChainParams::REGTEST)
         {
@@ -333,9 +335,10 @@ void CMasternodeSync::ProcessTick()
             ReleaseNodeVector(vNodesCopy);
             return;
         }
-
+        LogPrintf("CMasternodeSync::ProcessTick  6\n");
         // NORMAL NETWORK MODE - TESTNET/MAINNET
         {
+            LogPrintf("CMasternodeSync::ProcessTick  7\n");
             if(netfulfilledman.HasFulfilledRequest(pnode->addr, "full-sync")) {
                 // We already fully synced from this node recently,
                 // disconnect to free this connection slot for another peer.
@@ -345,7 +348,7 @@ void CMasternodeSync::ProcessTick()
             }
 
             // SPORK : ALWAYS ASK FOR SPORKS AS WE SYNC (we skip this mode now)
-
+            LogPrintf("CMasternodeSync::ProcessTick  8\n");
             if(!netfulfilledman.HasFulfilledRequest(pnode->addr, "spork-sync")) {
                 // only request once from each peer
                 netfulfilledman.AddFulfilledRequest(pnode->addr, "spork-sync");
@@ -356,9 +359,10 @@ void CMasternodeSync::ProcessTick()
             }
 
             // MNLIST : SYNC MASTERNODE LIST FROM OTHER CONNECTED CLIENTS
-
+            LogPrintf("CMasternodeSync::ProcessTick  9\n");
             if(nRequestedMasternodeAssets == MASTERNODE_SYNC_LIST) {
                 LogPrint("masternode", "CMasternodeSync::ProcessTick -- nTick %d nRequestedMasternodeAssets %d nTimeLastMasternodeList %lld GetTime() %lld diff %lld\n", nTick, nRequestedMasternodeAssets, nTimeLastMasternodeList, GetTime(), GetTime() - nTimeLastMasternodeList);
+                LogPrintf("CMasternodeSync::ProcessTick  10\n");
                 // check for timeout first
                 if(nTimeLastMasternodeList < GetTime() - MASTERNODE_SYNC_TIMEOUT_SECONDS) {
                     LogPrintf("CMasternodeSync::ProcessTick -- nTick %d nRequestedMasternodeAssets %d -- timeout\n", nTick, nRequestedMasternodeAssets);
@@ -373,11 +377,11 @@ void CMasternodeSync::ProcessTick()
                     ReleaseNodeVector(vNodesCopy);
                     return;
                 }
-
+                LogPrintf("CMasternodeSync::ProcessTick  11\n");
                 // only request once from each peer
                 if(netfulfilledman.HasFulfilledRequest(pnode->addr, "masternode-list-sync")) continue;
                 netfulfilledman.AddFulfilledRequest(pnode->addr, "masternode-list-sync");
-
+                LogPrintf("CMasternodeSync::ProcessTick -- ERROR: PNode Version %s Min Masternode Payments %s\n", pnode->nVersion,mnpayments.GetMinMasternodePaymentsProto());
                 if (pnode->nVersion < mnpayments.GetMinMasternodePaymentsProto()) continue;
                 nRequestedMasternodeAttempt++;
 
@@ -386,7 +390,7 @@ void CMasternodeSync::ProcessTick()
                 ReleaseNodeVector(vNodesCopy);
                 return; //this will cause each peer to get one request each six seconds for the various assets we need
             }
-
+            LogPrintf("CMasternodeSync::ProcessTick  12\n");
             // MNW : SYNC MASTERNODE PAYMENT VOTES FROM OTHER CONNECTED CLIENTS
 
             if(nRequestedMasternodeAssets == MASTERNODE_SYNC_MNW) {
@@ -433,7 +437,7 @@ void CMasternodeSync::ProcessTick()
                 ReleaseNodeVector(vNodesCopy);
                 return; //this will cause each peer to get one request each six seconds for the various assets we need
             }
-
+            LogPrintf("CMasternodeSync::ProcessTick  13\n");
             // GOVOBJ : SYNC GOVERNANCE ITEMS FROM OUR PEERS
 
             if(nRequestedMasternodeAssets == MASTERNODE_SYNC_GOVERNANCE) {

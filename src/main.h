@@ -260,7 +260,7 @@ double ConvertBitsToDouble(unsigned int nBits);
 CAmount GetBlockReward(int nHeight);
 CAmount GetBlockSubsidy(int nBits, int nHeight, const Consensus::Params& consensusParams, bool fSuperblockPartOnly = false);
 CAmount GetMasternodePayment(int nHeight, CAmount blockValue);
-CAmount GetFoundersReward(int nHeight);
+CAmount GetDevReward(int nHeight);
 
 /**
  * Prune block and undo files (blk???.dat and undo???.dat) so that the disk space used is less than a user-defined target.

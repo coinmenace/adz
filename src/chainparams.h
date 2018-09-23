@@ -81,12 +81,13 @@ public:
     const CCheckpointData& Checkpoints() const { return checkpointData; }
     int PoolMaxTransactions() const { return nPoolMaxTransactions; }
     int FulfilledRequestExpireTime() const { return nFulfilledRequestExpireTime; }
+    int getStartMasternodeBlockHeight() const { return startMasternodeBlock; }
     std::string SporkPubKey() const { return strSporkPubKey; }
     std::string MasternodePaymentPubKey() const { return strMasternodePaymentsPubKey; }
     /** Return the founder's reward address and script for a given block height */
     std::string GetFoundersRewardAddressAtHeight(int height) const;
-    CScript getFoundersAddress(const std::string& foundersaddress);
-    CScript GetFoundersRewardScript() const;
+    CScript getDevAddress(const std::string& devaddress);
+    CScript GetDevRewardScript() const;
     //CTxDestination DecodeDestination(const std::string& str) const;
     //CTxDestination DecodeDestination(const std::string& str, const CChainParams& params) const;
     //bool IsValidDestination(const CTxDestination& dest);
@@ -111,11 +112,12 @@ protected:
     bool fMineBlocksOnDemand;
     bool fTestnetToBeDeprecatedFieldRPC;
     CCheckpointData checkpointData;
+    int startMasternodeBlock;
     int nPoolMaxTransactions;
     int nFulfilledRequestExpireTime;
     std::string strSporkPubKey;
     std::string strMasternodePaymentsPubKey;
-    std::vector<std::string> vFoundersRewardAddress;
+    std::vector<std::string> vDevRewardAddress;
 };
 
 /**

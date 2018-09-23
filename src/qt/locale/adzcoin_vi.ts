@@ -62,12 +62,12 @@
         <translation>Địa chỉ nhận</translation>
     </message>
     <message>
-        <source>These are your Adzcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Đây là các địa chỉ Adzcoin của bạn để gửi thanh toán. Luôn luôn kiểm tra số tiền và địa chỉ nhận trước khi bạn gửi tiền.</translation>
+        <source>These are your Adz addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Đây là các địa chỉ Adz của bạn để gửi thanh toán. Luôn luôn kiểm tra số tiền và địa chỉ nhận trước khi bạn gửi tiền.</translation>
     </message>
     <message>
-        <source>These are your Adzcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Đây là các địa chỉ Adzcoin của bạn để nhận thanh toán. Gợi ý là sử dụng một địa chỉ nhận mới cho mỗi giao dịch.</translation>
+        <source>These are your Adz addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Đây là các địa chỉ Adz của bạn để nhận thanh toán. Gợi ý là sử dụng một địa chỉ nhận mới cho mỗi giao dịch.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Xác nhận mã hoá ví</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Adzcoin&lt;/b&gt;!</source>
-        <translation>Chú ý: Nếu bạn mã hoá ví và mất mật khẩu, bạn sẽ &lt;b&gt;MẤT TẤT CẢ Adzcoin CỦA BẠN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Adz&lt;/b&gt;!</source>
+        <translation>Chú ý: Nếu bạn mã hoá ví và mất mật khẩu, bạn sẽ &lt;b&gt;MẤT TẤT CẢ Adz CỦA BẠN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Hãy nhập vào mật khẩu cũ và mật khẩu mới cho ví của bạn.</translation>
     </message>
     <message>
-        <source>Adzcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
-        <translation>Adzcoin Core sẽ được đóng lại để hoàn thành quá trình mã hoá. Hãy nhớ rằng mã hoá ví của bạn không thể hoàn toàn bảo vệ Adzcoin của bạn khỏi bị ăn cắp bởi việc máy tính của bạn nhiễm mã độc.</translation>
+        <source>Adz Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
+        <translation>Adz Core sẽ được đóng lại để hoàn thành quá trình mã hoá. Hãy nhớ rằng mã hoá ví của bạn không thể hoàn toàn bảo vệ Adz của bạn khỏi bị ăn cắp bởi việc máy tính của bạn nhiễm mã độc.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -242,8 +242,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adzcoin Core</source>
-        <translation>Adzcoin Core</translation>
+        <source>Adz Core</source>
+        <translation>Adz Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -266,16 +266,16 @@
         <translation>&amp;Gửi</translation>
     </message>
     <message>
-        <source>Send coins to a Adzcoin address</source>
-        <translation>Gửi tiền vào địa chỉ Adzcoin</translation>
+        <source>Send coins to a Adz address</source>
+        <translation>Gửi tiền vào địa chỉ Adz</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
         <translation>&amp;Nhận</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Adzcoin: URIs)</source>
-        <translation>Yêu cầu thanh toán (sinh mã QR và Adzcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and Adz: URIs)</source>
+        <translation>Yêu cầu thanh toán (sinh mã QR và Adz: URIs)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -302,12 +302,12 @@
         <translation>Thoát ứng dụng</translation>
     </message>
     <message>
-        <source>&amp;About Adzcoin Core</source>
-        <translation>&amp;Về Adzcoin Core</translation>
+        <source>&amp;About Adz Core</source>
+        <translation>&amp;Về Adz Core</translation>
     </message>
     <message>
-        <source>Show information about Adzcoin Core</source>
-        <translation>Hiển thị thông tin về Adzcoin Core</translation>
+        <source>Show information about Adz Core</source>
+        <translation>Hiển thị thông tin về Adz Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -370,16 +370,16 @@
         <translation>Ký vào &amp;thông điệp...</translation>
     </message>
     <message>
-        <source>Sign messages with your Adzcoin addresses to prove you own them</source>
-        <translation>Ký vào thông điệp với địa chỉ Adzcoin để chứng minh bạn là chủ của chúng</translation>
+        <source>Sign messages with your Adz addresses to prove you own them</source>
+        <translation>Ký vào thông điệp với địa chỉ Adz để chứng minh bạn là chủ của chúng</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Kiểm tra thông điệp...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Adzcoin addresses</source>
-        <translation>Kiểm tra thông điệp để đảm bảo rằng nó đã được ký bằng địa chỉ Adzcoin nhất định</translation>
+        <source>Verify messages to ensure they were signed with specified Adz addresses</source>
+        <translation>Kiểm tra thông điệp để đảm bảo rằng nó đã được ký bằng địa chỉ Adz nhất định</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -454,16 +454,16 @@
         <translation>Mở &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a Adzcoin: URI or payment request</source>
-        <translation>Mở một Adzcoin: URI hoặc một yêu cầu thanh toán</translation>
+        <source>Open a Adz: URI or payment request</source>
+        <translation>Mở một Adz: URI hoặc một yêu cầu thanh toán</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Các Tuỳ chọn dòng lệnh</translation>
     </message>
     <message>
-        <source>Adzcoin Core client</source>
-        <translation>Phần mềm Adzcoin Core</translation>
+        <source>Adz Core client</source>
+        <translation>Phần mềm Adz Core</translation>
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
@@ -490,8 +490,8 @@
         <translation>Bảng Thanh công cụ</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Adzcoin network</source>
-        <translation><numerusform>%n kết nối hiện thời tới mạng lưới của Adzcoin</numerusform></translation>
+        <source>%n active connection(s) to Adz network</source>
+        <translation><numerusform>%n kết nối hiện thời tới mạng lưới của Adz</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -518,8 +518,8 @@
         <translation><numerusform>%n giờ</numerusform></translation>
     </message>
     <message>
-        <source>Modify configuration options for Adzcoin Core</source>
-        <translation>Thay đổi các tuỳ chọn cấu hình cho Adzcoin Core</translation>
+        <source>Modify configuration options for Adz Core</source>
+        <translation>Thay đổi các tuỳ chọn cấu hình cho Adz Core</translation>
     </message>
     <message>
         <source>Open Wallet &amp;Configuration File</source>
@@ -534,8 +534,8 @@
         <translation>Mở file cấu hình Masternode</translation>
     </message>
     <message>
-        <source>Show the Adzcoin Core help message to get a list with possible Adzcoin Core command-line options</source>
-        <translation>Hiển thị thông tin hướng dẫn Adzcoin Core để lấy một danh sách các tuỳ chọn dòng lệnh có thể dùng với Adzcoin Core</translation>
+        <source>Show the Adz Core help message to get a list with possible Adz Core command-line options</source>
+        <translation>Hiển thị thông tin hướng dẫn Adz Core để lấy một danh sách các tuỳ chọn dòng lệnh có thể dùng với Adz Core</translation>
     </message>
     <message>
         <source>&amp;PrivateSend information</source>
@@ -925,28 +925,28 @@
         <translation>Hãy chọn mức độ riêng tư.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 1000 Adzcoin</source>
-        <translation>Sử dụng 2 masternode khác nhau để trộn số tiền lên đến 1000 Adzcoin</translation>
+        <source>Use 2 separate masternodes to mix funds up to 1000 Adz</source>
+        <translation>Sử dụng 2 masternode khác nhau để trộn số tiền lên đến 1000 Adz</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 1000 Adzcoin</source>
-        <translation>Sử dụng 8 masternode khác nhau để trộn số tiền lên đến 1000 Adzcoin</translation>
+        <source>Use 8 separate masternodes to mix funds up to 1000 Adz</source>
+        <translation>Sử dụng 8 masternode khác nhau để trộn số tiền lên đến 1000 Adz</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Sử dụng 16 masternode khác nhau</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Adzcoin to anonymize 1000 Adzcoin</source>
-        <translation>Tuỳ chọn này là nhanh nhất và sẽ mất chi phí khoảng ~0.025 Adzcoin để ẩn danh 1000 Adzcoin</translation>
+        <source>This option is the quickest and will cost about ~0.025 Adz to anonymize 1000 Adz</source>
+        <translation>Tuỳ chọn này là nhanh nhất và sẽ mất chi phí khoảng ~0.025 Adz để ẩn danh 1000 Adz</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Adzcoin to anonymize 1000 Adzcoin</source>
-        <translation>Tuỳ chọn này là tương đối nhanh và sẽ mất chi phí khoảng ~0.05 Adzcoin để ẩn danh 1000 Adzcoin</translation>
+        <source>This option is moderately fast and will cost about 0.05 Adz to anonymize 1000 Adz</source>
+        <translation>Tuỳ chọn này là tương đối nhanh và sẽ mất chi phí khoảng ~0.05 Adz để ẩn danh 1000 Adz</translation>
     </message>
     <message>
-        <source>0.1 Adzcoin per 1000 Adzcoin you anonymize.</source>
-        <translation>0.1 Adzcoin cho mỗi 1000 Adzcoin bạn muốn ẩn danh.</translation>
+        <source>0.1 Adz per 1000 Adz you anonymize.</source>
+        <translation>0.1 Adz cho mỗi 1000 Adz bạn muốn ẩn danh.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -957,16 +957,16 @@
         <translation>Cấu hình của PrivateSend</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Adzcoin's configuration screen.</source>
-        <translation>PrivateSend đã được thiết lập thành công về mức cơ bản (%1 và 2 vòng). Bạn có thể thay đổi nó bất cứ thời gian nào bằng cách mở chức năng cấu hình của Adzcoin.</translation>
+        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Adz's configuration screen.</source>
+        <translation>PrivateSend đã được thiết lập thành công về mức cơ bản (%1 và 2 vòng). Bạn có thể thay đổi nó bất cứ thời gian nào bằng cách mở chức năng cấu hình của Adz.</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Adzcoin's configuration screen.</source>
-        <translation>PrivateSend đã được thiết lập thành công ở mức cao (%1 và 8 vòng). Bạn có thể thay đổi nó bất cứ lúc nào bằng cách mở chức năng cấu hình Adzcoin.</translation>
+        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Adz's configuration screen.</source>
+        <translation>PrivateSend đã được thiết lập thành công ở mức cao (%1 và 8 vòng). Bạn có thể thay đổi nó bất cứ lúc nào bằng cách mở chức năng cấu hình Adz.</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Adzcoin's configuration screen.</source>
-        <translation>PrivateSend đã được thiết lập thành công ở mức tối đa (%1 và 16 vòng). Bạn có thể thay đổi nó bất cứ thời gian nào bằng cách mở chức năng cấu hình của Adzcoin.</translation>
+        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Adz's configuration screen.</source>
+        <translation>PrivateSend đã được thiết lập thành công ở mức tối đa (%1 và 16 vòng). Bạn có thể thay đổi nó bất cứ thời gian nào bằng cách mở chức năng cấu hình của Adz.</translation>
     </message>
 </context>
 <context>
@@ -1008,8 +1008,8 @@
         <translation>Sửa địa chỉ gửi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adzcoin address.</source>
-        <translation>Địa chỉ vừa nhập "%1" không phải địa chỉ Adzcoin hợp lệ.</translation>
+        <source>The entered address "%1" is not a valid Adz address.</source>
+        <translation>Địa chỉ vừa nhập "%1" không phải địa chỉ Adz hợp lệ.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1050,8 +1050,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adzcoin Core</source>
-        <translation>Adzcoin Core</translation>
+        <source>Adz Core</source>
+        <translation>Adz Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1062,8 +1062,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Adzcoin Core</source>
-        <translation>Về Adzcoin Core</translation>
+        <source>About Adz Core</source>
+        <translation>Về Adz Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1098,8 +1098,8 @@
         <translation>Thông tin PrivateSend</translation>
     </message>
     <message>
-        <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Adzcoin in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an Adzcointive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 Adzcoin, 0.1 Adzcoin, 1 Adzcoin and 10 Adzcoin -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-        <translation>&lt;h3&gt;Cơ bản về PrivateSend&lt;/h3&gt; PrivateSend cho bạn sự thực sự riêng tư về tài chính bằng việc che dấu những nguồn cung. Tất cả Adzcoin trong ví của bạn bao gồm những "nguồn" khác nhau mà bạn nghĩ đó là các coin riêng biệt và rời rạc.&lt;br&gt; PrivateSend sử dụng một tiến trình độc đáo để trộn các đầu vào của bạn với đầu vào của những người khác, mà không làm cho các coin rời khỏi ví của bạn. Bạn vẫn giữ quyền kiểm soát tiền của bạn bất cứ lúc nào..&lt;hr&gt; &lt;b&gt;Quá trình PrivateSend làm việc như sau: &lt;/b&gt; &lt;ol type="1"&gt; &lt;li&gt;PrivateSend bắt đầu bằng việc chia các giao dịch đầu vào của bạn thành những mệnh giá chuẩn. Những mệnh giá đó là 0.01 Adzcoin, 0.1 Adzcoin, 1 Adzcoin, và 10 Adzcoin -- cũng giống như các mệnh giá trên tiền giấy mà bạn sử dụng hàng ngày.&lt;li&gt; &lt;li&gt;Ví của bạn sau đó gửi yêu cầu đến những nút phần mềm được cấu hình đặc biệt trên mạng gọi là các "masternode". Những masternode được báo rằng bạn quan tâm đến việc xáo trộn một mệnh giá nào đó. Không có thông tin định danh nào được gửi đến cho các masternode, và như vậy họ không bao giờ biết bạn "là ai".&lt;/li&gt; &lt;li&gt;Khi hai người khác nhau gửi những thông điệp tương tự, có nghĩa là họ muốn xáo trộn cùng loại mệnh giá, một phiên xáo trộn bắt đầu.Masternode xáo trộn các đầu vào và hướng dẫn tất cả ví của tất cả ba người dùng để trả đầu vào đã được chuyển đổi trở lại cho chính họ. Ví của bạn sẽ trả mệnh giá đó trực tiếp cho nó, nhưng với một địa chỉ khác (được gọi là địa chỉ trả tiền lẻ).&lt;/li&gt; &lt;/li&gt;Để thực sự che khuất nguồn tiền của bạn, ví của bạn phải lặp lại quy trình đó một số lần với mỗi mệnh giá nhất định. Mỗi lần tiến trình hoàn tất, nó được gọi là một "vòng". Mỗi vòng của PrivateSend làm nên độ khó bậc số mũ để xác định nguồn tiền của bạn đến từ đâu.&lt;/li&gt; &lt;li&gt;Quá trình xáo trộn này xảy ra trong chế độ nền mà không xen vào những việc khác của bạn. Khi bạn muốn làm một giao dịch, nguồn tiền của bạn đã được ẩn danh hoá rồi. Do đó bạn không cần phải đợi thêm gì nữa.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt; &lt;b&gt;QUAN TRỌNG:&lt;/b&gt; Ví của bạn chỉ có chứa 1000 "địa chỉ tiền trả lại". Mỗi lần một sự kiện xáo trộn xảy ra, có đến 9 địa chỉ sẽ được sử dụng. Điều đó có nghĩa với ví mới với 1000 địa chỉ thì dùng cho 100 lần trộn. Khi 900 địa chỉ đã được sử dụng, ví của bạn phải tạo thêm các địa chỉ mới. Nó chỉ có thể làm việc đó, tuy nhiên, nếu bạn có chế độ tự động backup được bật&lt;br&gt; Kết quả là, những người dùng mà chế độ backup bị tắt sẽ có chế độ PrivateSend cũng bị tắt.&lt;hr&gt; Để biết thêm thông tin hãy xem &lt;a href="https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;</translation>
+        <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Adz in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an Adzcointive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 Adz, 0.1 Adz, 1 Adz and 10 Adz -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
+        <translation>&lt;h3&gt;Cơ bản về PrivateSend&lt;/h3&gt; PrivateSend cho bạn sự thực sự riêng tư về tài chính bằng việc che dấu những nguồn cung. Tất cả Adz trong ví của bạn bao gồm những "nguồn" khác nhau mà bạn nghĩ đó là các coin riêng biệt và rời rạc.&lt;br&gt; PrivateSend sử dụng một tiến trình độc đáo để trộn các đầu vào của bạn với đầu vào của những người khác, mà không làm cho các coin rời khỏi ví của bạn. Bạn vẫn giữ quyền kiểm soát tiền của bạn bất cứ lúc nào..&lt;hr&gt; &lt;b&gt;Quá trình PrivateSend làm việc như sau: &lt;/b&gt; &lt;ol type="1"&gt; &lt;li&gt;PrivateSend bắt đầu bằng việc chia các giao dịch đầu vào của bạn thành những mệnh giá chuẩn. Những mệnh giá đó là 0.01 Adz, 0.1 Adz, 1 Adz, và 10 Adz -- cũng giống như các mệnh giá trên tiền giấy mà bạn sử dụng hàng ngày.&lt;li&gt; &lt;li&gt;Ví của bạn sau đó gửi yêu cầu đến những nút phần mềm được cấu hình đặc biệt trên mạng gọi là các "masternode". Những masternode được báo rằng bạn quan tâm đến việc xáo trộn một mệnh giá nào đó. Không có thông tin định danh nào được gửi đến cho các masternode, và như vậy họ không bao giờ biết bạn "là ai".&lt;/li&gt; &lt;li&gt;Khi hai người khác nhau gửi những thông điệp tương tự, có nghĩa là họ muốn xáo trộn cùng loại mệnh giá, một phiên xáo trộn bắt đầu.Masternode xáo trộn các đầu vào và hướng dẫn tất cả ví của tất cả ba người dùng để trả đầu vào đã được chuyển đổi trở lại cho chính họ. Ví của bạn sẽ trả mệnh giá đó trực tiếp cho nó, nhưng với một địa chỉ khác (được gọi là địa chỉ trả tiền lẻ).&lt;/li&gt; &lt;/li&gt;Để thực sự che khuất nguồn tiền của bạn, ví của bạn phải lặp lại quy trình đó một số lần với mỗi mệnh giá nhất định. Mỗi lần tiến trình hoàn tất, nó được gọi là một "vòng". Mỗi vòng của PrivateSend làm nên độ khó bậc số mũ để xác định nguồn tiền của bạn đến từ đâu.&lt;/li&gt; &lt;li&gt;Quá trình xáo trộn này xảy ra trong chế độ nền mà không xen vào những việc khác của bạn. Khi bạn muốn làm một giao dịch, nguồn tiền của bạn đã được ẩn danh hoá rồi. Do đó bạn không cần phải đợi thêm gì nữa.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt; &lt;b&gt;QUAN TRỌNG:&lt;/b&gt; Ví của bạn chỉ có chứa 1000 "địa chỉ tiền trả lại". Mỗi lần một sự kiện xáo trộn xảy ra, có đến 9 địa chỉ sẽ được sử dụng. Điều đó có nghĩa với ví mới với 1000 địa chỉ thì dùng cho 100 lần trộn. Khi 900 địa chỉ đã được sử dụng, ví của bạn phải tạo thêm các địa chỉ mới. Nó chỉ có thể làm việc đó, tuy nhiên, nếu bạn có chế độ tự động backup được bật&lt;br&gt; Kết quả là, những người dùng mà chế độ backup bị tắt sẽ có chế độ PrivateSend cũng bị tắt.&lt;hr&gt; Để biết thêm thông tin hãy xem &lt;a href="https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
@@ -1121,16 +1121,16 @@
         <translation>Chào mừng</translation>
     </message>
     <message>
-        <source>Welcome to Adzcoin Core.</source>
-        <translation>Chào mừng đến với Adzcoin Core.</translation>
+        <source>Welcome to Adz Core.</source>
+        <translation>Chào mừng đến với Adz Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adzcoin Core will store its data.</source>
-        <translation>Đây là lần đầu tiên chương trình được khởi động, bạn có thể chọn nơi mà Adzcoin Core sẽ lưu dữ liệu.</translation>
+        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
+        <translation>Đây là lần đầu tiên chương trình được khởi động, bạn có thể chọn nơi mà Adz Core sẽ lưu dữ liệu.</translation>
     </message>
     <message>
-        <source>Adzcoin Core will download and store a copy of the Adzcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Adzcoin Core sẽ tải và lưu một bản của sổ cái Adzcoin. Ít nhất %1GB dữ liệu sẽ được lưu trong thư mục này, và nó sẽ tăng lên theo thời gian. Ví của bạn cũng sẽ được lưu trong thư mục này.</translation>
+        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Adz Core sẽ tải và lưu một bản của sổ cái Adz. Ít nhất %1GB dữ liệu sẽ được lưu trong thư mục này, và nó sẽ tăng lên theo thời gian. Ví của bạn cũng sẽ được lưu trong thư mục này.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1141,8 +1141,8 @@
         <translation>Sử dụng thư mục dữ liệu tuỳ chọn:</translation>
     </message>
     <message>
-        <source>Adzcoin Core</source>
-        <translation>Adzcoin Core</translation>
+        <source>Adz Core</source>
+        <translation>Adz Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1330,20 +1330,20 @@
         <translation>(0 = tự động, &lt;0 = để đó rất nhiều lõi miễn phí)</translation>
     </message>
     <message>
-        <source>Amount of Adzcoin to keep anonymized</source>
-        <translation>Lượng Adzcoin muốn giữ vô danh</translation>
+        <source>Amount of Adz to keep anonymized</source>
+        <translation>Lượng Adz muốn giữ vô danh</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
         <translation>&amp;Ví</translation>
     </message>
     <message>
-        <source>Automatically start Adzcoin Core after logging in to the system.</source>
-        <translation>Tự động khởi động Adzcoin Core sau khi đăng nhập vào hệ thống.</translation>
+        <source>Automatically start Adz Core after logging in to the system.</source>
+        <translation>Tự động khởi động Adz Core sau khi đăng nhập vào hệ thống.</translation>
     </message>
     <message>
-        <source>&amp;Start Adzcoin Core on system login</source>
-        <translation>Khởi động Adzcoin Core khi đăng nhập hệ thống</translation>
+        <source>&amp;Start Adz Core on system login</source>
+        <translation>Khởi động Adz Core khi đăng nhập hệ thống</translation>
     </message>
     <message>
         <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
@@ -1390,8 +1390,8 @@
         <translation>Số lượng này hoạt động như là một ngưỡng để tắt PrivateSend khi nó được chạm tới.</translation>
     </message>
     <message>
-        <source>Automatically open the Adzcoin Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Tự động mở cổng cho phần mềm Adzcoin Core trên rounter. Điều này chỉ hoạt động được khi rounter của bạn hỗ trợ UpnP và tính năng đó được bật lên.</translation>
+        <source>Automatically open the Adz Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Tự động mở cổng cho phần mềm Adz Core trên rounter. Điều này chỉ hoạt động được khi rounter của bạn hỗ trợ UpnP và tính năng đó được bật lên.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1402,8 +1402,8 @@
         <translation>Cho phép các kết nối tới</translation>
     </message>
     <message>
-        <source>Connect to the Adzcoin network through a SOCKS5 proxy.</source>
-        <translation>Kết nối với mạng lưới Adzcoin thông qua một SOCK5 proxy.</translation>
+        <source>Connect to the Adz network through a SOCKS5 proxy.</source>
+        <translation>Kết nối với mạng lưới Adz thông qua một SOCK5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1414,8 +1414,8 @@
         <translation>Thu nhỏ thay vì thoát khỏi ứng dụng khi cửa sổ được đóng lại. Khi tuỳ chọn này được bật, ứng dụng sẽ được đóng chỉ sau khi chọn chức năng Thoát trên menu.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Adzcoin Core.</source>
-        <translation>Ngôn ngữa giao diện có thể được chọn ở đây. Tuỳ chọn này có tác dụng ngay sau khi bạn khởi động lại phần mềm Adzcoin Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Adz Core.</source>
+        <translation>Ngôn ngữa giao diện có thể được chọn ở đây. Tuỳ chọn này có tác dụng ngay sau khi bạn khởi động lại phần mềm Adz Core.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items.&lt;br/&gt;%s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1486,8 +1486,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Adzcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Kết nối với mạng lưới Adzcoin thông qua các proxy SOCKS5 riêng biệt cho các dịch vụ ẩn danh Tor.</translation>
+        <source>Connect to the Adz network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Kết nối với mạng lưới Adz thông qua các proxy SOCKS5 riêng biệt cho các dịch vụ ẩn danh Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1519,9 +1519,9 @@
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/projects/p/Adzcoin/</source>
+https://www.transifex.com/projects/p/Adz/</source>
         <translation>Ngôn ngữ ị thiếu hoặc việc dịch chưa hoàn tất? Tham gia dịch giúp tại đây:
-https://www.transifex.com/projects/p/Adzcoin/</translation>
+https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <source>User Interface Theme:</source>
@@ -1599,8 +1599,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Biểu mẫu</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Adzcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Thông tin được hiển thị có thể đã lỗi thời. Ví của bạn sẽ tự động đồng bộ với mạng lưới Adzcoin sau khi kết nối được thiết lập, tuy nhiên quá trình này chưa hoàn thành.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Adz network after a connection is established, but this process has not completed yet.</source>
+        <translation>Thông tin được hiển thị có thể đã lỗi thời. Ví của bạn sẽ tự động đồng bộ với mạng lưới Adz sau khi kết nối được thiết lập, tuy nhiên quá trình này chưa hoàn thành.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1699,8 +1699,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Số tiền và số vòng:</translation>
     </message>
     <message>
-        <source>0 Adzcoin / 0 Rounds</source>
-        <translation>0 Adzcoin / 0 Vòng</translation>
+        <source>0 Adz / 0 Rounds</source>
+        <translation>0 Adz / 0 Vòng</translation>
     </message>
     <message>
         <source>Submitted Denom:</source>
@@ -1868,8 +1868,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Yêu cầu thanh toán bị lỗi</translation>
     </message>
     <message>
-        <source>Cannot start Adzcoin: click-to-pay handler</source>
-        <translation>Không thể khởi động Adzcoin: trình xử lý click-to-pay</translation>
+        <source>Cannot start Adz: click-to-pay handler</source>
+        <translation>Không thể khởi động Adz: trình xử lý click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1892,8 +1892,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Địa chỉ thanh toán không hợp lệ %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adzcoin address or malformed URI parameters.</source>
-        <translation>URI không thể phân tích. Nó có thể bởi địa chỉ Adzcoin không hợp lệ hoặc thông số URI dị hình.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <translation>URI không thể phân tích. Nó có thể bởi địa chỉ Adz không hợp lệ hoặc thông số URI dị hình.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1974,8 +1974,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Số lượng</translation>
     </message>
     <message>
-        <source>Enter a Adzcoin address (e.g. %1)</source>
-        <translation>Hãy nhập một địa chỉ Adzcoin (VD: %1)</translation>
+        <source>Enter a Adz address (e.g. %1)</source>
+        <translation>Hãy nhập một địa chỉ Adz (VD: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2112,8 +2112,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Bộ nhớ sử dụng</translation>
     </message>
     <message>
-        <source>Open the Adzcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Mở file theo dõi lỗi Adzcoin Core từ trong thư mục dữ liệu hiện tại. Nó có thể mất vài giây cho những file log lớn.</translation>
+        <source>Open the Adz Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Mở file theo dõi lỗi Adz Core từ trong thư mục dữ liệu hiện tại. Nó có thể mất vài giây cho những file log lớn.</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -2320,8 +2320,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>&amp;Bỏ cấm Nút</translation>
     </message>
     <message>
-        <source>Welcome to the Adzcoin Core RPC console.</source>
-        <translation>Chào mừng đến với bảng điều khiển Adzcoin Core RPC</translation>
+        <source>Welcome to the Adz Core RPC console.</source>
+        <translation>Chào mừng đến với bảng điều khiển Adz Core RPC</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2391,8 +2391,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Tái &amp;sử dụng lại địa chỉ nhận đã có (không khuyến khích)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Adzcoin network.</source>
-        <translation>Một thông điệp tuỳ chọn để đính vào yêu cầu thanh toán, nó sẽ hiển thị khi yêu cầu được mở. Chú ý: Thông điệp sẽ không được gửi thông qua mạng lưới Adzcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Adz network.</source>
+        <translation>Một thông điệp tuỳ chọn để đính vào yêu cầu thanh toán, nó sẽ hiển thị khi yêu cầu được mở. Chú ý: Thông điệp sẽ không được gửi thông qua mạng lưới Adz.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2403,8 +2403,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Một nhãn tuỳ chọn để liên kết với địa chỉ nhận mới.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Adzcoin network.</source>
-        <translation>Một thông điệp tuỳ chọn để đính vào yêu cầu thanh toán, nó sẽ hiển thị khi yêu cầu được mở.&lt;br&gt;Chú ý: Thông điệp sẽ không được gửi thông qua mạng lưới Adzcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Adz network.</source>
+        <translation>Một thông điệp tuỳ chọn để đính vào yêu cầu thanh toán, nó sẽ hiển thị khi yêu cầu được mở.&lt;br&gt;Chú ý: Thông điệp sẽ không được gửi thông qua mạng lưới Adz.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2660,8 +2660,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Nếu phí giao dịch tuỳ chỉnh được đặt là 1000 duff và giao dịch chỉ có 250 bytes, thì "theo kilobyte" chỉ trả 250 duff phí,&lt;br /&gt;trong khi "tổng ít nhất" trả 1000 duff. Với các giao dịch lớn hơn 1 kilobyte thì cả hai đều trả theo kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Adzcoin transactions than the network can process.</source>
-        <translation>Chỉ trả phí tối thiểu cũng được chỉ khi mà có lượng giao dịch ít hơn không gian trong khối.&lt;br /&gt;Nhưng cần lưu ý là nó có thể xảy ra hiện tượng giao dịch không bao giờ được xác nhận một khi có nhiều nhu cầu giao Adzcoin hơn khả năng mà mạng lưới có thể xử lý được.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Adz transactions than the network can process.</source>
+        <translation>Chỉ trả phí tối thiểu cũng được chỉ khi mà có lượng giao dịch ít hơn không gian trong khối.&lt;br /&gt;Nhưng cần lưu ý là nó có thể xảy ra hiện tượng giao dịch không bao giờ được xác nhận một khi có nhiều nhu cầu giao Adz hơn khả năng mà mạng lưới có thể xử lý được.</translation>
     </message>
     <message>
         <source>per kilobyte</source>
@@ -2860,8 +2860,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Giao dịch đã bị từ chối! Điều này có thể xảy ra khi một số tiền trong ví của bạn đã được tiêu, ví dụ như là nếu bạn sử dụng một bản sao của wallet.dat và tiền đã được tiêu nhưng bản khác của ví nhưng lại chưa được đánh dấu đã tiêu trong bản này.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adzcoin address</source>
-        <translation>Cảnh báo: Địa chỉ Adzcoin không hợp lệ</translation>
+        <source>Warning: Invalid Adz address</source>
+        <translation>Cảnh báo: Địa chỉ Adz không hợp lệ</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2883,8 +2883,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Trả &amp;Cho</translation>
     </message>
     <message>
-        <source>The Adzcoin address to send the payment to</source>
-        <translation>Địa chỉ Adzcoin để gửi thanh toán</translation>
+        <source>The Adz address to send the payment to</source>
+        <translation>Địa chỉ Adz để gửi thanh toán</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2919,8 +2919,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>&amp;Số tiền:</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Adzcoin than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Phí sẽ được trừ trong khoản tiền mà bạn gửi. Bên nhận sẽ nhận được một khoản nhỏ hơn số Adzcoin mà bạn nhập vào ở trong trường số lượng. Nếu có nhiều người nhận được chọn, phí được chia đều cho mọi người.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Adz than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Phí sẽ được trừ trong khoản tiền mà bạn gửi. Bên nhận sẽ nhận được một khoản nhỏ hơn số Adz mà bạn nhập vào ở trong trường số lượng. Nếu có nhiều người nhận được chọn, phí được chia đều cho mọi người.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2931,8 +2931,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Thông điệp:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Adzcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Adzcoin network.</source>
-        <translation>Một thông điệp được đính với Adzcoin: URI đó sẽ được lưu trữ với các giao dịch cho các bạn tham khảo. Lưu ý: Thông điệp này sẽ không được gửi qua mạng Adzcoin. </translation>
+        <source>A message that was attached to the Adz: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Adz network.</source>
+        <translation>Một thông điệp được đính với Adz: URI đó sẽ được lưu trữ với các giao dịch cho các bạn tham khảo. Lưu ý: Thông điệp này sẽ không được gửi qua mạng Adz. </translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
@@ -2958,8 +2958,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adzcoin Core is shutting down...</source>
-        <translation>Adzcoin Core đang được tắt...</translation>
+        <source>Adz Core is shutting down...</source>
+        <translation>Adz Core đang được tắt...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2977,12 +2977,12 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>&amp;Ký thông điệp</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive Adzcoin sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Bạn có thể ký vào thông điệp/thoả thuận với địa chỉ của bạn để chứng minh bạn có thể nhận Adzcoin đã gửi cho họ. Hãy cẩn thận không ký vào những gì mơ hồ hay ngẫu nhiên, như là thứ lừa đảo để lừa bạn ký xác nhận của bạn vào đó cho họ. Chỉ ký vào những gì mà bạn hoàn thoàn đồng ý.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive Adz sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Bạn có thể ký vào thông điệp/thoả thuận với địa chỉ của bạn để chứng minh bạn có thể nhận Adz đã gửi cho họ. Hãy cẩn thận không ký vào những gì mơ hồ hay ngẫu nhiên, như là thứ lừa đảo để lừa bạn ký xác nhận của bạn vào đó cho họ. Chỉ ký vào những gì mà bạn hoàn thoàn đồng ý.</translation>
     </message>
     <message>
-        <source>The Adzcoin address to sign the message with</source>
-        <translation>Địa chỉ Adzcoin để ký cho thông điệp</translation>
+        <source>The Adz address to sign the message with</source>
+        <translation>Địa chỉ Adz để ký cho thông điệp</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3013,8 +3013,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Copy chữ ký hiện tại vào bộ đệm của hệ thống</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adzcoin address</source>
-        <translation>Ký vào thông điệp để chứng tỏ bạn sở hữu địa chỉ Adzcoin</translation>
+        <source>Sign the message to prove you own this Adz address</source>
+        <translation>Ký vào thông điệp để chứng tỏ bạn sở hữu địa chỉ Adz</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3037,12 +3037,12 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Hãy nhập vào địa chỉ của người nhận, thông điệp (hãy đảm bảo rằng bạn copy cả dấu xuống dòng, dấu cách, dấu tab,... một cách chính xác) và chữ ký bên dưới để kiểm tra thông điệp. Hãy cẩn thận để không đọc thêm vào phần chữ ký mà nó dùng để ký, để tránh bị đánh lừa bởi kiểu tấn công người trung gian. Chú ý đây chỉ để chứng minh chữ ký của bên nhận với địa chỉ đó, nó không thể chứng minh người gửi hoặc bất kỳ giao dich nào!</translation>
     </message>
     <message>
-        <source>The Adzcoin address the message was signed with</source>
-        <translation>Địa chỉ Adzcoin mà thông điệp được ký bởi</translation>
+        <source>The Adz address the message was signed with</source>
+        <translation>Địa chỉ Adz mà thông điệp được ký bởi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adzcoin address</source>
-        <translation>Kiểm tra lại thông điệp để đảm bảo rằng nó được ký với địa chỉ Adzcoin cụ thể</translation>
+        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <translation>Kiểm tra lại thông điệp để đảm bảo rằng nó được ký với địa chỉ Adz cụ thể</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3108,8 +3108,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adzcoin Core</source>
-        <translation>Adzcoin Core</translation>
+        <source>Adz Core</source>
+        <translation>Adz Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3120,8 +3120,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Nhóm phát triển Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Adzcoin Core developers</source>
-        <translation>Nhóm phát triển Adzcoin Core</translation>
+        <source>The Adz Core developers</source>
+        <translation>Nhóm phát triển Adz Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3632,8 +3632,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Gửi tiền</translation>
     </message>
     <message>
-        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 Adzcoin.</source>
-        <translation>InstantSend không hỗ trợ gửi giá trị lớn đến vậy. Các giao dịch hiện giới hạn với %1 Adzcoin.</translation>
+        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 Adz.</source>
+        <translation>InstantSend không hỗ trợ gửi giá trị lớn đến vậy. Các giao dịch hiện giới hạn với %1 Adz.</translation>
     </message>
     <message>
         <source>Used way too many inputs (&gt;%1) for this InstantSend transaction, fees could be huge.</source>
@@ -3680,14 +3680,14 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
     </message>
 </context>
 <context>
-    <name>Adzcoin-core</name>
+    <name>Adz-core</name>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
         <translation>Liên kết với địa chỉ nhất định và luôn luôn lắng nghe trên đó. Sử dụng ký hiệu [host]:port cho IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adzcoin Core is probably already running.</source>
-        <translation>Không nhận được một khoá trong thư mục %s. Adzcoin Core có thể đã đang chạy.</translation>
+        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
+        <translation>Không nhận được một khoá trong thư mục %s. Adz Core có thể đã đang chạy.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -3726,8 +3726,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Đây là phiên bản chưa chính thức - hãy dùng và tự chấp nhận mạo hiểm - đừng dùng để đào coin hoặc các ứng dụng thương mại.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adzcoin Core is probably already running.</source>
-        <translation>Không thể để ràng buộc vào %s trên máy tính này. Adzcoin Core có thể đã chạy.</translation>
+        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
+        <translation>Không thể để ràng buộc vào %s trên máy tính này. Adz Core có thể đã chạy.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3962,8 +3962,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Sản phẩm này có kèm theo phần mềm được phát triển bởi dự án OpenSSL để sử dụng các công cụ OpenSSL &lt;https://www.openssl.org/&gt; và phần mềm mã hoá được viết bởi Eric Young và phần mềm UPnP được viết bởi Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 Adzcoin.</source>
-        <translation>Không tìm được đủ ngân sách cho giao dịch mà nó không đủ 1000 Adzcoin.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 1000 Adz.</source>
+        <translation>Không tìm được đủ ngân sách cho giao dịch mà nó không đủ 1000 Adz.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4006,8 +4006,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Bản quyền (C) 2009-%i bởi Nhóm phát triển Bitcoin Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adzcoin Core Developers</source>
-        <translation>Bản quyền (C) 2014-%i bởi Nhóm phát triển Adzcoin Core</translation>
+        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
+        <translation>Bản quyền (C) 2014-%i bởi Nhóm phát triển Adz Core</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -4018,8 +4018,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Lỗi kết nối tới Masternode.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adzcoin Core</source>
-        <translation>Lỗi nạp wallet.dat: Ví cần một phiên bản mới hơn của Adzcoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
+        <translation>Lỗi nạp wallet.dat: Ví cần một phiên bản mới hơn của Adz Core</translation>
     </message>
     <message>
         <source>Found enough users, signing ( waiting %s )</source>
@@ -4062,8 +4062,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Thông tin</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adzcoin Core is shutting down.</source>
-        <translation>Khởi tạo việc kiểm tra tính đúng đắn thất bại. Adzcoin Core đang được tắt.</translation>
+        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
+        <translation>Khởi tạo việc kiểm tra tính đúng đắn thất bại. Adz Core đang được tắt.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4294,8 +4294,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Giá trị lớn hơn giá trị tối đa mà PrivateSend pool cho phép.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adzcoin Core to complete</source>
-        <translation>Ví cần được ghi lại: khởi động lại Adzcoin Core để hoàn tất</translation>
+        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
+        <translation>Ví cần được ghi lại: khởi động lại Adz Core để hoàn tất</translation>
     </message>
     <message>
         <source>Will retry...</source>
@@ -4338,16 +4338,16 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Khoá KeePassHttp cho liên lạc mã hoá AES với KeePass</translation>
     </message>
     <message>
-        <source>Keep N Adzcoin anonymized (default: %u)</source>
-        <translation>Giữ N Adzcoin đã được ẩn danh (ngầm định: %u)</translation>
+        <source>Keep N Adz anonymized (default: %u)</source>
+        <translation>Giữ N Adz đã được ẩn danh (ngầm định: %u)</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
         <translation>Giữ nhiều nhất &lt;n&gt; các giao dịch không kết nối được trong bộ nhớ (ngầm định: %u)</translation>
     </message>
     <message>
-        <source>Disable all Adzcoin specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
-        <translation>Tắt tất cả các chức năng đắc trưng của Adzcoin (Masternode, PrivateSend, InstantSend, Governance) (0-1, ngầm định: %u)</translation>
+        <source>Disable all Adz specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
+        <translation>Tắt tất cả các chức năng đắc trưng của Adz (Masternode, PrivateSend, InstantSend, Governance) (0-1, ngầm định: %u)</translation>
     </message>
     <message>
         <source>Discover own IP addresses (default: 1 when listening and no -externalip or -proxy)</source>
@@ -4398,8 +4398,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Nếu &lt;category&gt; không được cung cấp hoặc nếu &lt;category&gt; = 1, xuất tất cả các thông tin gỡ lỗi.</translation>
     </message>
     <message>
-        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 Adzcoin.</source>
-        <translation>InstantSend chưa hỗ trợ việc gửi những giá trị lớn như vậy. Các giao dịch hiện tại bị giới hạn đến %1 Adzcoin.</translation>
+        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 Adz.</source>
+        <translation>InstantSend chưa hỗ trợ việc gửi những giá trị lớn như vậy. Các giao dịch hiện tại bị giới hạn đến %1 Adz.</translation>
     </message>
     <message>
         <source>InstantSend requires inputs with at least %d confirmations, you might need to wait a few minutes and try again.</source>
@@ -4426,8 +4426,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Tổng phí tối đa (trong %s) để sử dụng trong một giao dịch đơn; thiết lập tham số này quá thấp có thể khiến bỏ qua những giao dịch lớn (ngầm định: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Adzcoin Core will not work properly.</source>
-        <translation>Hãy kiểm tra ngày giờ trên máy tính của bạn để đảm bảo chúng được chính xác. Nếu đồng hồ của bạn không đúng Adzcoin Core sẽ hoạt động không chính xác.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
+        <translation>Hãy kiểm tra ngày giờ trên máy tính của bạn để đảm bảo chúng được chính xác. Nếu đồng hồ của bạn không đúng Adz Core sẽ hoạt động không chính xác.</translation>
     </message>
     <message>
         <source>PrivateSend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -4486,8 +4486,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Không tìm đủ nguồn tiền PrivateSend denominated cho giao dịch này.</translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 Adzcoin.</source>
-        <translation>Không thể tìm thấy đủ nguồn chưa phân mệnh giá PrivateSend cho giao dịch này mà nó không bằng 1000 Adzcoin.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 Adz.</source>
+        <translation>Không thể tìm thấy đủ nguồn chưa phân mệnh giá PrivateSend cho giao dịch này mà nó không bằng 1000 Adz.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

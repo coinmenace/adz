@@ -290,16 +290,16 @@ void CMasternodePayments::FillBlockPayee(CMutableTransaction& txNew, int nBlockH
     // ... and masternode
     txoutMasternodeRet = CTxOut(masternodePayment, payee);
     txNew.vout.push_back(txoutMasternodeRet);
-    //pay founders reward
-    //if ((nBlockHeight > 0) && (nBlockHeight <= Params().GetConsensus().GetLastFoundersRewardBlockHeight())) {
-    if ((masternodePayment > 0)) {
+    //pay developer reward
+    if ((nBlockHeight > 0)  ) {
+
         // Founders reward is 10% of the block subsidy
-        //auto vFoundersReward = GetFoundersReward(nBlockHeight);
+        auto vDeveloperReward = GetDevReward(nBlockHeight);
         // Take some reward away from us
-       // txNew.vout[0].nValue -= vFoundersReward;
+        txNew.vout[0].nValue -= vDeveloperReward;
 
         // And give it to the founders
-        //txNew.vout.push_back(CTxOut(vFoundersReward, Params().GetFoundersRewardScript()));
+        txNew.vout.push_back(CTxOut(vDeveloperReward, Params().GetDevRewardScript()));
     }
 
     CTxDestination address1;

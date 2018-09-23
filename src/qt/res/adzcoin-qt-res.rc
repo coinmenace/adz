@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Adzcoin"
-            VALUE "FileDescription",    "Adzcoin Core (GUI node for Adzcoin)"
+            VALUE "CompanyName",        "Adz core"
+            VALUE "FileDescription",    "Adz Core (GUI node for Adzcoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "adzcoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "adzcoin-qt.exe"
-            VALUE "ProductName",        "Adzcoin Core"
+            VALUE "ProductName",        "Adz Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

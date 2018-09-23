@@ -286,24 +286,7 @@ CBlockTemplate* CreateNewBlock(const CChainParams& chainparams, const CScript& s
         // Compute regular coinbase transaction.
         txNew.vout[0].nValue = blockReward;
         txNew.vin[0].scriptSig = CScript() << nHeight << OP_0;
-        //pay founders reward
-        //if ((nHeight > 0) && (nHeight <= Params().GetConsensus().GetLastFoundersRewardBlockHeight())) {
-        if(Params().NetworkIDString() =="test") {
-            printf("Testnet: Block %d",pindexPrev->nHeight);
-            printf("Testnet: Block reward %d",blockReward);
-        }
-        if (blockReward > 0) {
-            if(Params().NetworkIDString() =="test") {
-                printf("Testnet: Founders reward applied");
-            }
-            // Founders reward is 10% of the block subsidy
-            //auto vFoundersReward = GetFoundersReward(pindexPrev->nHeight);
-            // Take some reward away from us
-            //txNew.vout[0].nValue -= vFoundersReward;
 
-            // And give it to the founders
-            //txNew.vout.push_back(CTxOut(vFoundersReward, chainparams.GetFoundersRewardScript()));
-        }
 
 
         // Update coinbase transaction with additional info about masternode and governance payments,
@@ -312,7 +295,7 @@ CBlockTemplate* CreateNewBlock(const CChainParams& chainparams, const CScript& s
 
         nLastBlockTx = nBlockTx;
         nLastBlockSize = nBlockSize;
-        LogPrintf("CreateNewBlock(): total size %u txs: %u fees: %ld sigops %d\n", nBlockSize, nBlockTx, nFees, nBlockSigOps);
+        LogPrintf("CreateNewBlock(): block total size %u txs: %u fees: %ld sigops %d\n", nBlockSize, nBlockTx, nFees, nBlockSigOps);
 
         // Update block coinbase
         pblock->vtx[0] = txNew;

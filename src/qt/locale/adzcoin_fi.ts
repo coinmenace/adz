@@ -62,12 +62,12 @@
         <translation>Vastaanottava osoite</translation>
     </message>
     <message>
-        <source>These are your Adzcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat Adzcoin osoitteesi maksujen lähetykseen. Tarkista aina lähetettävä määrä ja vastaanottajan osoite ennen kuin lähetät varoja.</translation>
+        <source>These are your Adz addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat Adz osoitteesi maksujen lähetykseen. Tarkista aina lähetettävä määrä ja vastaanottajan osoite ennen kuin lähetät varoja.</translation>
     </message>
     <message>
-        <source>These are your Adzcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat Adzcoin osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin siirtotapahtumalle.</translation>
+        <source>These are your Adz addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat Adz osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin siirtotapahtumalle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,7 +172,7 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Adzcoin&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Adz&lt;/b&gt;!</source>
         <translation>Varoitus: Jos salaat lompakon ja unohdat salasanan, &lt;b&gt;MENETÄT KAIKKI Adzcoinisi&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -188,8 +188,8 @@
         <translation>Anna lompakon vanha ja uusi salasana.</translation>
     </message>
     <message>
-        <source>Adzcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
-        <translation>Adzcoin Core sulkeutuu nyt salauksen viimeistelyä varten. Muista että salaus pelkästään ei voi estää Adzcoiniesi varastamista jos koneesi saastuu haittaohjelmilla tai viruksilla.</translation>
+        <source>Adz Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
+        <translation>Adz Core sulkeutuu nyt salauksen viimeistelyä varten. Muista että salaus pelkästään ei voi estää Adzcoiniesi varastamista jos koneesi saastuu haittaohjelmilla tai viruksilla.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -242,8 +242,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adzcoin Core</source>
-        <translation>Adzcoin Core</translation>
+        <source>Adz Core</source>
+        <translation>Adz Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -266,16 +266,16 @@
         <translation>L&amp;ähetä</translation>
     </message>
     <message>
-        <source>Send coins to a Adzcoin address</source>
-        <translation>Lähetä varoja Adzcoin osoitteeseen</translation>
+        <source>Send coins to a Adz address</source>
+        <translation>Lähetä varoja Adz osoitteeseen</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
         <translation>&amp;Vastaanota</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Adzcoin: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja Adzcoin: URIt)</translation>
+        <source>Request payments (generates QR codes and Adz: URIs)</source>
+        <translation>Pyydä maksuja (Luo QR koodit ja Adz: URIt)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -302,12 +302,12 @@
         <translation>Sulje ohjelma</translation>
     </message>
     <message>
-        <source>&amp;About Adzcoin Core</source>
-        <translation>Tietoja &amp;Adzcoin Core:sta</translation>
+        <source>&amp;About Adz Core</source>
+        <translation>Tietoja &amp;Adz Core:sta</translation>
     </message>
     <message>
-        <source>Show information about Adzcoin Core</source>
-        <translation>Näytä tietoja Adzcoin Core:sta</translation>
+        <source>Show information about Adz Core</source>
+        <translation>Näytä tietoja Adz Core:sta</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -327,7 +327,7 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Adzcoin pääikkuna</translation>
+        <translation>Näytä tai piilota Adz pääikkuna</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
@@ -370,16 +370,16 @@
         <translation>&amp;Allekirjoita Viesti...</translation>
     </message>
     <message>
-        <source>Sign messages with your Adzcoin addresses to prove you own them</source>
-        <translation>Allekirjoita viestit Adzcoin osoitteillasi todistaaksesi että omistat ne</translation>
+        <source>Sign messages with your Adz addresses to prove you own them</source>
+        <translation>Allekirjoita viestit Adz osoitteillasi todistaaksesi että omistat ne</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Tarkista Viesti...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Adzcoin addresses</source>
-        <translation>Tarkista viestit ollaksesi varma että ne on allekirjoitettu määritetyillä Adzcoin osoitteilla</translation>
+        <source>Verify messages to ensure they were signed with specified Adz addresses</source>
+        <translation>Tarkista viestit ollaksesi varma että ne on allekirjoitettu määritetyillä Adz osoitteilla</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -454,16 +454,16 @@
         <translation>Avaa &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a Adzcoin: URI or payment request</source>
-        <translation>Avaa Adzcoin: URI tai maksupyyntö</translation>
+        <source>Open a Adz: URI or payment request</source>
+        <translation>Avaa Adz: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Adzcoin Core client</source>
-        <translation>Adzcoin Core asiakasohjelma</translation>
+        <source>Adz Core client</source>
+        <translation>Adz Core asiakasohjelma</translation>
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
@@ -490,8 +490,8 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Adzcoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys Adzcoin verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Adzcoin verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Adz network</source>
+        <translation><numerusform>%n aktiivinen yhteys Adz verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Adz verkkoon</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -518,8 +518,8 @@
         <translation><numerusform>%n tunti</numerusform><numerusform>%n tuntia</numerusform></translation>
     </message>
     <message>
-        <source>Modify configuration options for Adzcoin Core</source>
-        <translation>Muuta Adzcoin Core asetuksia</translation>
+        <source>Modify configuration options for Adz Core</source>
+        <translation>Muuta Adz Core asetuksia</translation>
     </message>
     <message>
         <source>Open Wallet &amp;Configuration File</source>
@@ -534,8 +534,8 @@
         <translation>Avaa Masternode asetustiedosto</translation>
     </message>
     <message>
-        <source>Show the Adzcoin Core help message to get a list with possible Adzcoin Core command-line options</source>
-        <translation>Näytä Adzcoin Core ohjelista komentorivin valinnoista</translation>
+        <source>Show the Adz Core help message to get a list with possible Adz Core command-line options</source>
+        <translation>Näytä Adz Core ohjelista komentorivin valinnoista</translation>
     </message>
     <message>
         <source>&amp;PrivateSend information</source>
@@ -925,11 +925,11 @@
         <translation>Valitse yksityisyyden taso.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 1000 Adzcoin</source>
+        <source>Use 2 separate masternodes to mix funds up to 1000 Adz</source>
         <translation>Käytä 2 erillistä masternodea sekoittaaksesi varoja</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 1000 Adzcoin</source>
+        <source>Use 8 separate masternodes to mix funds up to 1000 Adz</source>
         <translation>Käytä 8 erillistä masternodea sekoittaaksesi varoja</translation>
     </message>
     <message>
@@ -937,16 +937,16 @@
         <translation>Käytä 16 erillistä masternodea</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Adzcoin to anonymize 1000 Adzcoin</source>
-        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 Adzcoin kun anonymisoidaan 1000 Adzcoin</translation>
+        <source>This option is the quickest and will cost about ~0.025 Adz to anonymize 1000 Adz</source>
+        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 Adz kun anonymisoidaan 1000 Adz</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Adzcoin to anonymize 1000 Adzcoin</source>
-        <translation>Tämä vaihtoehto on keskinopea ja maksaa noin ~0.05 Adzcoin kun anonymisoidaan 1000 Adzcoin</translation>
+        <source>This option is moderately fast and will cost about 0.05 Adz to anonymize 1000 Adz</source>
+        <translation>Tämä vaihtoehto on keskinopea ja maksaa noin ~0.05 Adz kun anonymisoidaan 1000 Adz</translation>
     </message>
     <message>
-        <source>0.1 Adzcoin per 1000 Adzcoin you anonymize.</source>
-        <translation>0.1 Adzcoin maksu per 1000 Adzcoin jonka anonymisoit.</translation>
+        <source>0.1 Adz per 1000 Adz you anonymize.</source>
+        <translation>0.1 Adz maksu per 1000 Adz jonka anonymisoit.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -957,16 +957,16 @@
         <translation>PrivateSend Asetukset</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Adzcoin's configuration screen.</source>
-        <translation>PrivateSend on asetettu perusasetuksiin (%1 and 2 kierrosta). Voit muuttaa asetuksia milloin vain Adzcoin asetuksista.</translation>
+        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Adz's configuration screen.</source>
+        <translation>PrivateSend on asetettu perusasetuksiin (%1 and 2 kierrosta). Voit muuttaa asetuksia milloin vain Adz asetuksista.</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Adzcoin's configuration screen.</source>
-        <translation>PrivateSend on asetettu korkean tason asetuksiin (%1 and 8 kierrosta). Voit muuttaa asetuksia milloin vain Adzcoin asetuksista.</translation>
+        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Adz's configuration screen.</source>
+        <translation>PrivateSend on asetettu korkean tason asetuksiin (%1 and 8 kierrosta). Voit muuttaa asetuksia milloin vain Adz asetuksista.</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Adzcoin's configuration screen.</source>
-        <translation>PrivateSend on asetettu maksimitason asetuksiin (%1 and 16 kierrosta). Voit muuttaa asetuksia milloin vain Adzcoin asetuksista.</translation>
+        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Adz's configuration screen.</source>
+        <translation>PrivateSend on asetettu maksimitason asetuksiin (%1 and 16 kierrosta). Voit muuttaa asetuksia milloin vain Adz asetuksista.</translation>
     </message>
 </context>
 <context>
@@ -1008,8 +1008,8 @@
         <translation>Muokkaa lähettävää osoitetta</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adzcoin address.</source>
-        <translation>Annettu osoite "%1" ei ole pätevä Adzcoin osoite.</translation>
+        <source>The entered address "%1" is not a valid Adz address.</source>
+        <translation>Annettu osoite "%1" ei ole pätevä Adz osoite.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1050,8 +1050,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adzcoin Core</source>
-        <translation>Adzcoin Core</translation>
+        <source>Adz Core</source>
+        <translation>Adz Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1062,8 +1062,8 @@
         <translation>(%1-bittinen)</translation>
     </message>
     <message>
-        <source>About Adzcoin Core</source>
-        <translation>Tietoja Adzcoin Core:sta</translation>
+        <source>About Adz Core</source>
+        <translation>Tietoja Adz Core:sta</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1098,8 +1098,8 @@
         <translation>PrivateSend tietoja</translation>
     </message>
     <message>
-        <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Adzcoin in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an Adzcointive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 Adzcoin, 0.1 Adzcoin, 1 Adzcoin and 10 Adzcoin -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-        <translation>&lt;h3&gt;PrivateSend perusteet&lt;/h3&gt; PrivateSend tarjoaa yksityisyyden hämärtämällä varojesi alkuperäisen osoitteen. Kaikki Adzcoin:it lompakossasi muodostuvat erillisistä "syötteistä", joita voit ajatella erillisinä kolikkoina.&lt;br&gt; PrivateSend käyttää Adzcointiivista prosessia sekoittaakseen lompakkosi syötteet kahden muun ihmisen syötteisiin, siirtämättä varoja pois lompakostasi. Varojesi kontrolli pysyy aina sinulla.&lt;hr&gt; &lt;b&gt; PrivateSend prosessi toimii seuraavasti:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend aloittaa pilkkomalla siirtotapahtumiesi syötteet pienemmiksi standardi arvoiksi. Nämä arvot ovat 0.01 Adzcoin, 0.1 Adzcoin, 1 Adzcoin ja 10 Adzcoin.&lt;/li&gt; &lt;li&gt;Sitten lompakkosi lähettää pyynnön verkon palvelimille, joita kutsutaan "masternode:iksi". Masternodet saavat tiedon että haluat sekoittaa pilkottuja standardi arvoja. Mitään tunnistetietoja ei lähetetä masternode:ille, ne eivät koskaan tiedä "kuka" olet.&lt;/li&gt; &lt;li&gt;Kun 2 muuta käyttäjää ilmoittaa että he haluavat myös sekoittaa varoja, alkaa sekoitus-sessio. Masternodet sekoittavat standardi arvot ja ilmoittavat kaikille 3:lle käyttäjän lompakoille että maksavat sekoitetut arvot takaisin itselleen. Lompakkosi maksaa nuo sekoitetut arvot suoraan itselleen, mutta eri osoitteeseen (vaihto-osoite).&lt;/li&gt; &lt;li&gt;Jotta varojesi alkuperäinen lähde hämärretään, lompakkosi suorittaa tämän prosessin useita kertoja kaikilla standardi arvoilla. Aina kun prosessi on valmis, sitä kutsutaan "kierrokseksi". Jokainen PrivateSend kierros tekee eksponentiaalisesti vaikeammaksi löytää varojesi alkuperäisen osoiteen.&lt;/li&gt; &lt;li&gt;Tämä sekoitusprosessi tapahtuu taustalla ilman käyttäjän toimenpiteitä. Kun haluat myöhemmin tehdä anonyymin varojen siirron, on varasi valmiiksi sekoitettu (anonymisoitu). Erillistä sekoitusta/odotusta ei tarvita.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;TÄRKEÄÄ:&lt;/b&gt; Lompakkosi sisältää vain 1000 "vaihto-osoitetta". Aina kun sekoitustapahtuma tehdään, max 9 osoitetta käytetään. Tämä tarkoittaa sitä että nuo 1000 osoitetta kestää noin 100 sekoitustapahtumaa. Kun 900 osoitetta on käytetty, lompakkosi täytyy tehdä lisää osoitteita. Se voi tehdä niitä vain jos automaattinen varmistus on käytössä.&lt;br&gt; Tästä seuraa että jos varmistus ei ole käytössä, myös PrivateSend on pois käytöstä. &lt;hr&gt;Lisätietoja &lt;a href="https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt; </translation>
+        <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Adz in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an Adzcointive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 Adz, 0.1 Adz, 1 Adz and 10 Adz -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
+        <translation>&lt;h3&gt;PrivateSend perusteet&lt;/h3&gt; PrivateSend tarjoaa yksityisyyden hämärtämällä varojesi alkuperäisen osoitteen. Kaikki Adz:it lompakossasi muodostuvat erillisistä "syötteistä", joita voit ajatella erillisinä kolikkoina.&lt;br&gt; PrivateSend käyttää Adzcointiivista prosessia sekoittaakseen lompakkosi syötteet kahden muun ihmisen syötteisiin, siirtämättä varoja pois lompakostasi. Varojesi kontrolli pysyy aina sinulla.&lt;hr&gt; &lt;b&gt; PrivateSend prosessi toimii seuraavasti:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend aloittaa pilkkomalla siirtotapahtumiesi syötteet pienemmiksi standardi arvoiksi. Nämä arvot ovat 0.01 Adz, 0.1 Adz, 1 Adz ja 10 Adz.&lt;/li&gt; &lt;li&gt;Sitten lompakkosi lähettää pyynnön verkon palvelimille, joita kutsutaan "masternode:iksi". Masternodet saavat tiedon että haluat sekoittaa pilkottuja standardi arvoja. Mitään tunnistetietoja ei lähetetä masternode:ille, ne eivät koskaan tiedä "kuka" olet.&lt;/li&gt; &lt;li&gt;Kun 2 muuta käyttäjää ilmoittaa että he haluavat myös sekoittaa varoja, alkaa sekoitus-sessio. Masternodet sekoittavat standardi arvot ja ilmoittavat kaikille 3:lle käyttäjän lompakoille että maksavat sekoitetut arvot takaisin itselleen. Lompakkosi maksaa nuo sekoitetut arvot suoraan itselleen, mutta eri osoitteeseen (vaihto-osoite).&lt;/li&gt; &lt;li&gt;Jotta varojesi alkuperäinen lähde hämärretään, lompakkosi suorittaa tämän prosessin useita kertoja kaikilla standardi arvoilla. Aina kun prosessi on valmis, sitä kutsutaan "kierrokseksi". Jokainen PrivateSend kierros tekee eksponentiaalisesti vaikeammaksi löytää varojesi alkuperäisen osoiteen.&lt;/li&gt; &lt;li&gt;Tämä sekoitusprosessi tapahtuu taustalla ilman käyttäjän toimenpiteitä. Kun haluat myöhemmin tehdä anonyymin varojen siirron, on varasi valmiiksi sekoitettu (anonymisoitu). Erillistä sekoitusta/odotusta ei tarvita.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;TÄRKEÄÄ:&lt;/b&gt; Lompakkosi sisältää vain 1000 "vaihto-osoitetta". Aina kun sekoitustapahtuma tehdään, max 9 osoitetta käytetään. Tämä tarkoittaa sitä että nuo 1000 osoitetta kestää noin 100 sekoitustapahtumaa. Kun 900 osoitetta on käytetty, lompakkosi täytyy tehdä lisää osoitteita. Se voi tehdä niitä vain jos automaattinen varmistus on käytössä.&lt;br&gt; Tästä seuraa että jos varmistus ei ole käytössä, myös PrivateSend on pois käytöstä. &lt;hr&gt;Lisätietoja &lt;a href="https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://Adzcoincoin.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt; </translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
@@ -1121,17 +1121,17 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Adzcoin Core.</source>
-        <translation>Adzcoin Core - Tervetuloa.</translation>
+        <source>Welcome to Adz Core.</source>
+        <translation>Adz Core - Tervetuloa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adzcoin Core will store its data.</source>
-        <translation>Koska tämä on ensimmäinen kerta kun ohjelma käynnistetään, voit valita minne Adzcoin Core tallettaa datansa.
+        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
+        <translation>Koska tämä on ensimmäinen kerta kun ohjelma käynnistetään, voit valita minne Adz Core tallettaa datansa.
 Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd levyltä, ohjaa talletettava data eri levyasemalle turvalliseen paikkaan.</translation>
     </message>
     <message>
-        <source>Adzcoin Core will download and store a copy of the Adzcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Adzcoin Core lataa ja tallettaa kopion lohkoketjusta. Vähintään %1GB dataa talletetaan tähän hakemistoon, ja se myös kasvaa ajan myötä. Myös lompakko talletetaan tähän hakemistoon.</translation>
+        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Adz Core lataa ja tallettaa kopion lohkoketjusta. Vähintään %1GB dataa talletetaan tähän hakemistoon, ja se myös kasvaa ajan myötä. Myös lompakko talletetaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1142,8 +1142,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Määritä oma hakemisto:</translation>
     </message>
     <message>
-        <source>Adzcoin Core</source>
-        <translation>Adzcoin Core</translation>
+        <source>Adz Core</source>
+        <translation>Adz Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1331,20 +1331,20 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>(0 = auto, &lt;0 = jätä näin monta prosessorin ydintä vapaaksi)</translation>
     </message>
     <message>
-        <source>Amount of Adzcoin to keep anonymized</source>
-        <translation>Adzcoin määrä joka pidetään anonymisoituna</translation>
+        <source>Amount of Adz to keep anonymized</source>
+        <translation>Adz määrä joka pidetään anonymisoituna</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
         <translation>&amp;Lompakko</translation>
     </message>
     <message>
-        <source>Automatically start Adzcoin Core after logging in to the system.</source>
-        <translation>Käynnistä Adzcoin Core automaattisesti kun järjestelmään kirjaudutaan.</translation>
+        <source>Automatically start Adz Core after logging in to the system.</source>
+        <translation>Käynnistä Adz Core automaattisesti kun järjestelmään kirjaudutaan.</translation>
     </message>
     <message>
-        <source>&amp;Start Adzcoin Core on system login</source>
-        <translation>&amp;Käynnistä Adzcoin Core järjestelmään kirjauduttaessa</translation>
+        <source>&amp;Start Adz Core on system login</source>
+        <translation>&amp;Käynnistä Adz Core järjestelmään kirjauduttaessa</translation>
     </message>
     <message>
         <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
@@ -1391,8 +1391,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Tämä määrä toimii rajana sekoituksen keskeytykselle kun PrivateSend sen saavuttaa.</translation>
     </message>
     <message>
-        <source>Automatically open the Adzcoin Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa automaattisesti Adzcoin Core asiakasohjelmalle portti reitittimeen. Tämä toimii vain jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the Adz Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa automaattisesti Adz Core asiakasohjelmalle portti reitittimeen. Tämä toimii vain jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1403,8 +1403,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Salli sisään tulevat yhteydet</translation>
     </message>
     <message>
-        <source>Connect to the Adzcoin network through a SOCKS5 proxy.</source>
-        <translation>Kytkeydy Adzcoin verkkoon käyttäen SOCKS5 proxy:a.</translation>
+        <source>Connect to the Adz network through a SOCKS5 proxy.</source>
+        <translation>Kytkeydy Adz verkkoon käyttäen SOCKS5 proxy:a.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1415,8 +1415,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Ikkunaa suljettaessa pienennä ohjelman ikkuna lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Adzcoin Core.</source>
-        <translation>Käyttöliittymän kieli asetetaan tässä, Asetus tulee voimaan kun Adzcoin Core asiakasohjelma käynnistetään uudelleen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Adz Core.</source>
+        <translation>Käyttöliittymän kieli asetetaan tässä, Asetus tulee voimaan kun Adz Core asiakasohjelma käynnistetään uudelleen.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items.&lt;br/&gt;%s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1487,8 +1487,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Adzcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Kytkeydy Adzcoin verkkoon käyttäen erillistä SOCKS5 proxy:a Tor piilopalveluihin.</translation>
+        <source>Connect to the Adz network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Kytkeydy Adz verkkoon käyttäen erillistä SOCKS5 proxy:a Tor piilopalveluihin.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1520,9 +1520,9 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/projects/p/Adzcoin/</source>
+https://www.transifex.com/projects/p/Adz/</source>
         <translation>Puuttuuko sopiva kieli tai käännös on kesken? Auta käännöstyössä täällä:
-https://www.transifex.com/projects/p/Adzcoin/</translation>
+https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <source>User Interface Theme:</source>
@@ -1600,8 +1600,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Adzcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajan tasalla.&lt;br&gt;Lompakkosi synkronoituu automaattisesti Adzcoin verkkoon kun&lt;br&gt;yhteys on muodostettu, mutta tämä prosessi ei vielä ole valmis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Adz network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajan tasalla.&lt;br&gt;Lompakkosi synkronoituu automaattisesti Adz verkkoon kun&lt;br&gt;yhteys on muodostettu, mutta tämä prosessi ei vielä ole valmis.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1700,8 +1700,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Määrä ja Kierrokset:</translation>
     </message>
     <message>
-        <source>0 Adzcoin / 0 Rounds</source>
-        <translation>0 Adzcoin / 0 Kierrosta</translation>
+        <source>0 Adz / 0 Rounds</source>
+        <translation>0 Adz / 0 Kierrosta</translation>
     </message>
     <message>
         <source>Submitted Denom:</source>
@@ -1869,7 +1869,7 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Maksupyyntövirhe</translation>
     </message>
     <message>
-        <source>Cannot start Adzcoin: click-to-pay handler</source>
+        <source>Cannot start Adz: click-to-pay handler</source>
         <translation>Ei voi käynnistää Adzcoinia: click-to-pay handler</translation>
     </message>
     <message>
@@ -1893,8 +1893,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Virheellinen maksuosoite %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adzcoin address or malformed URI parameters.</source>
-        <translation>URI:a ei voida jäsentää! Tämä voi johtua virheellisestä Adzcoin osoitteesta tai virheellisestä URI:n muuttujasta. </translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <translation>URI:a ei voida jäsentää! Tämä voi johtua virheellisestä Adz osoitteesta tai virheellisestä URI:n muuttujasta. </translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1975,8 +1975,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>Enter a Adzcoin address (e.g. %1)</source>
-        <translation>Syötä Adzcoin osoite (esim. %1)</translation>
+        <source>Enter a Adz address (e.g. %1)</source>
+        <translation>Syötä Adz osoite (esim. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2113,8 +2113,8 @@ https://www.transifex.com/projects/p/Adzcoin/</translation>
         <translation>Muistin käyttö</translation>
     </message>
     <message>
-        <source>Open the Adzcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Adzcoin Core debug lokitiedosto nykyisestä datahakemistosta. Tämä saattaa kestää muutaman sekunnin isoilla tiedostoilla.</translation>
+        <source>Open the Adz Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Adz Core debug lokitiedosto nykyisestä datahakemistosta. Tämä saattaa kestää muutaman sekunnin isoilla tiedostoilla.</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -2325,8 +2325,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>&amp;Poista Solmu kieltolistalta</translation>
     </message>
     <message>
-        <source>Welcome to the Adzcoin Core RPC console.</source>
-        <translation>Tervetuloa Adzcoin Core RPC konsoliin.</translation>
+        <source>Welcome to the Adz Core RPC console.</source>
+        <translation>Tervetuloa Adz Core RPC konsoliin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2396,8 +2396,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>&amp;Uudelleen käytä vastaanottavaa osoitetta (ei suositella)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Adzcoin network.</source>
-        <translation>Valinnainen viesti liitettäväksi maksupyyntöön, joka näytetään kun pyyntö on avattu.&lt;br&gt;Huomio: Viestiä ei lähetetä maksun mukana Adzcoin verkkoon.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Adz network.</source>
+        <translation>Valinnainen viesti liitettäväksi maksupyyntöön, joka näytetään kun pyyntö on avattu.&lt;br&gt;Huomio: Viestiä ei lähetetä maksun mukana Adz verkkoon.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2408,8 +2408,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Valinnainen nimi liitetään uuteen vastaanottavaan osoitteeseen.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Adzcoin network.</source>
-        <translation>Valinnainen viesti liitettäväksi maksupyyntöön, joka näytetään kun pyyntö on avattu.&lt;br&gt;Huomio: Viestiä ei lähetetä maksun mukana Adzcoin verkkoon.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Adz network.</source>
+        <translation>Valinnainen viesti liitettäväksi maksupyyntöön, joka näytetään kun pyyntö on avattu.&lt;br&gt;Huomio: Viestiä ei lähetetä maksun mukana Adz verkkoon.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2665,7 +2665,7 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Jos mukautettu siirtomaksu on asetettu 1000 duff ja siirtotapahtuma on vain 250 tavua,&lt;br /&gt;tällöin "per kilotavu" maksaa vain 250 duffs siirtomaksun, kun taas "yhteensä vähintään" maksaa 1000 duffs.&lt;br /&gt;Siirtotapahtumat jotka ovat isompia kuin kilotavu, molemmat maksaa "per kilotavu".</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Adzcoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Adz transactions than the network can process.</source>
         <translation>Minimi siirtomaksun maksaminen on ok niin kauan kun siirtotapahtumien määrä on pienempi kuin tila lohkoissa.&lt;br /&gt;Mutta ota huomioon että tämä voi johtaa siirtotapahtumaan jota ei vahvisteta koskaan, jos siirtotapahtumia on enemmän kuin verkko voi käsitellä.</translation>
     </message>
     <message>
@@ -2865,8 +2865,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Siirtotapahtuma hylättiin! Tämä saattaa tapahtua jos lompakossa olevat varat on jo kulutettu, kuten jos käytät kopiota wallet.dat tiedostosta ja varat oli jo käytetty mutta ei merkattu täällä.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adzcoin address</source>
-        <translation>Varoitus: Virheellinen Adzcoin osoite</translation>
+        <source>Warning: Invalid Adz address</source>
+        <translation>Varoitus: Virheellinen Adz osoite</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2888,8 +2888,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Maksun &amp;saaja:</translation>
     </message>
     <message>
-        <source>The Adzcoin address to send the payment to</source>
-        <translation>Adzcoin osoite johon maksu lähetetään</translation>
+        <source>The Adz address to send the payment to</source>
+        <translation>Adz osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2924,7 +2924,7 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>&amp;Määrä:</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Adzcoin than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Adz than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Siirtomaksu vähennetään lähetettävästä summasta. Vastaanottaja saa pienemmän summan kuin mitä laitoit määrä kenttään. Jos useampia vastaanottajia on valittu, siirtomaksu jaetaan tasan.</translation>
     </message>
     <message>
@@ -2936,8 +2936,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Viesti:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Adzcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Adzcoin network.</source>
-        <translation>Viesti joka liitettiin Adzcoin: URI joka talletetaan siirtotapahtuman kanssa viitteeksi sinulle. Huomio: Tätä viestiä ei lähetetä Adzcoin verkkoon.</translation>
+        <source>A message that was attached to the Adz: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Adz network.</source>
+        <translation>Viesti joka liitettiin Adz: URI joka talletetaan siirtotapahtuman kanssa viitteeksi sinulle. Huomio: Tätä viestiä ei lähetetä Adz verkkoon.</translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
@@ -2963,8 +2963,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adzcoin Core is shutting down...</source>
-        <translation>Adzcoin Core sulkeutuu...</translation>
+        <source>Adz Core is shutting down...</source>
+        <translation>Adz Core sulkeutuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2982,12 +2982,12 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>&amp;Allekirjoita viesti</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive Adzcoin sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive Adz sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Voit allekirjoittaa viestit/sopimukset omilla osoitteillasi todistaaksesi että omistat ne. Ole huolellinen että et allekirjoita mitään epämääräistä, satunnaista, phishing-hyökkäjä voi huijata sinua allekirjoittamaan henkilöllisyytesi omasta puolestaan. Allekirjoita vain yksityiskohtaisesti täytetty selvitys johon sitoudut.</translation>
     </message>
     <message>
-        <source>The Adzcoin address to sign the message with</source>
-        <translation>Adzcoin osoite jolla viesti allekirjoitetaan</translation>
+        <source>The Adz address to sign the message with</source>
+        <translation>Adz osoite jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3018,8 +3018,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Kopioi tämän hetkinen allekirjoitus leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adzcoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi että omistat tämän Adzcoin osoitteen</translation>
+        <source>Sign the message to prove you own this Adz address</source>
+        <translation>Allekirjoita viesti todistaaksesi että omistat tämän Adz osoitteen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3042,12 +3042,12 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Syötä allekirjoittava osoite, viesti (varmista että kopioit rivinvaihdot, välilyönnit, tabulaattorit, jne täsmälleen oikein) ja allekirjoitus alla oleviin kenttiin varmistaaksesi allekirjoituksen aitouden. Varo lukemasta enempää allekirjoitukseen kuin kuin mitä itse viestissä on, välttääksesi man-in-the-middle hyökkäyksen. Huom. tämä todistaa vain että allekirjoittava osapuoli vastaanottaa osoitteella, se ei voi todistaa lähettäjää.</translation>
     </message>
     <message>
-        <source>The Adzcoin address the message was signed with</source>
-        <translation>Adzcoin osoite jolla viesti on allekirjoitettu</translation>
+        <source>The Adz address the message was signed with</source>
+        <translation>Adz osoite jolla viesti on allekirjoitettu</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adzcoin address</source>
-        <translation>Tarkista että viesti on allekirjoitettu määritetyllä Adzcoin osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <translation>Tarkista että viesti on allekirjoitettu määritetyllä Adz osoitteella</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3113,8 +3113,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adzcoin Core</source>
-        <translation>Adzcoin Core</translation>
+        <source>Adz Core</source>
+        <translation>Adz Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3125,8 +3125,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Bitcoin Core kehittäjät</translation>
     </message>
     <message>
-        <source>The Adzcoin Core developers</source>
-        <translation>Adzcoin Core kehittäjät</translation>
+        <source>The Adz Core developers</source>
+        <translation>Adz Core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3637,8 +3637,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Lähetä Adzcoineja</translation>
     </message>
     <message>
-        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 Adzcoin.</source>
-        <translation>InstantSend ei tue näin korkeaa lähetysmäärää vielä. Siirtotapahtumat on tällä hetkellä rajoitettu %1 Adzcoin.</translation>
+        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 Adz.</source>
+        <translation>InstantSend ei tue näin korkeaa lähetysmäärää vielä. Siirtotapahtumat on tällä hetkellä rajoitettu %1 Adz.</translation>
     </message>
     <message>
         <source>Used way too many inputs (&gt;%1) for this InstantSend transaction, fees could be huge.</source>
@@ -3685,14 +3685,14 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
     </message>
 </context>
 <context>
-    <name>Adzcoin-core</name>
+    <name>Adz-core</name>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
         <translation>Kytkeydy annettuun osoitteeseen ja pidä linja aina auki. Käytä [host]:port merkintätapaa IPv6:lle.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adzcoin Core is probably already running.</source>
-        <translation>Ei voida lukita data hakemistoa %s. Adzcoin Core on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
+        <translation>Ei voida lukita data hakemistoa %s. Adz Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -3731,12 +3731,12 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla vastuulla - Älä käytä louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adzcoin Core is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. Adzcoin Core on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. Adz Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>Varoitus: Adzcoin verkossa on ristiriitoja! Louhijat näyttävät kokevan virhetilanteita.</translation>
+        <translation>Varoitus: Adz verkossa on ristiriitoja! Louhijat näyttävät kokevan virhetilanteita.</translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
@@ -3971,8 +3971,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 Käännös päivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 Adzcoin.</source>
-        <translation>Ei tarpeeksi varoja tälle siirtotapahtumalle, joka ei ole 1000 Adzcoin.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 1000 Adz.</source>
+        <translation>Ei tarpeeksi varoja tälle siirtotapahtumalle, joka ei ole 1000 Adz.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4015,8 +4015,8 @@ Käännös päivitetty: 11.3.2017 by AjM.</translation>
         <translation>Copyright (C) 2009-%i Bitcoin Core Kehittäjät</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adzcoin Core Developers</source>
-        <translation>Copyright (C) 2014-%i Adzcoin Core Kehittäjät</translation>
+        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
+        <translation>Copyright (C) 2014-%i Adz Core Kehittäjät</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -4027,8 +4027,8 @@ Käännös päivitetty: 11.3.2017 by AjM.</translation>
         <translation>Virhe masternode:en kytkeytymisessä.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adzcoin Core</source>
-        <translation>Virhe ladattaessa wallet.dat: Lompakko vaatii uudemman version Adzcoin Core:sta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
+        <translation>Virhe ladattaessa wallet.dat: Lompakko vaatii uudemman version Adz Core:sta</translation>
     </message>
     <message>
         <source>Found enough users, signing ( waiting %s )</source>
@@ -4071,8 +4071,8 @@ Käännös päivitetty: 11.3.2017 by AjM.</translation>
         <translation>Tietoja</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adzcoin Core is shutting down.</source>
-        <translation>Alkuperäisyyden tarkistus epäonnistui. Adzcoin Core sulkeutuu.</translation>
+        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
+        <translation>Alkuperäisyyden tarkistus epäonnistui. Adz Core sulkeutuu.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4303,8 +4303,8 @@ Käännös päivitetty: 11.3.2017 by AjM.</translation>
         <translation>Määrä on enemmän kuin PrivateSend varannon maksimi sallii.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adzcoin Core to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Adzcoin Core uudestaan viimeistelyä varten</translation>
+        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Adz Core uudestaan viimeistelyä varten</translation>
     </message>
     <message>
         <source>Will retry...</source>
@@ -4347,16 +4347,16 @@ Käännös päivitetty: 11.3.2017 by AjM.</translation>
         <translation>KeePassHttp avain AES salattuun viestintään</translation>
     </message>
     <message>
-        <source>Keep N Adzcoin anonymized (default: %u)</source>
-        <translation>Pidä N Adzcoin anonymisoituna (oletus: %u)</translation>
+        <source>Keep N Adz anonymized (default: %u)</source>
+        <translation>Pidä N Adz anonymisoituna (oletus: %u)</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
         <translation>Pidä enintään &lt;n&gt; ei yhdistettyä siirtotapahtumaa muistissa (oletus: %u)</translation>
     </message>
     <message>
-        <source>Disable all Adzcoin specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
-        <translation>Kytke pois käytöstä kaikki Adzcoin:in erityistoiminnot (Masternodet, PrivateSend, InstantSend, Budjetointi) (0-1, oletus: %u)</translation>
+        <source>Disable all Adz specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
+        <translation>Kytke pois käytöstä kaikki Adz:in erityistoiminnot (Masternodet, PrivateSend, InstantSend, Budjetointi) (0-1, oletus: %u)</translation>
     </message>
     <message>
         <source>Discover own IP addresses (default: 1 when listening and no -externalip or -proxy)</source>
@@ -4407,8 +4407,8 @@ Käännös päivitetty: 11.3.2017 by AjM.</translation>
         <translation>Jos &lt;category&gt; ei ole toimitettu, tai &lt;category&gt; = 1, tulosta kaikki debug tiedot.</translation>
     </message>
     <message>
-        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 Adzcoin.</source>
-        <translation>InstantSend ei tue näin korkeaa lähetysmäärää vielä. Siirtotapahtumat on tällä hetkellä rajoitettu %1 Adzcoin.</translation>
+        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 Adz.</source>
+        <translation>InstantSend ei tue näin korkeaa lähetysmäärää vielä. Siirtotapahtumat on tällä hetkellä rajoitettu %1 Adz.</translation>
     </message>
     <message>
         <source>InstantSend requires inputs with at least %d confirmations, you might need to wait a few minutes and try again.</source>
@@ -4435,8 +4435,8 @@ Käännös päivitetty: 11.3.2017 by AjM.</translation>
         <translation>Yksittäisen siirtotapahtuman maksimi siirtomaksu (%s), jos tämä asetetaan liian matalaksi, se voi keskeyttää isot siirtotapahtumat (oletus: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Adzcoin Core will not work properly.</source>
-        <translation>Tarkista että tietokoneesi kellonaika ja päivämäärä ovat oikein! Adzcoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
+        <translation>Tarkista että tietokoneesi kellonaika ja päivämäärä ovat oikein! Adz ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <source>PrivateSend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -4496,8 +4496,8 @@ Vähennä uakommenttien määrää tai kokoa.</translation>
         <translation>Ei tarpeeksi PrivateSend sekoitettuja varoja tälle siirtotapahtumalle.</translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 Adzcoin.</source>
-        <translation>Ei tarpeeksi PrivateSend ei-denominoituja varoja tälle siirtotapahtumalle, joka ei ole 1000 Adzcoin.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 Adz.</source>
+        <translation>Ei tarpeeksi PrivateSend ei-denominoituja varoja tälle siirtotapahtumalle, joka ei ole 1000 Adz.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

@@ -212,7 +212,7 @@ unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHead
 unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHeader *pblock,const Consensus::Params& params)
 {		//digi shield implementation
 
-    printf("GetNextWorkRequired *DIGISHIELD* STARTING \n");
+    //printf("GetNextWorkRequired *DIGISHIELD* STARTING \n");
     unsigned int nProofOfWorkLimit = UintToArith256(params.powLimit).GetCompact();
 
     int nHeight = pindexLast->nHeight + 1;
@@ -277,7 +277,7 @@ unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHead
     bnNew /= retargetTimespan;
 
     /// debug print
-    printf("GetNextWorkRequired *DIGISHIELD* RETARGET \n");
+    //printf("GetNextWorkRequired *DIGISHIELD* RETARGET \n");
     //printf("retargetTimespan = %" PRI64d " nActualTimespan = %" PRI64d "\n", retargetTimespan, nActualTimespan);
     //printf("Before: %08x %s\n", pindexLast->nBits, CBigNum().SetCompact(pindexLast->nBits).getuint256().ToString().c_str());
     //printf("After: %08x %s\n", bnNew.GetCompact(), bnNew.getuint256().ToString().c_str());
@@ -316,7 +316,7 @@ unsigned int CalculateNextWorkRequired(const CBlockIndex* pindexLast, int64_t nF
         bnNew = bnPowLimit;
 
     /// debug print
-    LogPrintf("GetNextWorkRequired RETARGET\n");
+    //LogPrintf("GetNextWorkRequired RETARGET\n");
     LogPrintf("params.nPowTargetTimespan = %d    nActualTimespan = %d\n", params.nPowTargetTimespan, nActualTimespan);
     LogPrintf("Before: %08x  %s\n", pindexLast->nBits, bnOld.ToString());
     LogPrintf("After:  %08x  %s\n", bnNew.GetCompact(), bnNew.ToString());

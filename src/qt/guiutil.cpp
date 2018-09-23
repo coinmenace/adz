@@ -135,7 +135,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
     // return if URI is not valid or is no adzcoin: URI
-    if(!uri.isValid() || uri.scheme() != QString("adzcoin"))
+    if(!uri.isValid() || uri.scheme() != QString("adz"))
         return false;
 
     SendCoinsRecipient rv;
@@ -208,9 +208,9 @@ bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
     //
     //    Cannot handle this later, because adzcoin:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("adzcoin://", Qt::CaseInsensitive))
+    if(uri.startsWith("adz://", Qt::CaseInsensitive))
     {
-        uri.replace(0, 7, "adzcoin:");
+        uri.replace(0, 7, "adz:");
     }
     QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
@@ -218,7 +218,7 @@ bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 
 QString formatBitcoinURI(const SendCoinsRecipient &info)
 {
-    QString ret = QString("adzcoin:%1").arg(info.address);
+    QString ret = QString("adz:%1").arg(info.address);
     int paramCount = 0;
 
     if (info.amount)
@@ -639,10 +639,10 @@ boost::filesystem::path static StartupShortcutPath()
 {
     std::string chain = ChainNameFromCommandLine();
     if (chain == CBaseChainParams::MAIN)
-        return GetSpecialFolderPath(CSIDL_STARTUP) / "Adzcoin.lnk";
+        return GetSpecialFolderPath(CSIDL_STARTUP) / "Adz.lnk";
     if (chain == CBaseChainParams::TESTNET) // Remove this special case when CBaseChainParams::TESTNET = "testnet4"
-        return GetSpecialFolderPath(CSIDL_STARTUP) / "Adzcoin (testnet).lnk";
-    return GetSpecialFolderPath(CSIDL_STARTUP) / strprintf("Adzcoin (%s).lnk", chain);
+        return GetSpecialFolderPath(CSIDL_STARTUP) / "Adz (testnet).lnk";
+    return GetSpecialFolderPath(CSIDL_STARTUP) / strprintf("Adz (%s).lnk", chain);
 }
 
 bool GetStartOnSystemStartup()
@@ -739,8 +739,8 @@ boost::filesystem::path static GetAutostartFilePath()
 {
     std::string chain = ChainNameFromCommandLine();
     if (chain == CBaseChainParams::MAIN)
-        return GetAutostartDir() / "adzcoin.desktop";
-    return GetAutostartDir() / strprintf("adzcoin-%s.lnk", chain);
+        return GetAutostartDir() / "adz.desktop";
+    return GetAutostartDir() / strprintf("adz-%s.lnk", chain);
 }
 
 bool GetStartOnSystemStartup()
@@ -783,7 +783,7 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
         if (chain == CBaseChainParams::MAIN)
-            optionFile << "Name=Adzcoin\n";
+            optionFile << "Name=Adz\n";
         else
             optionFile << strprintf("Name=Adzcoin (%s)\n", chain);
         optionFile << "Exec=" << pszExePath << strprintf(" -min -testnet=%d -regtest=%d\n", GetBoolArg("-testnet", false), GetBoolArg("-regtest", false));

@@ -47,9 +47,9 @@ QString BitcoinUnits::name(int unit)
     {
         switch(unit)
         {
-            case ADZCOIN: return QString("ADZCOIN");
-            case mADZCOIN: return QString("mADZCOIN");
-            case uADZCOIN: return QString::fromUtf8("μADZCOIN");
+            case ADZCOIN: return QString("ADZ");
+            case mADZCOIN: return QString("mADZ");
+            case uADZCOIN: return QString::fromUtf8("μADZ");
             case duffs: return QString("duffs");
             default: return QString("???");
         }
@@ -58,9 +58,9 @@ QString BitcoinUnits::name(int unit)
     {
         switch(unit)
         {
-            case ADZCOIN: return QString("tADZCOIN");
-            case mADZCOIN: return QString("mtADZCOIN");
-            case uADZCOIN: return QString::fromUtf8("μtADZCOIN");
+            case ADZCOIN: return QString("tADZ");
+            case mADZCOIN: return QString("mtADZ");
+            case uADZCOIN: return QString::fromUtf8("μtADZ");
             case duffs: return QString("tduffs");
             default: return QString("???");
         }
@@ -73,10 +73,10 @@ QString BitcoinUnits::description(int unit)
     {
         switch(unit)
         {
-            case ADZCOIN: return QString("Adzcoin");
-            case mADZCOIN: return QString("Milli-Adzcoin (1 / 1" THIN_SP_UTF8 "000)");
-            case uADZCOIN: return QString("Micro-Adzcoin (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
-            case duffs: return QString("Ten Nano-Adzcoin (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case ADZCOIN: return QString("Adz");
+            case mADZCOIN: return QString("Milli-Adz (1 / 1" THIN_SP_UTF8 "000)");
+            case uADZCOIN: return QString("Micro-Adz (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case duffs: return QString("Ten Nano-Adz (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
             default: return QString("???");
         }
     }

@@ -521,7 +521,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Unix: ~/.adzcoincore
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "AdzcoinCore";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Adzcoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -531,10 +531,10 @@ boost::filesystem::path GetDefaultDataDir()
         pathRet = fs::path(pszHome);
 #ifdef MAC_OSX
     // Mac
-    return pathRet / "Library/Application Support/AdzcoinCore";
+    return pathRet / "Library/Application Support/Adzcoin";
 #else
     // Unix
-    return pathRet / ".adzcoincore";
+    return pathRet / ".adzcoin";
 #endif
 #endif
 }
