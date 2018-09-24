@@ -90,9 +90,9 @@ OptionsDialog::OptionsDialog(QWidget *parent, bool enableWallet) :
     }
     
     /* Theme selector */
-    ui->theme->addItem(QString("ADZCOIN-light"), QVariant("light"));
-    ui->theme->addItem(QString("ADZCOIN-blue"), QVariant("drkblue"));
-    ui->theme->addItem(QString("ADZCOIN-Crownium"), QVariant("crownium"));
+    //ui->theme->addItem(QString("ADZCOIN-light"), QVariant("light"));
+    //ui->theme->addItem(QString("ADZCOIN-blue"), QVariant("drkblue"));
+    //ui->theme->addItem(QString("ADZCOIN-Crownium"), QVariant("crownium"));
     ui->theme->addItem(QString("ADZCOIN-traditional"), QVariant("trad"));
     
     /* Language selector */
