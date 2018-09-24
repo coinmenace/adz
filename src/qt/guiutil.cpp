@@ -904,7 +904,7 @@ void restoreWindowGeometry(const QString& strSetting, const QSize& defaultSize, 
 QString getThemeName()
 {
     QSettings settings;
-    QString theme = settings.value("theme", "").toString();
+    QString theme = QString("light");//settings.value("theme", "").toString();
 
     if(!theme.isEmpty()){
         return theme;
@@ -918,13 +918,13 @@ QString loadStyleSheet()
     QString styleSheet;
     QSettings settings;
     QString cssName;
-    QString theme = settings.value("theme", "").toString();
+    QString theme = settings.value("theme", "light").toString();
 
     if(!theme.isEmpty()){
         cssName = QString(":/css/") + theme; 
     }
     else {
-        cssName = QString(":/css/light");  
+        cssName = QString(":/css/light");
         settings.setValue("theme", "light");
     }
     

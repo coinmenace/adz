@@ -2,7 +2,7 @@
     <qresource prefix="/icons">
         <file alias="bitcoin">res/icons/bitcoin.png</file>
     </qresource>
-    <qresource prefix="/icons/drkblue">
+    <!--<qresource prefix="/icons/drkblue">
         <file alias="address-book">res/icons/drkblue/address-book.png</file>
         <file alias="quit">res/icons/drkblue/quit.png</file>
         <file alias="send">res/icons/drkblue/send.png</file>
@@ -151,7 +151,7 @@
         <file alias="about">res/icons/light/about.png</file>
         <file alias="about_qt">res/icons/light/about_qt.png</file>
         <file alias="verify">res/icons/light/verify.png</file>
-    </qresource>
+    </qresource>-->
     <qresource prefix="/icons/trad">
         <file alias="address-book">res/icons/trad/address-book.png</file>
         <file alias="quit">res/icons/trad/quit.png</file>
@@ -203,11 +203,11 @@
         <file alias="verify">res/icons/trad/verify.png</file>
     </qresource>
     <qresource prefix="/css">
-        <file alias="drkblue">res/css/drkblue.css</file>
-        <file alias="crownium">res/css/crownium.css</file>
+        <!--<file alias="drkblue">res/css/drkblue.css</file>
+        <file alias="crownium">res/css/crownium.css</file>-->
         <file alias="light">res/css/light.css</file>
     </qresource>
-    <qresource prefix="/images/drkblue">
+   <!-- <qresource prefix="/images/drkblue">
         <file alias="about">res/images/drkblue/about.png</file>
         <file alias="proton_logo_horizontal">res/images/drkblue/adzcoin_logo_horizontal.png</file>
         <file alias="unchecked">res/images/drkblue/unchecked.png</file>
@@ -251,7 +251,7 @@
         <file alias="drkblue_walletFrame_bg">res/images/light/drkblue_walletFrame_bg.png</file>
         <file alias="splash">res/images/light/splash.png</file>
         <file alias="splash_testnet">res/images/light/splash_testnet.png</file>
-    </qresource>
+    </qresource>-->
     <qresource prefix="/images/trad">
         <file alias="about">res/images/trad/about.png</file>
         <file alias="adzcoin_logo_horizontal">res/images/trad/adzcoin_logo_horizontal.png</file>
