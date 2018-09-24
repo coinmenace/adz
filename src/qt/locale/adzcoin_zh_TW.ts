@@ -188,7 +188,7 @@
         <translation>輸入舊密碼和新密碼到錢包。</translation>
     </message>
     <message>
-        <source>Adz Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
+        <source>AdzCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
         <translation>達世幣核心現在要關閉，以便完成加密程序。請注意，加密錢包不能完全防止入侵你的電腦的惡意程式偷取達世幣。</translation>
     </message>
     <message>
@@ -238,7 +238,7 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>達世幣核心</translation>
     </message>
     <message>
@@ -262,7 +262,7 @@
         <translation>發送(&amp;S)</translation>
     </message>
     <message>
-        <source>Send coins to a Adz address</source>
+        <source>Send coins to a AdzCoin address</source>
         <translation>付錢給一個達世幣位址</translation>
     </message>
     <message>
@@ -298,11 +298,11 @@
         <translation>結束應用程式</translation>
     </message>
     <message>
-        <source>&amp;About Adz Core</source>
+        <source>&amp;About AdzCoin Core</source>
         <translation>關於達世幣核心(&amp;A)</translation>
     </message>
     <message>
-        <source>Show information about Adz Core</source>
+        <source>Show information about AdzCoin Core</source>
         <translation>顯示達世幣核心的相關資訊</translation>
     </message>
     <message>
@@ -458,7 +458,7 @@
         <translation>命令列選項(&amp;C)</translation>
     </message>
     <message>
-        <source>Adz Core client</source>
+        <source>AdzCoin Core client</source>
         <translation>達世幣核心客戶端軟體</translation>
     </message>
     <message>
@@ -514,7 +514,7 @@
         <translation><numerusform>%n 個小時</numerusform></translation>
     </message>
     <message>
-        <source>Modify configuration options for Adz Core</source>
+        <source>Modify configuration options for AdzCoin Core</source>
         <translation>修改達世幣核心的設定選項</translation>
     </message>
     <message>
@@ -530,7 +530,7 @@
         <translation>開啟主節點配置文件</translation>
     </message>
     <message>
-        <source>Show the Adz Core help message to get a list with possible Adz Core command-line options</source>
+        <source>Show the AdzCoin Core help message to get a list with possible AdzCoin Core command-line options</source>
         <translation>顯示達世幣核心的說明訊息，來取得可用命令列選項的列表</translation>
     </message>
     <message>
@@ -996,7 +996,7 @@
         <translation>編輯付款位址</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adz address.</source>
+        <source>The entered address "%1" is not a valid AdzCoin address.</source>
         <translation>輸入的位址 %1 並不是有效的達世幣位址。</translation>
     </message>
     <message>
@@ -1038,7 +1038,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>達世幣核心</translation>
     </message>
     <message>
@@ -1050,7 +1050,7 @@
         <translation>(%1 位元)</translation>
     </message>
     <message>
-        <source>About Adz Core</source>
+        <source>About AdzCoin Core</source>
         <translation>關於達世幣核心</translation>
     </message>
     <message>
@@ -1105,15 +1105,15 @@
         <translation>歡迎</translation>
     </message>
     <message>
-        <source>Welcome to Adz Core.</source>
+        <source>Welcome to AdzCoin Core.</source>
         <translation>歡迎使用達世幣核心</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
         <translation>因為這是程式第一次啓動，你可以選擇達世幣核心儲存資料的地方。</translation>
     </message>
     <message>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>達世幣核心會下載並儲存一份達世幣區塊鏈的副本。至少有 %1GB 的資料會儲存到這個目錄中，並且還會持續增長。另外錢包資料也會儲存在這個目錄。</translation>
     </message>
     <message>
@@ -1125,7 +1125,7 @@
         <translation>使用自定的資料目錄:</translation>
     </message>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>達世幣核心</translation>
     </message>
     <message>
@@ -1302,7 +1302,7 @@
         <translation>錢包(&amp;W)</translation>
     </message>
     <message>
-        <source>Automatically start Adz Core after logging in to the system.</source>
+        <source>Automatically start AdzCoin Core after logging in to the system.</source>
         <translation>在登入系統後自動啓動達世幣核心。</translation>
     </message>
     <message>
@@ -1326,7 +1326,7 @@
         <translation>此金額為關閉匿名發送的門檻。</translation>
     </message>
     <message>
-        <source>Automatically open the Adz Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the AdzCoin Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>自動在路由器上開放達世幣核心客戶端的通訊埠。只有在你的路由器支援且開啓「通用即插即用」協定(UPnP)時才有作用。</translation>
     </message>
     <message>
@@ -1350,7 +1350,7 @@
         <translation>當視窗關閉時，把應用程式縮到最小，而不是結束。當勾選這個選項時，只能夠用選單中的結束來關掉應用程式。</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Adz Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting AdzCoin Core.</source>
         <translation>可以在這裡設定用戶介面的語言。這個設定在重啓達世幣核心後才會生效。</translation>
     </message>
     <message>
@@ -1800,7 +1800,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>無效的付款位址 %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</source>
         <translation>沒辦法解析 URI 位址！可能是因為達世幣位址無效，或是 URI 參數格式錯誤。</translation>
     </message>
     <message>
@@ -1878,7 +1878,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>金額</translation>
     </message>
     <message>
-        <source>Enter a Adz address (e.g. %1)</source>
+        <source>Enter a AdzCoin address (e.g. %1)</source>
         <translation>輸入達世幣位址 (例如 %1)</translation>
     </message>
     <message>
@@ -2016,7 +2016,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>內存使用情況</translation>
     </message>
     <message>
-        <source>Open the Adz Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the AdzCoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>從目前的資料目錄下開啓達世幣核心的除錯紀錄檔。當紀錄檔很大時，可能會花好幾秒的時間。</translation>
     </message>
     <message>
@@ -2172,7 +2172,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>解禁節點(&amp;U)</translation>
     </message>
     <message>
-        <source>Welcome to the Adz Core RPC console.</source>
+        <source>Welcome to the AdzCoin Core RPC console.</source>
         <translation>歡迎使用達世幣核心 RPC 主控台。</translation>
     </message>
     <message>
@@ -2704,7 +2704,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>交易被拒絕了！有時候會發生這種錯誤，是因為你錢包中的一些錢已經被花掉了。比如說你複製了錢包檔 wallet.dat, 然後用複製的錢包花掉了錢，你現在所用的原來的錢包中，卻沒有那筆錢已經花掉的紀錄。</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adz address</source>
+        <source>Warning: Invalid AdzCoin address</source>
         <translation>警告: 無效的達世幣位址</translation>
     </message>
     <message>
@@ -2727,7 +2727,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>付給:(&amp;T)</translation>
     </message>
     <message>
-        <source>The Adz address to send the payment to</source>
+        <source>The AdzCoin address to send the payment to</source>
         <translation>接收付款的達世幣位址</translation>
     </message>
     <message>
@@ -2786,7 +2786,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adz Core is shutting down...</source>
+        <source>AdzCoin Core is shutting down...</source>
         <translation>達世幣核心正在關閉中...</translation>
     </message>
     <message>
@@ -2805,7 +2805,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>簽署訊息(&amp;S)</translation>
     </message>
     <message>
-        <source>The Adz address to sign the message with</source>
+        <source>The AdzCoin address to sign the message with</source>
         <translation>用來簽署訊息的達世幣位址</translation>
     </message>
     <message>
@@ -2837,7 +2837,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>複製目前的簽章到系統剪貼簿</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adz address</source>
+        <source>Sign the message to prove you own this AdzCoin address</source>
         <translation>簽署這個訊息來證明這個達世幣位址是你的</translation>
     </message>
     <message>
@@ -2857,11 +2857,11 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>驗證訊息</translation>
     </message>
     <message>
-        <source>The Adz address the message was signed with</source>
+        <source>The AdzCoin address the message was signed with</source>
         <translation>簽署這個訊息的達世幣位址</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
         <translation>驗證這個訊息來確定是用指定的達世幣位址簽署的</translation>
     </message>
     <message>
@@ -2928,7 +2928,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>達世幣核心</translation>
     </message>
     <message>
@@ -2940,7 +2940,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>位元幣核心開發人員</translation>
     </message>
     <message>
-        <source>The Adz Core developers</source>
+        <source>The AdzCoin Core developers</source>
         <translation>達世幣核心開發人員</translation>
     </message>
     <message>
@@ -3478,7 +3478,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>和指定的位址繫結，並且一直在指定位址聽候連線。IPv6 請用 [主機]:通訊埠 這種格式</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
         <translation>沒辦法鎖定資料目錄 %s。達世幣核心可能已經在執行了。</translation>
     </message>
     <message>
@@ -3518,7 +3518,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>這是個還沒發表的測試版本 - 使用請自負風險 - 請不要用來開採或商業應用</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
         <translation>沒辦法繫結在這台電腦上的 %s 。達世幣核心可能已經在執行了。</translation>
     </message>
     <message>
@@ -3778,7 +3778,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>版權為位元幣核心開發人員自西元 2009 至 %i 年起所有</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
+        <source>Copyright (C) 2014-%i The AdzCoin Core Developers</source>
         <translation>版權為達世幣核心開發人員自西元 2014 至 %i 年起所有</translation>
     </message>
     <message>
@@ -3790,7 +3790,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>連接到主節點時發生錯誤。</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</source>
         <translation>載入 wallet.dat 檔案時發生錯誤: 這個錢包需要新版的達世幣核心</translation>
     </message>
     <message>
@@ -3834,7 +3834,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>資訊</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
         <translation>初始化時的基本檢查失敗了。達世幣核心即將關閉。</translation>
     </message>
     <message>
@@ -4030,7 +4030,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>金額超過匿名發送池容許的上限。</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
+        <source>Wallet needed to be rewritten: restart AdzCoin Core to complete</source>
         <translation>錢包需要重寫: 請重新啓動達世幣核心來完成</translation>
     </message>
     <message>
@@ -4110,7 +4110,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>即時到帳系統要求輸入的資金最少要有%d個確認，你可能需要等待數分鐘然後再重試。</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</source>
         <translation>請檢查電腦日期和時間是否正確！達世幣核心沒辦法在時鐘不準的情況下正常運作。</translation>
     </message>
     <message>

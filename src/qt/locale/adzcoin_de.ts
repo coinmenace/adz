@@ -188,7 +188,7 @@
         <translation>Geben Sie die alte und neue Wallet-Passphrase ein.</translation>
     </message>
     <message>
-        <source>Adz Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
+        <source>AdzCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
         <translation>Adz wird jetzt beendet, um den Verschlüsselungsprozess abzuschließen. Bitte beachten Sie, dass die Wallet-Verschlüsselung nicht vollständig vor Diebstahl ihrer Adz durch Schadsoftware schützt, die ihren Computer befallen könnte.</translation>
     </message>
     <message>
@@ -242,8 +242,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -266,7 +266,7 @@
         <translation>&amp;Überweisen</translation>
     </message>
     <message>
-        <source>Send coins to a Adz address</source>
+        <source>Send coins to a AdzCoin address</source>
         <translation>Adz an eine Adz-Adresse überweisen</translation>
     </message>
     <message>
@@ -302,12 +302,12 @@
         <translation>Anwendung beenden</translation>
     </message>
     <message>
-        <source>&amp;About Adz Core</source>
-        <translation>&amp;Über Adz Core</translation>
+        <source>&amp;About AdzCoin Core</source>
+        <translation>&amp;Über AdzCoin Core</translation>
     </message>
     <message>
-        <source>Show information about Adz Core</source>
-        <translation>Informationen über Adz Core anzeigen</translation>
+        <source>Show information about AdzCoin Core</source>
+        <translation>Informationen über AdzCoin Core anzeigen</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -462,8 +462,8 @@
         <translation>&amp;Kommandozeilenoptionen</translation>
     </message>
     <message>
-        <source>Adz Core client</source>
-        <translation>Adz Core Client</translation>
+        <source>AdzCoin Core client</source>
+        <translation>AdzCoin Core Client</translation>
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
@@ -518,7 +518,7 @@
         <translation><numerusform>%n Stunde</numerusform><numerusform>%n Stunden</numerusform></translation>
     </message>
     <message>
-        <source>Modify configuration options for Adz Core</source>
+        <source>Modify configuration options for AdzCoin Core</source>
         <translation>Die Konfiguration des Clients bearbeiten</translation>
     </message>
     <message>
@@ -534,8 +534,8 @@
         <translation>Masternode Konfigurationsdatei öffnen</translation>
     </message>
     <message>
-        <source>Show the Adz Core help message to get a list with possible Adz Core command-line options</source>
-        <translation>Zeige den "Adz Core"-Hilfetext, um eine Liste mit möglichen Kommandozeilenoptionen zu erhalten</translation>
+        <source>Show the AdzCoin Core help message to get a list with possible AdzCoin Core command-line options</source>
+        <translation>Zeige den "AdzCoin Core"-Hilfetext, um eine Liste mit möglichen Kommandozeilenoptionen zu erhalten</translation>
     </message>
     <message>
         <source>&amp;PrivateSend information</source>
@@ -1008,7 +1008,7 @@
         <translation>Zahlungsadresse bearbeiten</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adz address.</source>
+        <source>The entered address "%1" is not a valid AdzCoin address.</source>
         <translation>Die eingegebene Adresse "%1" ist keine gültige Adz-Adresse.</translation>
     </message>
     <message>
@@ -1050,8 +1050,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1062,8 +1062,8 @@
         <translation>(%1-Bit)</translation>
     </message>
     <message>
-        <source>About Adz Core</source>
-        <translation>Über Adz Core</translation>
+        <source>About AdzCoin Core</source>
+        <translation>Über AdzCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1122,16 +1122,16 @@ Der Mixing-Prozeß läuft nach dem Start vollständig im Hintergrund, d.h. es is
         <translation>Willkommen</translation>
     </message>
     <message>
-        <source>Welcome to Adz Core.</source>
-        <translation>Willkommen zu Adz Core.</translation>
+        <source>Welcome to AdzCoin Core.</source>
+        <translation>Willkommen zu AdzCoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
-        <translation>Da dies das erste Mal ist, dass Sie Adz Core starten, legen Sie jetzt bitte fest, an welchem Ort die Daten gespeichert werden sollen.</translation>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
+        <translation>Da dies das erste Mal ist, dass Sie AdzCoin Core starten, legen Sie jetzt bitte fest, an welchem Ort die Daten gespeichert werden sollen.</translation>
     </message>
     <message>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Adz Core wird jetzt die Blockchain laden und lokal speichern. Dafür sind mindestens %1GB freier Speicherplatz erforderlich. Der Speicherbedarf wird mit der Zeit anwachsen. Das Wallet wird ebenfalls in diesem Verzeichnis gespeichert.</translation>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AdzCoin Core wird jetzt die Blockchain laden und lokal speichern. Dafür sind mindestens %1GB freier Speicherplatz erforderlich. Der Speicherbedarf wird mit der Zeit anwachsen. Das Wallet wird ebenfalls in diesem Verzeichnis gespeichert.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1142,8 +1142,8 @@ Der Mixing-Prozeß läuft nach dem Start vollständig im Hintergrund, d.h. es is
         <translation>Ein benutzerdefiniertes Datenverzeichnis verwenden:</translation>
     </message>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1339,12 +1339,12 @@ Der Mixing-Prozeß läuft nach dem Start vollständig im Hintergrund, d.h. es is
         <translation>W&amp;allet</translation>
     </message>
     <message>
-        <source>Automatically start Adz Core after logging in to the system.</source>
-        <translation>Adz Core nach der Anmeldung am System automatisch starten.</translation>
+        <source>Automatically start AdzCoin Core after logging in to the system.</source>
+        <translation>AdzCoin Core nach der Anmeldung am System automatisch starten.</translation>
     </message>
     <message>
-        <source>&amp;Start Adz Core on system login</source>
-        <translation>&amp;Starte Adz Core während der Systemanmeldung</translation>
+        <source>&amp;Start AdzCoin Core on system login</source>
+        <translation>&amp;Starte AdzCoin Core während der Systemanmeldung</translation>
     </message>
     <message>
         <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
@@ -1391,8 +1391,8 @@ Der Mixing-Prozeß läuft nach dem Start vollständig im Hintergrund, d.h. es is
         <translation>Beim Erreichen dieses Betrages wird PrivateSend ausgeschaltet.</translation>
     </message>
     <message>
-        <source>Automatically open the Adz Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den Adz Core Clientport auf dem Router öffnen. Dies funktioniert nur, wenn Ihr Router UPnP unterstützt und dies aktiviert ist.</translation>
+        <source>Automatically open the AdzCoin Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den AdzCoin Core Clientport auf dem Router öffnen. Dies funktioniert nur, wenn Ihr Router UPnP unterstützt und dies aktiviert ist.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1415,8 +1415,8 @@ Der Mixing-Prozeß läuft nach dem Start vollständig im Hintergrund, d.h. es is
         <translation>Minimiert die Anwendung anstatt sie zu beenden wenn das Fenster geschlossen wird. Wenn dies aktiviert ist, müssen Sie das Programm über "Beenden" im Menü schließen.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Adz Core.</source>
-        <translation>Legt die Sprache der Benutzeroberfläche fest. Diese Einstellung wird erst nach einem Neustart von Adz Core aktiv.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AdzCoin Core.</source>
+        <translation>Legt die Sprache der Benutzeroberfläche fest. Diese Einstellung wird erst nach einem Neustart von AdzCoin Core aktiv.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items.&lt;br/&gt;%s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1894,7 +1894,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Ungültige Zahlungsadresse %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</source>
         <translation>URI konnte nicht erfolgreich verarbeitet werden. Höchstwahrscheinlich ist dies entweder keine gültige Adz-Adresse oder die URI-Parameter sind falsch gesetzt. </translation>
     </message>
     <message>
@@ -1976,7 +1976,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Betrag</translation>
     </message>
     <message>
-        <source>Enter a Adz address (e.g. %1)</source>
+        <source>Enter a AdzCoin address (e.g. %1)</source>
         <translation>Adz-Adresse eingeben (z.B. %1)</translation>
     </message>
     <message>
@@ -2114,7 +2114,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Speicherbenutzung</translation>
     </message>
     <message>
-        <source>Open the Adz Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the AdzCoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Öffnet die Adz-Debugprotokolldatei aus dem aktuellen Datenverzeichnis. Dies kann bei großen Protokolldateien einige Sekunden dauern.</translation>
     </message>
     <message>
@@ -2322,8 +2322,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Knoten wieder erla&amp;uben</translation>
     </message>
     <message>
-        <source>Welcome to the Adz Core RPC console.</source>
-        <translation>Willkommen in der Adz Core RPC-Console.</translation>
+        <source>Welcome to the AdzCoin Core RPC console.</source>
+        <translation>Willkommen in der AdzCoin Core RPC-Console.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2863,7 +2863,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
 Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie ihrer wallet.dat nutzten und die Adz dort ausgegeben haben. Diese Ausgaben sind in diesem Fall in der derzeit aktiven Wallet nicht vermerkt.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adz address</source>
+        <source>Warning: Invalid AdzCoin address</source>
         <translation>Warnung: ungültige Adz-Adresse</translation>
     </message>
     <message>
@@ -2886,7 +2886,7 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>E&amp;mpfänger:</translation>
     </message>
     <message>
-        <source>The Adz address to send the payment to</source>
+        <source>The AdzCoin address to send the payment to</source>
         <translation>Adz-Adresse, an die überwiesen werden soll</translation>
     </message>
     <message>
@@ -2961,7 +2961,7 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adz Core is shutting down...</source>
+        <source>AdzCoin Core is shutting down...</source>
         <translation>Adz-Core wird herunter gefahren...</translation>
     </message>
     <message>
@@ -2984,7 +2984,7 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>Sie können Nachrichten mit ihren Adressen signieren, um den Besitz dieser Adressen zu beweisen. Bitte nutzen Sie diese Funktion mit Vorsicht und nehmen Sie sich vor Phishingangriffen in Acht. Signieren Sie nur Nachrichten, mit denen Sie vollständig einverstanden sind.</translation>
     </message>
     <message>
-        <source>The Adz address to sign the message with</source>
+        <source>The AdzCoin address to sign the message with</source>
         <translation>Adz-Adresse, mit der die Nachricht signiert werden soll</translation>
     </message>
     <message>
@@ -3016,7 +3016,7 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>Aktuelle Signatur in die Zwischenablage kopieren</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adz address</source>
+        <source>Sign the message to prove you own this AdzCoin address</source>
         <translation>Die Nachricht signieren, um den Besitz dieser Adz-Adresse zu belegen</translation>
     </message>
     <message>
@@ -3040,11 +3040,11 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>Geben Sie die signierende Adresse, Nachricht (achten Sie darauf Zeilenumbrüche, Leerzeichen, Tabulatoren usw. exakt zu kopieren) und Signatur unten ein, um die Nachricht zu verifizieren. Vorsicht, interpretieren Sie nicht mehr in die Signatur hinein, als in der signierten Nachricht selber enthalten ist, um nicht von einem Man-in-the-middle-Angriff hinters Licht geführt zu werden.</translation>
     </message>
     <message>
-        <source>The Adz address the message was signed with</source>
+        <source>The AdzCoin address the message was signed with</source>
         <translation>Adz-Adresse, mit der die Nachricht signiert worden ist</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
         <translation>Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen Adz-Adresse signiert wurde</translation>
     </message>
     <message>
@@ -3111,8 +3111,8 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3123,8 +3123,8 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>Die "Bitcoin Core"-Entwickler</translation>
     </message>
     <message>
-        <source>The Adz Core developers</source>
-        <translation>Die "Adz Core"-Entwickler</translation>
+        <source>The AdzCoin Core developers</source>
+        <translation>Die "AdzCoin Core"-Entwickler</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3689,7 +3689,7 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>An die angegebene Adresse binden und immer abhören. Für IPv6 "[Host]:Port"-Schreibweise verwenden</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
         <translation>Das Programm kann das Daten-Verzeichnis %s nicht als "in Verwendung" markieren. Wahrscheinlich läuft das Programm bereits.</translation>
     </message>
     <message>
@@ -3729,8 +3729,8 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>Dies ist eine Vorab-Testversion - Verwendung auf eigene Gefahr - nicht für Mining- oder Handelsanwendungen nutzen!</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
-        <translation>Adz Core den Prozess %s auf dem Computer nicht an sich binden. Wahrscheinlich läuft das Programm bereits.</translation>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
+        <translation>AdzCoin Core den Prozess %s auf dem Computer nicht an sich binden. Wahrscheinlich läuft das Programm bereits.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4009,8 +4009,8 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>Copyright (C) 2009-%i Die "Bitcoin Core"-Entwickler</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
-        <translation>Copyright (C) 2014-%i Die "Adz Core"-Entwickler</translation>
+        <source>Copyright (C) 2014-%i The AdzCoin Core Developers</source>
+        <translation>Copyright (C) 2014-%i Die "AdzCoin Core"-Entwickler</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -4021,8 +4021,8 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>Fehler bei der Verbindung zum Masternode.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
-        <translation>Fehler beim Laden von wallet.dat: Wallet benötigt neuere Version von Adz Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</source>
+        <translation>Fehler beim Laden von wallet.dat: Wallet benötigt neuere Version von AdzCoin Core</translation>
     </message>
     <message>
         <source>Found enough users, signing ( waiting %s )</source>
@@ -4065,9 +4065,9 @@ Dies kann passieren, wenn einige Adz aus ihrer Wallet bereits ausgegeben wurden.
         <translation>Hinweis</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
         <translation>Fehler beim Initialisieren (Plausibilitätsprüfung fehlgeschlagen).
-Adz Core wird heruntergefahren.</translation>
+AdzCoin Core wird heruntergefahren.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4298,7 +4298,7 @@ Adz Core wird heruntergefahren.</translation>
         <translation>Wert größer als der vom PrivateSend Pool maximal erlaubte.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
+        <source>Wallet needed to be rewritten: restart AdzCoin Core to complete</source>
         <translation>Die Wallet musste neu geschrieben werden. Bitte das Programm neu starten um den Vorgang abzuschließen</translation>
     </message>
     <message>
@@ -4430,8 +4430,8 @@ Adz Core wird heruntergefahren.</translation>
         <translation>Maximale Gesamtgebühren (in %s) für eine einzelne Transaktion.  Sind diese Gebühren zu gering könnten große Transaktionen evtl. abgebrochen werden (Standard: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
-        <translation>Bitte überprüfen Sie die Datums- und Uhrzeiteinstellungen ihres Computers, da Adz Core ansonsten nicht ordnungsgemäß funktionieren wird!</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</source>
+        <translation>Bitte überprüfen Sie die Datums- und Uhrzeiteinstellungen ihres Computers, da AdzCoin Core ansonsten nicht ordnungsgemäß funktionieren wird!</translation>
     </message>
     <message>
         <source>PrivateSend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>

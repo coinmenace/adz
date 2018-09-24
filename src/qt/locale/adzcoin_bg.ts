@@ -188,8 +188,8 @@
         <translation>Въведете старата парола и нова парола за портфейла.</translation>
     </message>
     <message>
-        <source>Adz Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
-        <translation>Adz Core ще се затвори за да завърши процеса на криптиране. Запомнете, това криптира вашият портфейл, но не може да защити вашите Adz от вируси заразили  компютъра Ви.</translation>
+        <source>AdzCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
+        <translation>AdzCoin Core ще се затвори за да завърши процеса на криптиране. Запомнете, това криптира вашият портфейл, но не може да защити вашите Adz от вируси заразили  компютъра Ви.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -242,7 +242,7 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>Adz Ядро</translation>
     </message>
     <message>
@@ -266,7 +266,7 @@
         <translation>&amp;Изпращане</translation>
     </message>
     <message>
-        <source>Send coins to a Adz address</source>
+        <source>Send coins to a AdzCoin address</source>
         <translation>Изпращане на монети към Adz адрес</translation>
     </message>
     <message>
@@ -302,12 +302,12 @@
         <translation>Изход от приложението</translation>
     </message>
     <message>
-        <source>&amp;About Adz Core</source>
+        <source>&amp;About AdzCoin Core</source>
         <translation>&amp;За Adz ядрото</translation>
     </message>
     <message>
-        <source>Show information about Adz Core</source>
-        <translation>Покаци информация за Adz Core</translation>
+        <source>Show information about AdzCoin Core</source>
+        <translation>Покаци информация за AdzCoin Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -462,8 +462,8 @@
         <translation>&amp;Опции на командния ред</translation>
     </message>
     <message>
-        <source>Adz Core client</source>
-        <translation>Adz Core клиент</translation>
+        <source>AdzCoin Core client</source>
+        <translation>AdzCoin Core клиент</translation>
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
@@ -518,8 +518,8 @@
         <translation><numerusform>%n часа</numerusform><numerusform>%n часа</numerusform></translation>
     </message>
     <message>
-        <source>Modify configuration options for Adz Core</source>
-        <translation>Промяна опциите за конфигуриране на Adz Core</translation>
+        <source>Modify configuration options for AdzCoin Core</source>
+        <translation>Промяна опциите за конфигуриране на AdzCoin Core</translation>
     </message>
     <message>
         <source>Open Wallet &amp;Configuration File</source>
@@ -534,8 +534,8 @@
         <translation>Отвори Masternode конфигурационен файл</translation>
     </message>
     <message>
-        <source>Show the Adz Core help message to get a list with possible Adz Core command-line options</source>
-        <translation>Покажи съобщението за помощ на Adz Core за да получите списък с възможните опции за командния ред на Adz Core</translation>
+        <source>Show the AdzCoin Core help message to get a list with possible AdzCoin Core command-line options</source>
+        <translation>Покажи съобщението за помощ на AdzCoin Core за да получите списък с възможните опции за командния ред на AdzCoin Core</translation>
     </message>
     <message>
         <source>&amp;PrivateSend information</source>
@@ -1008,7 +1008,7 @@
         <translation>Редактиране на адрес за изпращане</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adz address.</source>
+        <source>The entered address "%1" is not a valid AdzCoin address.</source>
         <translation>Въведеният адрес "%1" не е валиден Adz адрес.</translation>
     </message>
     <message>
@@ -1050,7 +1050,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>Adz ядро</translation>
     </message>
     <message>
@@ -1062,7 +1062,7 @@
         <translation>(%1-битов)</translation>
     </message>
     <message>
-        <source>About Adz Core</source>
+        <source>About AdzCoin Core</source>
         <translation>За Adz ядрото</translation>
     </message>
     <message>
@@ -1121,15 +1121,15 @@
         <translation>Добре дошли</translation>
     </message>
     <message>
-        <source>Welcome to Adz Core.</source>
+        <source>Welcome to AdzCoin Core.</source>
         <translation>Добре дошли в ядрото на Adz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
         <translation>Тъй като програмата се стартира за първи път вие може да изберете къде Adz да съхранява своята информация.</translation>
     </message>
     <message>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Adz ще свали и съхрани копие на Adz регистъра на блокове. Информацията ще заеме поне %1ГБ  пространство и ще нараства с времето. В тази папка ще бъде съхранен и портфейла. </translation>
     </message>
     <message>
@@ -1141,7 +1141,7 @@
         <translation>Определете папка по ваш избор:</translation>
     </message>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>Adz ядро</translation>
     </message>
     <message>
@@ -1338,12 +1338,12 @@
         <translation>П&amp;ортфейл</translation>
     </message>
     <message>
-        <source>Automatically start Adz Core after logging in to the system.</source>
-        <translation>Автоматично стартиране на Adz Core след влизане в системата.</translation>
+        <source>Automatically start AdzCoin Core after logging in to the system.</source>
+        <translation>Автоматично стартиране на AdzCoin Core след влизане в системата.</translation>
     </message>
     <message>
-        <source>&amp;Start Adz Core on system login</source>
-        <translation>&amp;Стартиране на Adz Core при влизане</translation>
+        <source>&amp;Start AdzCoin Core on system login</source>
+        <translation>&amp;Стартиране на AdzCoin Core при влизане</translation>
     </message>
     <message>
         <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
@@ -1390,8 +1390,8 @@
         <translation>Тази сума действа като лимит, за да се изключи PrivateSend, когато веднъж бъде достигнат.</translation>
     </message>
     <message>
-        <source>Automatically open the Adz Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматично отваря порта за Adz Core клиента в маршрутизатора. Това работи само когато вашият маршрутизатор поддържа UPnP и той е разрешен.</translation>
+        <source>Automatically open the AdzCoin Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматично отваря порта за AdzCoin Core клиента в маршрутизатора. Това работи само когато вашият маршрутизатор поддържа UPnP и той е разрешен.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1414,8 +1414,8 @@
         <translation>При затваряне на прозореца приложението остава минимизирано. Ако изберете тази опция, приложението може да се затвори само чрез Изход в менюто.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Adz Core.</source>
-        <translation>Тук можете да промените езика на потребителския изглед. Настройката ще влезе в сила след рестартиране на Adz Core. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AdzCoin Core.</source>
+        <translation>Тук можете да промените езика на потребителския изглед. Настройката ще влезе в сила след рестартиране на AdzCoin Core. </translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items.&lt;br/&gt;%s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1892,7 +1892,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Невалиден адрес за плащане %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</source>
         <translation>Грешка при анализ на URI! Това може да е следствие от неправилен Adz адрес или неправилно зададени URI параметри.</translation>
     </message>
     <message>
@@ -1974,7 +1974,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Сума</translation>
     </message>
     <message>
-        <source>Enter a Adz address (e.g. %1)</source>
+        <source>Enter a AdzCoin address (e.g. %1)</source>
         <translation>Въведете Adz адрес (напр.%1)</translation>
     </message>
     <message>
@@ -2112,8 +2112,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Използвана памет</translation>
     </message>
     <message>
-        <source>Open the Adz Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Отваря файла за откриване на грешки на Adz Core от текущата папка.  За по-големите файлове това може да отнеме няколко секунди.</translation>
+        <source>Open the AdzCoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Отваря файла за откриване на грешки на AdzCoin Core от текущата папка.  За по-големите файлове това може да отнеме няколко секунди.</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -2320,8 +2320,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>&amp;Премахване на бан за Node</translation>
     </message>
     <message>
-        <source>Welcome to the Adz Core RPC console.</source>
-        <translation>Добре дошли в Adz Core RPC конзолата.</translation>
+        <source>Welcome to the AdzCoin Core RPC console.</source>
+        <translation>Добре дошли в AdzCoin Core RPC конзолата.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2860,7 +2860,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Транзакцията беше отхвърлена! Това може да се случи, ако някои от монетите в портфейла ви, вече са изразходвани, например ако се използва копие от wallet.dat и монетите са изразходвани в копието, но не са отбелязани като изразходвани тук.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adz address</source>
+        <source>Warning: Invalid AdzCoin address</source>
         <translation>Внимание: Невалиден Adz адрес</translation>
     </message>
     <message>
@@ -2883,7 +2883,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Плати &amp;На:</translation>
     </message>
     <message>
-        <source>The Adz address to send the payment to</source>
+        <source>The AdzCoin address to send the payment to</source>
         <translation>Adz адресът да изпрати плащането към </translation>
     </message>
     <message>
@@ -2958,7 +2958,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adz Core is shutting down...</source>
+        <source>AdzCoin Core is shutting down...</source>
         <translation>Adz ядрото се изключва...</translation>
     </message>
     <message>
@@ -2981,7 +2981,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Може да подпишете съобщенията/потвържденията с вашите адреси като доказателство, че сте получили Adz. Бъдете внимателни, не подписвайте съобщения, които биха разкрили лична информация без ваше съгласие.</translation>
     </message>
     <message>
-        <source>The Adz address to sign the message with</source>
+        <source>The AdzCoin address to sign the message with</source>
         <translation>Adz адресът да подпише съобщението</translation>
     </message>
     <message>
@@ -3013,7 +3013,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Копиране на текущия подпис в системния клипборд</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adz address</source>
+        <source>Sign the message to prove you own this AdzCoin address</source>
         <translation>Подпиши съобщението за да докажеш че притежаваш този Adz адрес</translation>
     </message>
     <message>
@@ -3037,11 +3037,11 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Въведете адреса на получателя, съобщението (уверете се, че сте копирали редовете, спациите, табовете и другите точно) и подпишете отдолу, за да удостоверите съобщението. Внимавайте да не вмъкнете излишни символи в подписа от това, което е в самото съобщение, за избегнете риска от злонамерена външна намеса. Имайте предвид, че това само доказва, че подписа е получен с адреса, но не доказва изпращането на всяка транзакция!</translation>
     </message>
     <message>
-        <source>The Adz address the message was signed with</source>
+        <source>The AdzCoin address the message was signed with</source>
         <translation>Adz адресът ,с който е подписано съобщението</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
         <translation>Проверете съобщението, за да сте сигурни че е подписано с определен Adz адрес</translation>
     </message>
     <message>
@@ -3108,7 +3108,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>Adz Ядро</translation>
     </message>
     <message>
@@ -3120,7 +3120,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Водещи Bitcoin разработчици</translation>
     </message>
     <message>
-        <source>The Adz Core developers</source>
+        <source>The AdzCoin Core developers</source>
         <translation>Водещи Adz разработчици</translation>
     </message>
     <message>
@@ -3686,7 +3686,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Свързва се с посочения адрес и винаги слуша за него. Използвайте [хост]:порт за изписване при IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
         <translation>Не може да се заключи дата директорията %s. Adz ядрото вече работи.</translation>
     </message>
     <message>
@@ -3726,7 +3726,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Това е предварителна тест версия - използвайте я на ваша отговорност - не използвайте за копане или за търговски приложения.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
         <translation>Не може да се свърже с %s на този компютър. Adz ядрото най-вероятно вече работи.</translation>
     </message>
     <message>
@@ -4006,8 +4006,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Запазени права (C) 2009-%i Bitcoin Core разработчици</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
-        <translation>Запазени права (C) 2014-%i Adz Core разработчиците</translation>
+        <source>Copyright (C) 2014-%i The AdzCoin Core Developers</source>
+        <translation>Запазени права (C) 2014-%i AdzCoin Core разработчиците</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -4018,8 +4018,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Грешка при свързване с Masternode.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
-        <translation>Грешка при зареждане на wallet.dat: портфейлът изисква по-нова версия на Adz Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</source>
+        <translation>Грешка при зареждане на wallet.dat: портфейлът изисква по-нова версия на AdzCoin Core</translation>
     </message>
     <message>
         <source>Found enough users, signing ( waiting %s )</source>
@@ -4062,7 +4062,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
         <translation>Инициализационната проверка не успешна. Adz ядрото се изключва.</translation>
     </message>
     <message>
@@ -4294,7 +4294,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Стойност повече от максимално позволената в PrivateSend басейна.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
+        <source>Wallet needed to be rewritten: restart AdzCoin Core to complete</source>
         <translation>Портфейлът трябва да бъде презаписан: рестартирайте Adz за да завършите</translation>
     </message>
     <message>
@@ -4426,8 +4426,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Максимална крайна такса (в %s) използвана в единична транзакция, ако е зададена твърде малка, няма да бъдат възможни големи транзакции (по подразбиране: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
-        <translation>Моля проверете дали датата и часът на вашият компютър са верни! Ако часовникът ви не е сверен, Adz Core няма да работи правилно.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</source>
+        <translation>Моля проверете дали датата и часът на вашият компютър са верни! Ако часовникът ви не е сверен, AdzCoin Core няма да работи правилно.</translation>
     </message>
     <message>
         <source>PrivateSend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>

@@ -234,8 +234,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -258,7 +258,7 @@
         <translation>&amp;Odoslať</translation>
     </message>
     <message>
-        <source>Send coins to a Adz address</source>
+        <source>Send coins to a AdzCoin address</source>
         <translation>Poslať mince na Adz adresu</translation>
     </message>
     <message>
@@ -294,12 +294,12 @@
         <translation>Ukončiť program</translation>
     </message>
     <message>
-        <source>&amp;About Adz Core</source>
-        <translation>&amp;O Adz Core</translation>
+        <source>&amp;About AdzCoin Core</source>
+        <translation>&amp;O AdzCoin Core</translation>
     </message>
     <message>
-        <source>Show information about Adz Core</source>
-        <translation>Zobraziť informácie o Adz Core</translation>
+        <source>Show information about AdzCoin Core</source>
+        <translation>Zobraziť informácie o AdzCoin Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -454,8 +454,8 @@
         <translation>Možnosti príkazového riadku</translation>
     </message>
     <message>
-        <source>Adz Core client</source>
-        <translation>Adz Core klient</translation>
+        <source>AdzCoin Core client</source>
+        <translation>AdzCoin Core klient</translation>
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
@@ -510,8 +510,8 @@
         <translation><numerusform>%n hodina</numerusform><numerusform>%n hodiny</numerusform><numerusform>%n hodín</numerusform></translation>
     </message>
     <message>
-        <source>Modify configuration options for Adz Core</source>
-        <translation>Upraviť možnosti konfigurácie Adz Core</translation>
+        <source>Modify configuration options for AdzCoin Core</source>
+        <translation>Upraviť možnosti konfigurácie AdzCoin Core</translation>
     </message>
     <message>
         <source>Open Wallet &amp;Configuration File</source>
@@ -984,7 +984,7 @@
         <translation>Upraviť odosielaciu adresu</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adz address.</source>
+        <source>The entered address "%1" is not a valid AdzCoin address.</source>
         <translation>Zadaná adresa "%1" nie je platná Adz adresa.</translation>
     </message>
     <message>
@@ -1026,8 +1026,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1038,8 +1038,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Adz Core</source>
-        <translation>O Adz Core</translation>
+        <source>About AdzCoin Core</source>
+        <translation>O AdzCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1077,16 +1077,16 @@
         <translation>Vitajte</translation>
     </message>
     <message>
-        <source>Welcome to Adz Core.</source>
-        <translation>Vitajte v Adz Core.</translation>
+        <source>Welcome to AdzCoin Core.</source>
+        <translation>Vitajte v AdzCoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
-        <translation>Keďže toto je prvý krát čo spúšťate tento program, môžete vybrať kam bude Adz Core ukladať svoje dáta.</translation>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
+        <translation>Keďže toto je prvý krát čo spúšťate tento program, môžete vybrať kam bude AdzCoin Core ukladať svoje dáta.</translation>
     </message>
     <message>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Adz Core stiahne a uloží kópiu reťazca blokov Adz. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AdzCoin Core stiahne a uloží kópiu reťazca blokov Adz. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1097,8 +1097,8 @@
         <translation>Použiť vlastný dátový adresár:</translation>
     </message>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1230,11 +1230,11 @@
         <translation>Peňaženka</translation>
     </message>
     <message>
-        <source>Automatically start Adz Core after logging in to the system.</source>
-        <translation>Automaticky spustiť Adz Core po prihlásení do systému.</translation>
+        <source>Automatically start AdzCoin Core after logging in to the system.</source>
+        <translation>Automaticky spustiť AdzCoin Core po prihlásení do systému.</translation>
     </message>
     <message>
-        <source>&amp;Start Adz Core on system login</source>
+        <source>&amp;Start AdzCoin Core on system login</source>
         <translation>&amp;Spusť Adz po prihlásení do systému</translation>
     </message>
     <message>
@@ -1673,7 +1673,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Neplatná adresa platby %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</source>
         <translation>URI sa nedá analyzovať! Toto môže byť spôsobené neplatnou Adz adresou, alebo nesprávnym tvarom URI parametrov.</translation>
     </message>
     <message>
@@ -1747,7 +1747,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Adz address (e.g. %1)</source>
+        <source>Enter a AdzCoin address (e.g. %1)</source>
         <translation>Zadajte Adz adresu (e.g. %1)</translation>
     </message>
     <message>
@@ -2541,7 +2541,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Transakcia bola zamietnutá! Toto sa môže stať ak niektoré coins vo vašej peňaženke už boli minuté, ako keď použijete kópiu wallet.dat a coins boli minuté z kópie ale neoznačené ako minuté tu.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adz address</source>
+        <source>Warning: Invalid AdzCoin address</source>
         <translation>Upozornenie: Neplatná Adz adresa</translation>
     </message>
     <message>
@@ -2564,7 +2564,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Zapla&amp;tiť:</translation>
     </message>
     <message>
-        <source>The Adz address to send the payment to</source>
+        <source>The AdzCoin address to send the payment to</source>
         <translation>Adz adresa pre poslanie platby</translation>
     </message>
     <message>
@@ -2623,8 +2623,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adz Core is shutting down...</source>
-        <translation>Adz core sa vypína...</translation>
+        <source>AdzCoin Core is shutting down...</source>
+        <translation>AdzCoin Core sa vypína...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2642,7 +2642,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>&amp;Podpísať Správu</translation>
     </message>
     <message>
-        <source>The Adz address to sign the message with</source>
+        <source>The AdzCoin address to sign the message with</source>
         <translation>Adz adresa na podpísanie správy</translation>
     </message>
     <message>
@@ -2674,7 +2674,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Kopírovať práve zvolenú adresu do systémového klipbordu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adz address</source>
+        <source>Sign the message to prove you own this AdzCoin address</source>
         <translation>Podpísať spravu aby ste dokázali, že vlastníte túto Adz adresu</translation>
     </message>
     <message>
@@ -2694,11 +2694,11 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Overiť správu...</translation>
     </message>
     <message>
-        <source>The Adz address the message was signed with</source>
+        <source>The AdzCoin address the message was signed with</source>
         <translation>Adresa Adz s ktorou bola podpísaná správa</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
         <translation>Overiť správu pre uistenie, že bola podpísaná zadanou Adz adresou</translation>
     </message>
     <message>
@@ -2765,8 +2765,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2777,8 +2777,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Vývojári Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Adz Core developers</source>
-        <translation>Vývojári Adz Core</translation>
+        <source>The AdzCoin Core developers</source>
+        <translation>Vývojári AdzCoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3331,8 +3331,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Spojiť s danou adresou a vždy na nej počúvať. Použite zápis [host]:port pre IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
-        <translation>Nedá sa zamknúť dátový adresár %s. Adz Core už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
+        <translation>Nedá sa zamknúť dátový adresár %s. AdzCoin Core už pravdepodobne beží.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -3371,8 +3371,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Toto je predbežná testovacia zostava - používate na vlastné riziko - nepoužívajte na ťaženie alebo obchodné aplikácie</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
-        <translation>Nedá sa viazať ku %s na tomto počítači. Adz Core už pravdepodobne beží.</translation>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
+        <translation>Nedá sa viazať ku %s na tomto počítači. AdzCoin Core už pravdepodobne beží.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3631,7 +3631,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Autorské práva (C) 2009-%i Vývojári Bitcoin Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
+        <source>Copyright (C) 2014-%i The AdzCoin Core Developers</source>
         <translation>Autorské práva (C) 2014-%i Vývojári jadra Adz</translation>
     </message>
     <message>
@@ -3643,8 +3643,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Chyba pripojenia k Masternode.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Adz Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu AdzCoin Core</translation>
     </message>
     <message>
         <source>Found enough users, signing ( waiting %s )</source>
@@ -3687,8 +3687,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Informácie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
-        <translation>Inicializácia kontroly zdravia zlyhala. Adz Core sa vypína.</translation>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
+        <translation>Inicializácia kontroly zdravia zlyhala. AdzCoin Core sa vypína.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -3895,8 +3895,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Väčšia hodnota ako dovoľuje fronta PrivateSend.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
-        <translation>Bolo potrebné prepísať peňaženku: k dokončeniu reštartujte Adz Core</translation>
+        <source>Wallet needed to be rewritten: restart AdzCoin Core to complete</source>
+        <translation>Bolo potrebné prepísať peňaženku: k dokončeniu reštartujte AdzCoin Core</translation>
     </message>
     <message>
         <source>Will retry...</source>
@@ -3983,8 +3983,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Celkové maximum poplatkov (v %s) pre použitie jednej transakcie peňaženky. Príliš malá hodnota môže prerušiť veľké transakcie (predvolené: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
-        <translation>Skontrolujte si prosím či máte správny čas a dátum na Vašom počítači. Ak je Vaše nastavenie zlé, Adz Core nebude pracovať správne.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</source>
+        <translation>Skontrolujte si prosím či máte správny čas a dátum na Vašom počítači. Ak je Vaše nastavenie zlé, AdzCoin Core nebude pracovať správne.</translation>
     </message>
     <message>
         <source>PrivateSend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>

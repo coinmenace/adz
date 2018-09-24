@@ -188,8 +188,8 @@
         <translation>Hãy nhập vào mật khẩu cũ và mật khẩu mới cho ví của bạn.</translation>
     </message>
     <message>
-        <source>Adz Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
-        <translation>Adz Core sẽ được đóng lại để hoàn thành quá trình mã hoá. Hãy nhớ rằng mã hoá ví của bạn không thể hoàn toàn bảo vệ Adz của bạn khỏi bị ăn cắp bởi việc máy tính của bạn nhiễm mã độc.</translation>
+        <source>AdzCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
+        <translation>AdzCoin Core sẽ được đóng lại để hoàn thành quá trình mã hoá. Hãy nhớ rằng mã hoá ví của bạn không thể hoàn toàn bảo vệ Adz của bạn khỏi bị ăn cắp bởi việc máy tính của bạn nhiễm mã độc.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -242,8 +242,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -266,7 +266,7 @@
         <translation>&amp;Gửi</translation>
     </message>
     <message>
-        <source>Send coins to a Adz address</source>
+        <source>Send coins to a AdzCoin address</source>
         <translation>Gửi tiền vào địa chỉ Adz</translation>
     </message>
     <message>
@@ -302,12 +302,12 @@
         <translation>Thoát ứng dụng</translation>
     </message>
     <message>
-        <source>&amp;About Adz Core</source>
-        <translation>&amp;Về Adz Core</translation>
+        <source>&amp;About AdzCoin Core</source>
+        <translation>&amp;Về AdzCoin Core</translation>
     </message>
     <message>
-        <source>Show information about Adz Core</source>
-        <translation>Hiển thị thông tin về Adz Core</translation>
+        <source>Show information about AdzCoin Core</source>
+        <translation>Hiển thị thông tin về AdzCoin Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -462,8 +462,8 @@
         <translation>&amp;Các Tuỳ chọn dòng lệnh</translation>
     </message>
     <message>
-        <source>Adz Core client</source>
-        <translation>Phần mềm Adz Core</translation>
+        <source>AdzCoin Core client</source>
+        <translation>Phần mềm AdzCoin Core</translation>
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
@@ -518,8 +518,8 @@
         <translation><numerusform>%n giờ</numerusform></translation>
     </message>
     <message>
-        <source>Modify configuration options for Adz Core</source>
-        <translation>Thay đổi các tuỳ chọn cấu hình cho Adz Core</translation>
+        <source>Modify configuration options for AdzCoin Core</source>
+        <translation>Thay đổi các tuỳ chọn cấu hình cho AdzCoin Core</translation>
     </message>
     <message>
         <source>Open Wallet &amp;Configuration File</source>
@@ -534,8 +534,8 @@
         <translation>Mở file cấu hình Masternode</translation>
     </message>
     <message>
-        <source>Show the Adz Core help message to get a list with possible Adz Core command-line options</source>
-        <translation>Hiển thị thông tin hướng dẫn Adz Core để lấy một danh sách các tuỳ chọn dòng lệnh có thể dùng với Adz Core</translation>
+        <source>Show the AdzCoin Core help message to get a list with possible AdzCoin Core command-line options</source>
+        <translation>Hiển thị thông tin hướng dẫn AdzCoin Core để lấy một danh sách các tuỳ chọn dòng lệnh có thể dùng với AdzCoin Core</translation>
     </message>
     <message>
         <source>&amp;PrivateSend information</source>
@@ -1008,7 +1008,7 @@
         <translation>Sửa địa chỉ gửi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adz address.</source>
+        <source>The entered address "%1" is not a valid AdzCoin address.</source>
         <translation>Địa chỉ vừa nhập "%1" không phải địa chỉ Adz hợp lệ.</translation>
     </message>
     <message>
@@ -1050,8 +1050,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1062,8 +1062,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Adz Core</source>
-        <translation>Về Adz Core</translation>
+        <source>About AdzCoin Core</source>
+        <translation>Về AdzCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1121,16 +1121,16 @@
         <translation>Chào mừng</translation>
     </message>
     <message>
-        <source>Welcome to Adz Core.</source>
-        <translation>Chào mừng đến với Adz Core.</translation>
+        <source>Welcome to AdzCoin Core.</source>
+        <translation>Chào mừng đến với AdzCoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
-        <translation>Đây là lần đầu tiên chương trình được khởi động, bạn có thể chọn nơi mà Adz Core sẽ lưu dữ liệu.</translation>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
+        <translation>Đây là lần đầu tiên chương trình được khởi động, bạn có thể chọn nơi mà AdzCoin Core sẽ lưu dữ liệu.</translation>
     </message>
     <message>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Adz Core sẽ tải và lưu một bản của sổ cái Adz. Ít nhất %1GB dữ liệu sẽ được lưu trong thư mục này, và nó sẽ tăng lên theo thời gian. Ví của bạn cũng sẽ được lưu trong thư mục này.</translation>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AdzCoin Core sẽ tải và lưu một bản của sổ cái Adz. Ít nhất %1GB dữ liệu sẽ được lưu trong thư mục này, và nó sẽ tăng lên theo thời gian. Ví của bạn cũng sẽ được lưu trong thư mục này.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1141,8 +1141,8 @@
         <translation>Sử dụng thư mục dữ liệu tuỳ chọn:</translation>
     </message>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1338,12 +1338,12 @@
         <translation>&amp;Ví</translation>
     </message>
     <message>
-        <source>Automatically start Adz Core after logging in to the system.</source>
-        <translation>Tự động khởi động Adz Core sau khi đăng nhập vào hệ thống.</translation>
+        <source>Automatically start AdzCoin Core after logging in to the system.</source>
+        <translation>Tự động khởi động AdzCoin Core sau khi đăng nhập vào hệ thống.</translation>
     </message>
     <message>
-        <source>&amp;Start Adz Core on system login</source>
-        <translation>Khởi động Adz Core khi đăng nhập hệ thống</translation>
+        <source>&amp;Start AdzCoin Core on system login</source>
+        <translation>Khởi động AdzCoin Core khi đăng nhập hệ thống</translation>
     </message>
     <message>
         <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
@@ -1390,8 +1390,8 @@
         <translation>Số lượng này hoạt động như là một ngưỡng để tắt PrivateSend khi nó được chạm tới.</translation>
     </message>
     <message>
-        <source>Automatically open the Adz Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Tự động mở cổng cho phần mềm Adz Core trên rounter. Điều này chỉ hoạt động được khi rounter của bạn hỗ trợ UpnP và tính năng đó được bật lên.</translation>
+        <source>Automatically open the AdzCoin Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Tự động mở cổng cho phần mềm AdzCoin Core trên rounter. Điều này chỉ hoạt động được khi rounter của bạn hỗ trợ UpnP và tính năng đó được bật lên.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1414,8 +1414,8 @@
         <translation>Thu nhỏ thay vì thoát khỏi ứng dụng khi cửa sổ được đóng lại. Khi tuỳ chọn này được bật, ứng dụng sẽ được đóng chỉ sau khi chọn chức năng Thoát trên menu.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Adz Core.</source>
-        <translation>Ngôn ngữa giao diện có thể được chọn ở đây. Tuỳ chọn này có tác dụng ngay sau khi bạn khởi động lại phần mềm Adz Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AdzCoin Core.</source>
+        <translation>Ngôn ngữa giao diện có thể được chọn ở đây. Tuỳ chọn này có tác dụng ngay sau khi bạn khởi động lại phần mềm AdzCoin Core.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items.&lt;br/&gt;%s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1892,7 +1892,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Địa chỉ thanh toán không hợp lệ %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</source>
         <translation>URI không thể phân tích. Nó có thể bởi địa chỉ Adz không hợp lệ hoặc thông số URI dị hình.</translation>
     </message>
     <message>
@@ -1974,7 +1974,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Số lượng</translation>
     </message>
     <message>
-        <source>Enter a Adz address (e.g. %1)</source>
+        <source>Enter a AdzCoin address (e.g. %1)</source>
         <translation>Hãy nhập một địa chỉ Adz (VD: %1)</translation>
     </message>
     <message>
@@ -2112,8 +2112,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Bộ nhớ sử dụng</translation>
     </message>
     <message>
-        <source>Open the Adz Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Mở file theo dõi lỗi Adz Core từ trong thư mục dữ liệu hiện tại. Nó có thể mất vài giây cho những file log lớn.</translation>
+        <source>Open the AdzCoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Mở file theo dõi lỗi AdzCoin Core từ trong thư mục dữ liệu hiện tại. Nó có thể mất vài giây cho những file log lớn.</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -2320,8 +2320,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>&amp;Bỏ cấm Nút</translation>
     </message>
     <message>
-        <source>Welcome to the Adz Core RPC console.</source>
-        <translation>Chào mừng đến với bảng điều khiển Adz Core RPC</translation>
+        <source>Welcome to the AdzCoin Core RPC console.</source>
+        <translation>Chào mừng đến với bảng điều khiển AdzCoin Core RPC</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2860,7 +2860,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Giao dịch đã bị từ chối! Điều này có thể xảy ra khi một số tiền trong ví của bạn đã được tiêu, ví dụ như là nếu bạn sử dụng một bản sao của wallet.dat và tiền đã được tiêu nhưng bản khác của ví nhưng lại chưa được đánh dấu đã tiêu trong bản này.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adz address</source>
+        <source>Warning: Invalid AdzCoin address</source>
         <translation>Cảnh báo: Địa chỉ Adz không hợp lệ</translation>
     </message>
     <message>
@@ -2883,7 +2883,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Trả &amp;Cho</translation>
     </message>
     <message>
-        <source>The Adz address to send the payment to</source>
+        <source>The AdzCoin address to send the payment to</source>
         <translation>Địa chỉ Adz để gửi thanh toán</translation>
     </message>
     <message>
@@ -2958,8 +2958,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adz Core is shutting down...</source>
-        <translation>Adz Core đang được tắt...</translation>
+        <source>AdzCoin Core is shutting down...</source>
+        <translation>AdzCoin Core đang được tắt...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2981,7 +2981,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Bạn có thể ký vào thông điệp/thoả thuận với địa chỉ của bạn để chứng minh bạn có thể nhận Adz đã gửi cho họ. Hãy cẩn thận không ký vào những gì mơ hồ hay ngẫu nhiên, như là thứ lừa đảo để lừa bạn ký xác nhận của bạn vào đó cho họ. Chỉ ký vào những gì mà bạn hoàn thoàn đồng ý.</translation>
     </message>
     <message>
-        <source>The Adz address to sign the message with</source>
+        <source>The AdzCoin address to sign the message with</source>
         <translation>Địa chỉ Adz để ký cho thông điệp</translation>
     </message>
     <message>
@@ -3013,7 +3013,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Copy chữ ký hiện tại vào bộ đệm của hệ thống</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adz address</source>
+        <source>Sign the message to prove you own this AdzCoin address</source>
         <translation>Ký vào thông điệp để chứng tỏ bạn sở hữu địa chỉ Adz</translation>
     </message>
     <message>
@@ -3037,11 +3037,11 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Hãy nhập vào địa chỉ của người nhận, thông điệp (hãy đảm bảo rằng bạn copy cả dấu xuống dòng, dấu cách, dấu tab,... một cách chính xác) và chữ ký bên dưới để kiểm tra thông điệp. Hãy cẩn thận để không đọc thêm vào phần chữ ký mà nó dùng để ký, để tránh bị đánh lừa bởi kiểu tấn công người trung gian. Chú ý đây chỉ để chứng minh chữ ký của bên nhận với địa chỉ đó, nó không thể chứng minh người gửi hoặc bất kỳ giao dich nào!</translation>
     </message>
     <message>
-        <source>The Adz address the message was signed with</source>
+        <source>The AdzCoin address the message was signed with</source>
         <translation>Địa chỉ Adz mà thông điệp được ký bởi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
         <translation>Kiểm tra lại thông điệp để đảm bảo rằng nó được ký với địa chỉ Adz cụ thể</translation>
     </message>
     <message>
@@ -3108,8 +3108,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3120,8 +3120,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Nhóm phát triển Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Adz Core developers</source>
-        <translation>Nhóm phát triển Adz Core</translation>
+        <source>The AdzCoin Core developers</source>
+        <translation>Nhóm phát triển AdzCoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3686,8 +3686,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Liên kết với địa chỉ nhất định và luôn luôn lắng nghe trên đó. Sử dụng ký hiệu [host]:port cho IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
-        <translation>Không nhận được một khoá trong thư mục %s. Adz Core có thể đã đang chạy.</translation>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
+        <translation>Không nhận được một khoá trong thư mục %s. AdzCoin Core có thể đã đang chạy.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -3726,8 +3726,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Đây là phiên bản chưa chính thức - hãy dùng và tự chấp nhận mạo hiểm - đừng dùng để đào coin hoặc các ứng dụng thương mại.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
-        <translation>Không thể để ràng buộc vào %s trên máy tính này. Adz Core có thể đã chạy.</translation>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
+        <translation>Không thể để ràng buộc vào %s trên máy tính này. AdzCoin Core có thể đã chạy.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4006,8 +4006,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Bản quyền (C) 2009-%i bởi Nhóm phát triển Bitcoin Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
-        <translation>Bản quyền (C) 2014-%i bởi Nhóm phát triển Adz Core</translation>
+        <source>Copyright (C) 2014-%i The AdzCoin Core Developers</source>
+        <translation>Bản quyền (C) 2014-%i bởi Nhóm phát triển AdzCoin Core</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -4018,8 +4018,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Lỗi kết nối tới Masternode.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
-        <translation>Lỗi nạp wallet.dat: Ví cần một phiên bản mới hơn của Adz Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</source>
+        <translation>Lỗi nạp wallet.dat: Ví cần một phiên bản mới hơn của AdzCoin Core</translation>
     </message>
     <message>
         <source>Found enough users, signing ( waiting %s )</source>
@@ -4062,8 +4062,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Thông tin</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
-        <translation>Khởi tạo việc kiểm tra tính đúng đắn thất bại. Adz Core đang được tắt.</translation>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
+        <translation>Khởi tạo việc kiểm tra tính đúng đắn thất bại. AdzCoin Core đang được tắt.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4294,8 +4294,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Giá trị lớn hơn giá trị tối đa mà PrivateSend pool cho phép.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
-        <translation>Ví cần được ghi lại: khởi động lại Adz Core để hoàn tất</translation>
+        <source>Wallet needed to be rewritten: restart AdzCoin Core to complete</source>
+        <translation>Ví cần được ghi lại: khởi động lại AdzCoin Core để hoàn tất</translation>
     </message>
     <message>
         <source>Will retry...</source>
@@ -4426,8 +4426,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Tổng phí tối đa (trong %s) để sử dụng trong một giao dịch đơn; thiết lập tham số này quá thấp có thể khiến bỏ qua những giao dịch lớn (ngầm định: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
-        <translation>Hãy kiểm tra ngày giờ trên máy tính của bạn để đảm bảo chúng được chính xác. Nếu đồng hồ của bạn không đúng Adz Core sẽ hoạt động không chính xác.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</source>
+        <translation>Hãy kiểm tra ngày giờ trên máy tính của bạn để đảm bảo chúng được chính xác. Nếu đồng hồ của bạn không đúng AdzCoin Core sẽ hoạt động không chính xác.</translation>
     </message>
     <message>
         <source>PrivateSend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>

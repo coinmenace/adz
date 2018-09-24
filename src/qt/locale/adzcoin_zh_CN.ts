@@ -231,7 +231,7 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>达世币核心</translation>
     </message>
     <message>
@@ -255,7 +255,7 @@
         <translation>发送(&amp;S)</translation>
     </message>
     <message>
-        <source>Send coins to a Adz address</source>
+        <source>Send coins to a AdzCoin address</source>
         <translation>发送币至达世币地址</translation>
     </message>
     <message>
@@ -283,11 +283,11 @@
         <translation>退出程序</translation>
     </message>
     <message>
-        <source>&amp;About Adz Core</source>
+        <source>&amp;About AdzCoin Core</source>
         <translation>&amp;关于达世币核心</translation>
     </message>
     <message>
-        <source>Show information about Adz Core</source>
+        <source>Show information about AdzCoin Core</source>
         <translation>显示关于达世币核心信息</translation>
     </message>
     <message>
@@ -451,7 +451,7 @@
         <translation>&amp;命令行 选项</translation>
     </message>
     <message>
-        <source>Adz Core client</source>
+        <source>AdzCoin Core client</source>
         <translation>达世币核心客户端</translation>
     </message>
     <message numerus="yes">
@@ -463,7 +463,7 @@
         <translation>正在同步附加数据:%p%</translation>
     </message>
     <message>
-        <source>Show the Adz Core help message to get a list with possible Adz command-line options</source>
+        <source>Show the AdzCoin Core help message to get a list with possible Adz command-line options</source>
         <translation>打开达世币核心帮助信息取得可使用的命令行列表</translation>
     </message>
     <message>
@@ -947,7 +947,7 @@ Address: %4
         <translation>编辑发送地址</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adz address.</source>
+        <source>The entered address "%1" is not a valid AdzCoin address.</source>
         <translation>输入的地址"%1"不是有效的达世币地址。</translation>
     </message>
     <message>
@@ -989,7 +989,7 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>达世币核心</translation>
     </message>
     <message>
@@ -1001,7 +1001,7 @@ Address: %4
         <translation>(%1 位)</translation>
     </message>
     <message>
-        <source>About Adz Core</source>
+        <source>About AdzCoin Core</source>
         <translation>关于 达世币核心</translation>
     </message>
     <message>
@@ -1049,15 +1049,15 @@ Address: %4
         <translation>欢迎</translation>
     </message>
     <message>
-        <source>Welcome to Adz Core.</source>
+        <source>Welcome to AdzCoin Core.</source>
         <translation>欢迎来到达世币核心。</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
         <translation>此次为第一次程序启动，你可以选择储存达世币核心数据的路径。</translation>
     </message>
     <message>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>达世币核心将会下载并存储达世币数据链。至少有%1GB的数据会保存到此路径下，并且随着时间增长。钱包文件也将存储到此路径下。</translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@ Address: %4
         <translation>使用自定义的数据目录：</translation>
     </message>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>达世币核心</translation>
     </message>
     <message>
@@ -1581,7 +1581,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>无效的付款地址 %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</source>
         <translation>链接不能被解析! 原因可能是无效的达世币地址或输入的链接有错。</translation>
     </message>
     <message>
@@ -1667,7 +1667,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>金额</translation>
     </message>
     <message>
-        <source>Enter a Adz address (e.g. %1)</source>
+        <source>Enter a AdzCoin address (e.g. %1)</source>
         <translation>输入达世币地址(e.g. %1)</translation>
     </message>
     <message>
@@ -2489,7 +2489,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>只付最低手续费%1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adz address</source>
+        <source>Warning: Invalid AdzCoin address</source>
         <translation>警告：无效的达世币地址</translation>
     </message>
     <message>
@@ -2512,7 +2512,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>付给(&amp;T)：</translation>
     </message>
     <message>
-        <source>The Adz address to send the payment to</source>
+        <source>The AdzCoin address to send the payment to</source>
         <translation>选择发款地址</translation>
     </message>
     <message>
@@ -2579,7 +2579,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adz Core is shutting down...</source>
+        <source>AdzCoin Core is shutting down...</source>
         <translation>达世币核心正在关闭...</translation>
     </message>
     <message>
@@ -2602,7 +2602,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>您可以用你的地址对消息进行签名，以证明您是该地址的所有人。注意不要对模棱两可的消息签名，以免遭受钓鱼式攻击。请确保消息内容准确的表达了您的真实意愿。</translation>
     </message>
     <message>
-        <source>The Adz address to sign the message with</source>
+        <source>The AdzCoin address to sign the message with</source>
         <translation>对此地址进行签名</translation>
     </message>
     <message>
@@ -2634,7 +2634,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>复制当前签名至剪切板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adz address</source>
+        <source>Sign the message to prove you own this AdzCoin address</source>
         <translation>签署信息证明你拥有此达世币地址</translation>
     </message>
     <message>
@@ -2658,11 +2658,11 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>在下面输入签名地址，消息（请确保换行符、空格符、制表符等等一个不漏）和签名以验证消息。请确保签名信息准确，提防中间人攻击。</translation>
     </message>
     <message>
-        <source>The Adz address the message was signed with</source>
+        <source>The AdzCoin address the message was signed with</source>
         <translation>已签名的地址</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
         <translation>验证信息用来确保此被签署信息对应相对的达世币地址</translation>
     </message>
     <message>
@@ -2729,7 +2729,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adz Core</source>
+        <source>AdzCoin Core</source>
         <translation>达世币核心</translation>
     </message>
     <message>
@@ -2741,7 +2741,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Bitcoin Core 的开发者</translation>
     </message>
     <message>
-        <source>The Adz Core developers</source>
+        <source>The AdzCoin Core developers</source>
         <translation>达世币核心开发人员</translation>
     </message>
     <message>
@@ -3307,7 +3307,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>与提供地址绑定，持续监听。使用[host]:标记IPv6端口</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
         <translation>不能获得锁定的数据目录 %s. 达世币核心可能已经在运行。</translation>
     </message>
     <message>
@@ -3339,7 +3339,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>即时支付功能需要6步确认，您可以稍后重试。</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
         <translation>无法绑定%s此计算机. 达世币核心应该已经在运行中了.</translation>
     </message>
     <message>
@@ -3603,7 +3603,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>警告: -maxtxfee 设定的金额过高! 这是一次交易就要支付的手续费.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</source>
         <translation>警告: 请检查电脑日期和时间是否正确！达世币核心没办法在时钟不准的情况下正常运作。</translation>
     </message>
     <message>
@@ -3653,8 +3653,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>版权(C) 2009-%i The Bitcoin Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
-        <translation>版权 (C) 2014-%i The Adz Core Developers</translation>
+        <source>Copyright (C) 2014-%i The AdzCoin Core Developers</source>
+        <translation>版权 (C) 2014-%i The AdzCoin Core Developers</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
@@ -3685,7 +3685,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>连接到主节点时发生错误.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</source>
         <translation>读取钱包文件错误: 需要较为新版本的达世币核心来读取钱包</translation>
     </message>
     <message>
@@ -3742,7 +3742,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>信息</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
         <translation>初始化检查失败。达世币核心正在关闭。</translation>
     </message>
     <message>
@@ -3938,7 +3938,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>断开的作弊节点临界值(默认: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
+        <source>Wallet needed to be rewritten: restart AdzCoin Core to complete</source>
         <translation>錢包需要重寫: 請重新啓動達世幣核心來完成
 钱包需要重写: 请重新启动达世币核心来完成</translation>
     </message>

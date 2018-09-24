@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -255,7 +255,7 @@
         <translation>&amp;Enviar</translation>
     </message>
     <message>
-        <source>Send coins to a Adz address</source>
+        <source>Send coins to a AdzCoin address</source>
         <translation>Enviar cuantía a una dirección Adz</translation>
     </message>
     <message>
@@ -283,12 +283,12 @@
         <translation>Salir de la aplicación</translation>
     </message>
     <message>
-        <source>&amp;About Adz Core</source>
-        <translation>&amp;Acerca de Adz Core</translation>
+        <source>&amp;About AdzCoin Core</source>
+        <translation>&amp;Acerca de AdzCoin Core</translation>
     </message>
     <message>
-        <source>Show information about Adz Core</source>
-        <translation>Mostrar información acerca de Adz Core</translation>
+        <source>Show information about AdzCoin Core</source>
+        <translation>Mostrar información acerca de AdzCoin Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -451,8 +451,8 @@
         <translation>&amp;Opciones de consola de comandos</translation>
     </message>
     <message>
-        <source>Adz Core client</source>
-        <translation>Cliente Adz Core</translation>
+        <source>AdzCoin Core client</source>
+        <translation>Cliente AdzCoin Core</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,8 +463,8 @@
         <translation>Sincronizando datos adicionales: %p%</translation>
     </message>
     <message>
-        <source>Show the Adz Core help message to get a list with possible Adz command-line options</source>
-        <translation>Mostrar el mensaje de ayuda de Adz Core para obtener una lista con las posibles opciones de la consola de comandos</translation>
+        <source>Show the AdzCoin Core help message to get a list with possible Adz command-line options</source>
+        <translation>Mostrar el mensaje de ayuda de AdzCoin Core para obtener una lista con las posibles opciones de la consola de comandos</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -947,7 +947,7 @@ Dirección: %4
         <translation>Editar dirección de envío</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adz address.</source>
+        <source>The entered address "%1" is not a valid AdzCoin address.</source>
         <translation>La dirección introducida "%1" no es una dirección Adz válida.</translation>
     </message>
     <message>
@@ -989,8 +989,8 @@ Dirección: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1001,8 +1001,8 @@ Dirección: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Adz Core</source>
-        <translation>Acerca de Adz Core</translation>
+        <source>About AdzCoin Core</source>
+        <translation>Acerca de AdzCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1048,16 +1048,16 @@ Dirección: %4
         <translation>Bienvenido</translation>
     </message>
     <message>
-        <source>Welcome to Adz Core.</source>
-        <translation>Bienvenido a Adz Core</translation>
+        <source>Welcome to AdzCoin Core.</source>
+        <translation>Bienvenido a AdzCoin Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
-        <translation>Al ser la primera vez que se ejecuta el programa, puede elegir dónde almacenará sus datos Adz Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
+        <translation>Al ser la primera vez que se ejecuta el programa, puede elegir dónde almacenará sus datos AdzCoin Core.</translation>
     </message>
     <message>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Adz Core va a descargar y guardar una copia de la cadena de bloques de Adz. Se almacenará al menos %1GB de datos en este directorio, que irá creciendo con el tiempo. El monedero se guardará también en este directorio.</translation>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AdzCoin Core va a descargar y guardar una copia de la cadena de bloques de Adz. Se almacenará al menos %1GB de datos en este directorio, que irá creciendo con el tiempo. El monedero se guardará también en este directorio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1068,8 +1068,8 @@ Dirección: %4
         <translation>Utilizar un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1588,7 +1588,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Dirección de pago no válida %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</source>
         <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección Adz inválida o a parámetros de URI mal formados.</translation>
     </message>
     <message>
@@ -1674,7 +1674,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Cuantía</translation>
     </message>
     <message>
-        <source>Enter a Adz address (e.g. %1)</source>
+        <source>Enter a AdzCoin address (e.g. %1)</source>
         <translation>Introduzca una dirección Adz (e.g. %1)</translation>
     </message>
     <message>
@@ -2496,7 +2496,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Pagar sólo la comisión mínima de %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adz address</source>
+        <source>Warning: Invalid AdzCoin address</source>
         <translation>Aviso: Dirección de Adz no válida</translation>
     </message>
     <message>
@@ -2519,7 +2519,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Pagar &amp;a:</translation>
     </message>
     <message>
-        <source>The Adz address to send the payment to</source>
+        <source>The AdzCoin address to send the payment to</source>
         <translation>La dirección Adz a la cual enviar el pago</translation>
     </message>
     <message>
@@ -2586,8 +2586,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adz Core is shutting down...</source>
-        <translation>Adz Core se está cerrando...</translation>
+        <source>AdzCoin Core is shutting down...</source>
+        <translation>AdzCoin Core se está cerrando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2609,7 +2609,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Puede firmar mensajes con sus direcciones para demostrar que las posee. Tenga cuidado de no firmar cualquier cosa vaga, ya que los ataques de phishing pueden tratar de engañarle para suplantar su identidad. Firme solo declaraciones totalmente detalladas con las que usted esté de acuerdo.</translation>
     </message>
     <message>
-        <source>The Adz address to sign the message with</source>
+        <source>The AdzCoin address to sign the message with</source>
         <translation>La dirección Adz con la cual se firma el mensaje</translation>
     </message>
     <message>
@@ -2641,7 +2641,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adz address</source>
+        <source>Sign the message to prove you own this AdzCoin address</source>
         <translation>Firmar el mensaje para demostrar que se posee esta dirección Adz</translation>
     </message>
     <message>
@@ -2665,11 +2665,11 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Introduzca la dirección para la firma, el mensaje (asegurándose de copiar tal cual los saltos de línea, espacios, tabulaciones, etc.) y la firma a continuación para verificar el mensaje. Tenga cuidado de no asumir más información de lo que dice el propio mensaje firmado para evitar fraudes basados en ataques de tipo man-in-the-middle.</translation>
     </message>
     <message>
-        <source>The Adz address the message was signed with</source>
+        <source>The AdzCoin address the message was signed with</source>
         <translation>La dirección Adz con la cual se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
         <translation>Verificar el mensaje para garantizar que fue firmado con la dirección Adz indicada</translation>
     </message>
     <message>
@@ -2736,8 +2736,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2748,8 +2748,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Los desarrolladores de Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Adz Core developers</source>
-        <translation>Los desarrolladores del Adz Core</translation>
+        <source>The AdzCoin Core developers</source>
+        <translation>Los desarrolladores del AdzCoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3326,8 +3326,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Vincular a la dirección dada y escuchar siempre en ella. Utilice la notación [host]:port para IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
-        <translation>No se ha podido bloquear el directorio de datos %s. Probablemente ya se está ejecutando Adz Core.</translation>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
+        <translation>No se ha podido bloquear el directorio de datos %s. Probablemente ya se está ejecutando AdzCoin Core.</translation>
     </message>
     <message>
         <source>Darksend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -3382,8 +3382,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Esta es una versión de pre-prueba - utilícela bajo su propio riesgo. No la utilice para usos comerciales o de minería.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. Adz Core probablemente ya está en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. AdzCoin Core probablemente ya está en funcionamiento.</translation>
     </message>
     <message>
         <source>Unable to locate enough Darksend denominated funds for this transaction.</source>
@@ -3747,8 +3747,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Alerta de Adz" admin@foo.com
         <translation>Aviso: ¡-maxtxfee se estableció en un valor muy alto! Comisiones tan grandes no se podrían pagar en una única transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
-        <translation>Aviso: ¡Por favor compruebe que la fecha y hora de su computadora son correctas! Si su reloj está mal ajustado, Adz Core no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</source>
+        <translation>Aviso: ¡Por favor compruebe que la fecha y hora de su computadora son correctas! Si su reloj está mal ajustado, AdzCoin Core no funcionará correctamente.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
@@ -3801,8 +3801,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Alerta de Adz" admin@foo.com
         <translation>Copyright (C) 2009-%i Los Desarrolladores de Bitcoin Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
-        <translation>Copyright (C) 2014-%i Los Desarrolladores de Adz Core</translation>
+        <source>Copyright (C) 2014-%i The AdzCoin Core Developers</source>
+        <translation>Copyright (C) 2014-%i Los Desarrolladores de AdzCoin Core</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
@@ -3833,8 +3833,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Alerta de Adz" admin@foo.com
         <translation>Error al conectar al Nodo Maestro.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de Adz Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de AdzCoin Core</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
@@ -3905,8 +3905,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Alerta de Adz" admin@foo.com
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
-        <translation>La comprobación de validez de inicio falló. Adz Core se está cerrando.</translation>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
+        <translation>La comprobación de validez de inicio falló. AdzCoin Core se está cerrando.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4157,8 +4157,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Alerta de Adz" admin@foo.com
         <translation>Usar UPnP para asignar el puerto de escucha (predeterminado: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
-        <translation>El monedero se ha de reescribir: reinicie Adz Core para completarlo</translation>
+        <source>Wallet needed to be rewritten: restart AdzCoin Core to complete</source>
+        <translation>El monedero se ha de reescribir: reinicie AdzCoin Core para completarlo</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>

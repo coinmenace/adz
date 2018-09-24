@@ -219,8 +219,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core
 </translation>
     </message>
     <message>
@@ -244,7 +244,7 @@
         <translation>&amp;Skicka</translation>
     </message>
     <message>
-        <source>Send coins to a Adz address</source>
+        <source>Send coins to a AdzCoin address</source>
         <translation>Skicka mynt till en Adz-adress</translation>
     </message>
     <message>
@@ -272,8 +272,8 @@
         <translation>Avsluta applikationen</translation>
     </message>
     <message>
-        <source>&amp;About Adz Core</source>
-        <translation>&amp;Om Adz Core</translation>
+        <source>&amp;About AdzCoin Core</source>
+        <translation>&amp;Om AdzCoin Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -412,8 +412,8 @@
         <translation>&amp;Kommandoradalternativ</translation>
     </message>
     <message>
-        <source>Show the Adz Core help message to get a list with possible Adz command-line options</source>
-        <translation>Visa Adz Core-hjälpmeddelandet för att få en lista med möjliga Adz-kommandoradalternativ</translation>
+        <source>Show the AdzCoin Core help message to get a list with possible Adz command-line options</source>
+        <translation>Visa AdzCoin Core-hjälpmeddelandet för att få en lista med möjliga Adz-kommandoradalternativ</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -841,7 +841,7 @@ Adress: %4
         <translation>Redigera avsändaradress</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Adz address.</source>
+        <source>The entered address "%1" is not a valid AdzCoin address.</source>
         <translation>Den angivna adressen "%1" är inte en giltig Adz-adress.</translation>
     </message>
     <message>
@@ -883,8 +883,8 @@ Adress: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core
 </translation>
     </message>
     <message>
@@ -931,16 +931,16 @@ Adress: %4
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to Adz Core.</source>
-        <translation>Välkommen till Adz Core.</translation>
+        <source>Welcome to AdzCoin Core.</source>
+        <translation>Välkommen till AdzCoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
-        <translation>Då detta är första gången programmet startas kan du välja var Adz Core ska lagra sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
+        <translation>Då detta är första gången programmet startas kan du välja var AdzCoin Core ska lagra sin data.</translation>
     </message>
     <message>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Adz Core kommer att laddas ned och lagra en kopia av Adz:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AdzCoin Core kommer att laddas ned och lagra en kopia av Adz:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1899,7 +1899,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Fel: Plånboken låstes upp enbart för att anonymisera mynt.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Adz address</source>
+        <source>Warning: Invalid AdzCoin address</source>
         <translation>Varning: Ogiltig Adz-adress</translation>
     </message>
     <message>
@@ -1985,8 +1985,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Adz Core is shutting down...</source>
-        <translation>Adz Core stängs ned...</translation>
+        <source>AdzCoin Core is shutting down...</source>
+        <translation>AdzCoin Core stängs ned...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2036,7 +2036,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Kopiera den nuvarande valda signaturen till systemurklippet</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Adz address</source>
+        <source>Sign the message to prove you own this AdzCoin address</source>
         <translation>Signera meddelandet för att bevisa att du äger denna Adz-adress</translation>
     </message>
     <message>
@@ -2060,7 +2060,7 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Skriv in signeringsadressen, meddelandet, (försäkra dig om att du kopierar linjeavbrott, mellanslag, flikar med mera) och signera nedtill för att verifiera meddelandet. Var försiktig med att inte läsa in mer i signaturen än vad som finns i det signerade meddelandet för att undvika att bli lurad av en mellanhandattack.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
         <translation>Bekräfta meddelandet för att försäkra dig om att den signerades med den angivna Adz-adressen</translation>
     </message>
     <message>
@@ -2127,8 +2127,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Adz Core</source>
-        <translation>Adz Core
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core
 </translation>
     </message>
     <message>
@@ -2140,8 +2140,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Bitcoin Core-utvecklarna</translation>
     </message>
     <message>
-        <source>The Adz Core developers</source>
-        <translation>Adz Core-utvecklarna</translation>
+        <source>The AdzCoin Core developers</source>
+        <translation>AdzCoin Core-utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2662,8 +2662,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Sammanbind till fastställd adress och avlyssna alltid den. Använd [host]:port-notation för IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
-        <translation>Kan inte erhålla ett lås på datakatalog %s. Adz Core körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
+        <translation>Kan inte erhålla ett lås på datakatalog %s. AdzCoin Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Darksend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -2718,8 +2718,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Detta är en förhandsutgiven testkompilering - använd på egen risk - använd inte för utvinning eller handlarapplikationer.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
-        <translation>Det går inte att binda till %s till denna dator. Adz Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
+        <translation>Det går inte att binda till %s till denna dator. AdzCoin Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Darksend denominated funds for this transaction.</source>
@@ -2942,8 +2942,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
-        <translation>Initialiseringstillståndkontroll misslyckades. Adz Core stängs ned.</translation>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
+        <translation>Initialiseringstillståndkontroll misslyckades. AdzCoin Core stängs ned.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>

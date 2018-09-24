@@ -235,8 +235,8 @@
     </message>
     <message>
         <location line="+57"/>
-        <source>Adz Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
-        <translation>Adz Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</translation>
+        <source>AdzCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</source>
+        <translation>AdzCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Adzcoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -309,8 +309,8 @@
     <message>
         <location filename="../bitcoingui.cpp" line="+127"/>
         <location line="+919"/>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <location line="-910"/>
@@ -339,8 +339,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Send coins to a Adz address</source>
-        <translation>Send coins to a Adz address</translation>
+        <source>Send coins to a AdzCoin address</source>
+        <translation>Send coins to a AdzCoin address</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -384,13 +384,13 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;About Adz Core</source>
-        <translation>&amp;About Adz Core</translation>
+        <source>&amp;About AdzCoin Core</source>
+        <translation>&amp;About AdzCoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Adz Core</source>
-        <translation>Show information about Adz Core</translation>
+        <source>Show information about AdzCoin Core</source>
+        <translation>Show information about AdzCoin Core</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -584,8 +584,8 @@
     </message>
     <message>
         <location line="+267"/>
-        <source>Adz Core client</source>
-        <translation>Adz Core client</translation>
+        <source>AdzCoin Core client</source>
+        <translation>AdzCoin Core client</translation>
     </message>
     <message>
         <location line="+334"/>
@@ -654,8 +654,8 @@
     </message>
     <message>
         <location line="-567"/>
-        <source>Modify configuration options for Adz Core</source>
-        <translation>Modify configuration options for Adz Core</translation>
+        <source>Modify configuration options for AdzCoin Core</source>
+        <translation>Modify configuration options for AdzCoin Core</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -674,8 +674,8 @@
     </message>
     <message>
         <location line="+20"/>
-        <source>Show the Adz Core help message to get a list with possible Adz Core command-line options</source>
-        <translation>Show the Adz Core help message to get a list with possible Adz Core command-line options</translation>
+        <source>Show the AdzCoin Core help message to get a list with possible AdzCoin Core command-line options</source>
+        <translation>Show the AdzCoin Core help message to get a list with possible AdzCoin Core command-line options</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1269,8 +1269,8 @@
     </message>
     <message>
         <location line="+71"/>
-        <source>The entered address &quot;%1&quot; is not a valid Adz address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Adz address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AdzCoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid AdzCoin address.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1320,8 +1320,8 @@
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+37"/>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1336,8 +1336,8 @@
     </message>
     <message>
         <location line="+5"/>
-        <source>About Adz Core</source>
-        <translation>About Adz Core</translation>
+        <source>About AdzCoin Core</source>
+        <translation>About AdzCoin Core</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1409,18 +1409,18 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Adz Core.</source>
-        <translation>Welcome to Adz Core.</translation>
+        <source>Welcome to AdzCoin Core.</source>
+        <translation>Welcome to AdzCoin Core.</translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Adz Core will store its data.</source>
-        <translation>As this is the first time the program is launched, you can choose where Adz Core will store its data.</translation>
+        <source>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</source>
+        <translation>As this is the first time the program is launched, you can choose where AdzCoin Core will store its data.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Adz Core will download and store a copy of the Adz block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AdzCoin Core will download and store a copy of the AdzCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1434,8 +1434,8 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+88"/>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1685,13 +1685,13 @@
     </message>
     <message>
         <location line="-104"/>
-        <source>Automatically start Adz Core after logging in to the system.</source>
-        <translation>Automatically start Adz Core after logging in to the system.</translation>
+        <source>Automatically start AdzCoin Core after logging in to the system.</source>
+        <translation>Automatically start AdzCoin Core after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Adz Core on system login</source>
-        <translation>&amp;Start Adz Core on system login</translation>
+        <source>&amp;Start AdzCoin Core on system login</source>
+        <translation>&amp;Start AdzCoin Core on system login</translation>
     </message>
     <message>
         <location line="+123"/>
@@ -1750,8 +1750,8 @@
     </message>
     <message>
         <location line="+60"/>
-        <source>Automatically open the Adz Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Adz Core client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the AdzCoin Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the AdzCoin Core client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1780,8 +1780,8 @@
     </message>
     <message>
         <location line="+45"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Adz Core.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Adz Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AdzCoin Core.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting AdzCoin Core.</translation>
     </message>
     <message>
         <location line="+99"/>
@@ -2414,8 +2414,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</source>
-        <translation>URI cannot be parsed! This can be caused by an invalid Adz address or malformed URI parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</source>
+        <translation>URI cannot be parsed! This can be caused by an invalid AdzCoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -2521,8 +2521,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+119"/>
-        <source>Enter a Adz address (e.g. %1)</source>
-        <translation>Enter a Adz address (e.g. %1)</translation>
+        <source>Enter a AdzCoin address (e.g. %1)</source>
+        <translation>Enter a AdzCoin address (e.g. %1)</translation>
     </message>
     <message>
         <location line="+857"/>
@@ -2722,8 +2722,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+48"/>
-        <source>Open the Adz Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Adz Core debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the AdzCoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the AdzCoin Core debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -2990,8 +2990,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+148"/>
-        <source>Welcome to the Adz Core RPC console.</source>
-        <translation>Welcome to the Adz Core RPC console.</translation>
+        <source>Welcome to the AdzCoin Core RPC console.</source>
+        <translation>Welcome to the AdzCoin Core RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3675,8 +3675,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+229"/>
-        <source>Warning: Invalid Adz address</source>
-        <translation>Warning: Invalid Adz address</translation>
+        <source>Warning: Invalid AdzCoin address</source>
+        <translation>Warning: Invalid AdzCoin address</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3703,8 +3703,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The Adz address to send the payment to</source>
-        <translation>The Adz address to send the payment to</translation>
+        <source>The AdzCoin address to send the payment to</source>
+        <translation>The AdzCoin address to send the payment to</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3802,8 +3802,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+119"/>
-        <source>Adz Core is shutting down...</source>
-        <translation>Adz Core is shutting down...</translation>
+        <source>AdzCoin Core is shutting down...</source>
+        <translation>AdzCoin Core is shutting down...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3830,8 +3830,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The Adz address to sign the message with</source>
-        <translation>The Adz address to sign the message with</translation>
+        <source>The AdzCoin address to sign the message with</source>
+        <translation>The AdzCoin address to sign the message with</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3872,8 +3872,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+17"/>
-        <source>Sign the message to prove you own this Adz address</source>
-        <translation>Sign the message to prove you own this Adz address</translation>
+        <source>Sign the message to prove you own this AdzCoin address</source>
+        <translation>Sign the message to prove you own this AdzCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3903,13 +3903,13 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The Adz address the message was signed with</source>
-        <translation>The Adz address the message was signed with</translation>
+        <source>The AdzCoin address the message was signed with</source>
+        <translation>The AdzCoin address the message was signed with</translation>
     </message>
     <message>
         <location line="+33"/>
-        <source>Verify the message to ensure it was signed with the specified Adz address</source>
-        <translation>Verify the message to ensure it was signed with the specified Adz address</translation>
+        <source>Verify the message to ensure it was signed with the specified AdzCoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified AdzCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3997,8 +3997,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+45"/>
-        <source>Adz Core</source>
-        <translation>Adz Core</translation>
+        <source>AdzCoin Core</source>
+        <translation>AdzCoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4012,8 +4012,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>The Adz Core developers</source>
-        <translation>The Adz Core developers</translation>
+        <source>The AdzCoin Core developers</source>
+        <translation>The AdzCoin Core developers</translation>
     </message>
     <message>
         <location filename="../networkstyle.cpp" line="+21"/>
@@ -4731,8 +4731,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Adz Core is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. AdzCoin Core is probably already running.</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -4781,8 +4781,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Unable to bind to %s on this computer. Adz Core is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Adz Core is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. AdzCoin Core is probably already running.</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -5131,8 +5131,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2014-%i The Adz Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Adz Core Developers</translation>
+        <source>Copyright (C) 2014-%i The AdzCoin Core Developers</source>
+        <translation>Copyright (C) 2014-%i The AdzCoin Core Developers</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -5146,8 +5146,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adz Core</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Adz Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of AdzCoin Core</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -5201,8 +5201,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. Adz Core is shutting down.</source>
-        <translation>Initialization sanity check failed. Adz Core is shutting down.</translation>
+        <source>Initialization sanity check failed. AdzCoin Core is shutting down.</source>
+        <translation>Initialization sanity check failed. AdzCoin Core is shutting down.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5491,8 +5491,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Wallet needed to be rewritten: restart Adz Core to complete</source>
-        <translation>Wallet needed to be rewritten: restart Adz Core to complete</translation>
+        <source>Wallet needed to be rewritten: restart AdzCoin Core to complete</source>
+        <translation>Wallet needed to be rewritten: restart AdzCoin Core to complete</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -5656,8 +5656,8 @@ https://www.transifex.com/projects/p/Adz/</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Adz Core will not work properly.</source>
-        <translation>Please check that your computer&apos;s date and time are correct! If your clock is wrong Adz Core will not work properly.</translation>
+        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</source>
+        <translation>Please check that your computer&apos;s date and time are correct! If your clock is wrong AdzCoin Core will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
