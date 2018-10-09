@@ -291,7 +291,10 @@ CBlockTemplate* CreateNewBlock(const CChainParams& chainparams, const CScript& s
 
         // Update coinbase transaction with additional info about masternode and governance payments,
         // get some info back to pass to getblocktemplate
+        // we start masternode payments on block 500,000
+        if(nHeight>=chainparams.getStartMasternodeBlockHeight()){
         FillBlockPayments(txNew, nHeight, blockReward, pblock->txoutMasternode, pblock->voutSuperblock);
+        }
 
         nLastBlockTx = nBlockTx;
         nLastBlockSize = nBlockSize;

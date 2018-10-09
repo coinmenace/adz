@@ -145,23 +145,14 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x00000f27bd42306ee2f582232a7fce3815c32a1f950d6d7f52ad2bbc560c2e66"));
         assert(genesis.hashMerkleRoot == uint256S("0xf852a09b11789c212e4915da0010c2f261214cd8993e55bae5edc04f31f764a9"));
 
-/**
-        vSeeds.push_back(CDNSSeedData("seed1", "seed1.cryptolife.net"));
-        vSeeds.push_back(CDNSSeedData("seed2", "seed2.cryptolife.net"));
-        vSeeds.push_back(CDNSSeedData("seed3", "46.28.107.182"));
-        vSeeds.push_back(CDNSSeedData("seed4", "176.31.106.35"));
-        vSeeds.push_back(CDNSSeedData("seed5", "144.76.237.39"));
-        vSeeds.push_back(CDNSSeedData("seed6", "124.194.44.219"));
-        vSeeds.push_back(CDNSSeedData("seed7", "5.189.167.223"));
-        vSeeds.push_back(CDNSSeedData("seed8", "136.243.50.159"));
-        vSeeds.push_back(CDNSSeedData("seed9", "104.131.171.212"));
-        */
-            vSeeds.push_back(CDNSSeedData("seed9", "194.88.105.45"));
-            vSeeds.push_back(CDNSSeedData("seed9", "192.99.224.33"));
-            vSeeds.push_back(CDNSSeedData("seed9", "176.31.255.12"));
-            vSeeds.push_back(CDNSSeedData("seed9", "204.16.247.51"));
-            vSeeds.push_back(CDNSSeedData("seed9", "185.52.3.247"));
-
+        vSeeds.push_back(CDNSSeedData("seed1", "165.227.16.98"));
+        vSeeds.push_back(CDNSSeedData("seed2", "209.97.182.178"));
+        vSeeds.push_back(CDNSSeedData("seed3", "178.128.87.193"));
+        vSeeds.push_back(CDNSSeedData("seed4", "seed1.cryptolife.net"));
+        vSeeds.push_back(CDNSSeedData("seed5", "seed2.cryptolife.net"));
+        vSeeds.push_back(CDNSSeedData("seed6", "194.88.105.45"));
+        vSeeds.push_back(CDNSSeedData("seed7", "192.99.224.33"));
+        vSeeds.push_back(CDNSSeedData("seed8", "176.31.255.12"));
 	
 	   // Adzcoin addresses start with 'R'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,20);
@@ -294,7 +285,7 @@ public:
         fRequireStandard = false;
         fMineBlocksOnDemand = false;
         fTestnetToBeDeprecatedFieldRPC = true;
-
+        startMasternodeBlock = 1;
         nPoolMaxTransactions = 3;
         nFulfilledRequestExpireTime = 5*60; // fulfilled requests expire in 5 minutes
         strSporkPubKey = "04bd429fcefdd9775510ebb36e824e8184659c72fdc09e4083f129b5de2971032941a43e1114c0da68ece23d5e60dc830fa40b525fb64c2447ed411b4830531a92";
@@ -382,7 +373,7 @@ public:
         fRequireStandard = false;
         fMineBlocksOnDemand = true;
         fTestnetToBeDeprecatedFieldRPC = false;
-
+        startMasternodeBlock = 1;
         nFulfilledRequestExpireTime = 5*60; // fulfilled requests expire in 5 minutes
 
         checkpointData = (CCheckpointData){
